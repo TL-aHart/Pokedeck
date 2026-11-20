@@ -1,0 +1,63 @@
+printed cards: 4577
+unique playable cards: 1958
+
+missing values in raw dataset:
+element         416
+stage           406
+health          416
+retreatCost     416
+weakness        580
+evolvesFrom    2710
+goodWith       4292
+
+unique cards by type:
+type
+pokemon      1781
+supporter      88
+item           40
+tool           28
+stadium        14
+fossil          7
+
+pokemon by element (label classes):
+element
+water        268
+grass        236
+psychic      223
+colorless    221
+fighting     211
+darkness     173
+fire         145
+lightning    135
+metal        110
+dragon        59
+
+pokemon HP: mean 96.5, std 36.8, outliers (|z| > 3): 20
+               name  health
+   Mega Blaziken ex     210
+   Mega Gyarados ex     210
+   Mega Ampharos ex     210
+    Mega Pidgeot ex     210
+   Mega Sceptile ex     210
+   Mega Garchomp ex     220
+   Mega Venusaur ex     240
+Mega Charizard Y ex     220
+  Mega Blastoise ex     230
+    Mega Steelix ex     220
+   Mega Swampert ex     230
+  Mega Gardevoir ex     210
+Mega Charizard X ex     220
+     Mega Gengar ex     210
+   Mega Camerupt ex     210
+         Wailord ex     250
+    Mega Gallade ex     220
+  Mega Metagross ex     230
+  Mega Tyranitar ex     240
+  Mega Dragonite ex     240
+
+pokemon HP by stage:
+       count   mean   std   min    25%    50%    75%    max
+stage                                                      
+1      649.0  106.4  26.1  60.0   90.0  100.0  120.0  250.0
+2      206.0  153.4  26.2  90.0  140.0  150.0  160.0  240.0
+basic  926.0   76.9  28.3  30.0   60.0   70.0   90.0  180.0

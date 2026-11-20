@@ -1,0 +1,1959 @@
+name_key,type,element,stage,health,retreatCost,weakness,evolvesFrom,name,first_set,first_number,release_date,n_prints,is_ex,card_id,is_primary
+bulbasaur,pokemon,grass,basic,70,1,fire,,Bulbasaur,A1,1,2024-10-30,6,False,bulbasaur,True
+ivysaur,pokemon,grass,1,90,2,fire,bulbasaur,Ivysaur,A1,2,2024-10-30,4,False,ivysaur,True
+venusaur,pokemon,grass,2,160,3,fire,ivysaur,Venusaur,A1,3,2024-10-30,4,False,venusaur,True
+venusaur ex,pokemon,grass,2,190,3,fire,ivysaur,Venusaur ex,A1,4,2024-10-30,4,True,venusaur_ex,True
+caterpie,pokemon,grass,basic,50,1,fire,,Caterpie,A1,5,2024-10-30,1,False,caterpie,True
+metapod,pokemon,grass,1,80,2,fire,caterpie,Metapod,A1,6,2024-10-30,5,False,metapod,True
+butterfree,pokemon,grass,2,120,1,fire,metapod,Butterfree,A1,7,2024-10-30,2,False,butterfree,True
+weedle,pokemon,grass,basic,50,1,fire,,Weedle,A1,8,2024-10-30,5,False,weedle,True
+kakuna,pokemon,grass,1,80,2,fire,weedle,Kakuna,A1,9,2024-10-30,5,False,kakuna,True
+beedrill,pokemon,grass,2,120,1,fire,kakuna,Beedrill,A1,10,2024-10-30,1,False,beedrill,True
+oddish,pokemon,grass,basic,60,1,fire,,Oddish,A1,11,2024-10-30,2,False,oddish,True
+gloom,pokemon,grass,1,80,2,fire,oddish,Gloom,A1,12,2024-10-30,3,False,gloom,True
+vileplume,pokemon,grass,2,140,3,fire,gloom,Vileplume,A1,13,2024-10-30,2,False,vileplume,True
+paras,pokemon,grass,basic,70,1,fire,,Paras,A1,14,2024-10-30,1,False,paras,True
+parasect,pokemon,grass,1,120,2,fire,paras,Parasect,A1,15,2024-10-30,1,False,parasect,True
+venonat,pokemon,grass,basic,60,1,fire,,Venonat,A1,16,2024-10-30,1,False,venonat,True
+venomoth,pokemon,grass,1,80,1,fire,venonat,Venomoth,A1,17,2024-10-30,1,False,venomoth,True
+bellsprout,pokemon,grass,basic,60,1,fire,,Bellsprout,A1,18,2024-10-30,2,False,bellsprout,True
+weepinbell,pokemon,grass,1,90,2,fire,bellsprout,Weepinbell,A1,19,2024-10-30,2,False,weepinbell,True
+victreebel,pokemon,grass,2,140,2,fire,weepinbell,Victreebel,A1,20,2024-10-30,2,False,victreebel,True
+exeggcute,pokemon,grass,basic,50,1,fire,,Exeggcute,A1,21,2024-10-30,5,False,exeggcute,True
+exeggutor,pokemon,grass,1,130,3,fire,exeggcute,Exeggutor,A1,22,2024-10-30,4,False,exeggutor,True
+exeggutor ex,pokemon,grass,1,160,3,fire,exeggcute,Exeggutor ex,A1,23,2024-10-30,4,True,exeggutor_ex,True
+tangela,pokemon,grass,basic,80,2,fire,,Tangela,A1,24,2024-10-30,4,False,tangela,True
+scyther,pokemon,grass,basic,70,1,fire,,Scyther,A1,25,2024-10-30,6,False,scyther,True
+pinsir,pokemon,grass,basic,90,2,fire,,Pinsir,A1,26,2024-10-30,7,False,pinsir,True
+cottonee,pokemon,grass,basic,50,1,fire,,Cottonee,A1,27,2024-10-30,5,False,cottonee,True
+whimsicott,pokemon,grass,1,80,1,fire,cottonee,Whimsicott,A1,28,2024-10-30,1,False,whimsicott,True
+petilil,pokemon,grass,basic,60,1,fire,,Petilil,A1,29,2024-10-30,6,False,petilil,True
+lilligant,pokemon,grass,1,100,1,fire,petilil,Lilligant,A1,30,2024-10-30,1,False,lilligant,True
+skiddo,pokemon,grass,basic,70,1,fire,,Skiddo,A1,31,2024-10-30,1,False,skiddo,True
+gogoat,pokemon,grass,1,120,2,fire,skiddo,Gogoat,A1,32,2024-10-30,2,False,gogoat,True
+charmander,pokemon,fire,basic,60,1,water,,Charmander,A1,33,2024-10-30,10,False,charmander,True
+charmeleon,pokemon,fire,1,90,2,water,charmander,Charmeleon,A1,34,2024-10-30,5,False,charmeleon,True
+charizard,pokemon,fire,2,150,2,water,charmeleon,Charizard,A1,35,2024-10-30,1,False,charizard,True
+charizard ex,pokemon,fire,2,180,2,water,charmeleon,Charizard ex,A1,36,2024-10-30,6,True,charizard_ex,True
+vulpix,pokemon,fire,basic,50,1,water,,Vulpix,A1,37,2024-10-30,1,False,vulpix,True
+ninetales,pokemon,fire,1,90,1,water,vulpix,Ninetales,A1,38,2024-10-30,1,False,ninetales,True
+growlithe,pokemon,fire,basic,70,1,water,,Growlithe,A1,39,2024-10-30,4,False,growlithe,True
+arcanine,pokemon,fire,1,130,2,water,growlithe,Arcanine,A1,40,2024-10-30,2,False,arcanine,True
+arcanine ex,pokemon,fire,1,150,2,water,growlithe,Arcanine ex,A1,41,2024-10-30,4,True,arcanine_ex,True
+ponyta,pokemon,fire,basic,60,1,water,,Ponyta,A1,42,2024-10-30,9,False,ponyta,True
+rapidash,pokemon,fire,1,100,1,water,ponyta,Rapidash,A1,43,2024-10-30,5,False,rapidash,True
+magmar,pokemon,fire,basic,80,2,water,,Magmar,A1,44,2024-10-30,4,False,magmar,True
+flareon,pokemon,fire,1,120,2,water,eevee,Flareon,A1,45,2024-10-30,1,False,flareon,True
+moltres,pokemon,fire,basic,100,1,lightning,,Moltres,A1,46,2024-10-30,3,False,moltres,True
+moltres ex,pokemon,fire,basic,140,2,lightning,,Moltres ex,A1,47,2024-10-30,6,True,moltres_ex,True
+heatmor,pokemon,fire,basic,80,1,water,,Heatmor,A1,48,2024-10-30,2,False,heatmor,True
+salandit,pokemon,fire,basic,60,1,water,,Salandit,A1,49,2024-10-30,4,False,salandit,True
+salazzle,pokemon,fire,1,90,1,water,salandit,Salazzle,A1,50,2024-10-30,3,False,salazzle,True
+sizzlipede,pokemon,fire,basic,60,1,water,,Sizzlipede,A1,51,2024-10-30,1,False,sizzlipede,True
+centiskorch,pokemon,fire,1,130,3,water,sizzlipede,Centiskorch,A1,52,2024-10-30,1,False,centiskorch,True
+squirtle,pokemon,water,basic,60,1,lightning,,Squirtle,A1,53,2024-10-30,8,False,squirtle,True
+wartortle,pokemon,water,1,80,1,lightning,squirtle,Wartortle,A1,54,2024-10-30,4,False,wartortle,True
+blastoise,pokemon,water,2,150,3,lightning,wartortle,Blastoise,A1,55,2024-10-30,4,False,blastoise,True
+blastoise ex,pokemon,water,2,180,3,lightning,wartortle,Blastoise ex,A1,56,2024-10-30,4,True,blastoise_ex,True
+psyduck,pokemon,water,basic,60,1,lightning,,Psyduck,A1,57,2024-10-30,5,False,psyduck,True
+golduck,pokemon,water,1,90,1,lightning,psyduck,Golduck,A1,58,2024-10-30,4,False,golduck,True
+poliwag,pokemon,water,basic,60,1,lightning,,Poliwag,A1,59,2024-10-30,6,False,poliwag,True
+poliwhirl,pokemon,water,1,90,2,lightning,poliwag,Poliwhirl,A1,60,2024-10-30,2,False,poliwhirl,True
+poliwrath,pokemon,water,2,150,2,lightning,poliwhirl,Poliwrath,A1,61,2024-10-30,2,False,poliwrath,True
+tentacool,pokemon,water,basic,60,1,lightning,,Tentacool,A1,62,2024-10-30,2,False,tentacool,True
+tentacruel,pokemon,water,1,110,2,lightning,tentacool,Tentacruel,A1,63,2024-10-30,2,False,tentacruel,True
+seel,pokemon,water,basic,80,2,lightning,,Seel,A1,64,2024-10-30,1,False,seel,True
+dewgong,pokemon,water,1,120,3,lightning,seel,Dewgong,A1,65,2024-10-30,1,False,dewgong,True
+shellder,pokemon,water,basic,60,1,lightning,,Shellder,A1,66,2024-10-30,2,False,shellder,True
+cloyster,pokemon,water,1,120,3,lightning,shellder,Cloyster,A1,67,2024-10-30,1,False,cloyster,True
+krabby,pokemon,water,basic,70,2,lightning,,Krabby,A1,68,2024-10-30,2,False,krabby,True
+kingler,pokemon,water,1,120,3,lightning,krabby,Kingler,A1,69,2024-10-30,2,False,kingler,True
+horsea,pokemon,water,basic,60,1,lightning,,Horsea,A1,70,2024-10-30,2,False,horsea,True
+seadra,pokemon,water,1,70,1,lightning,horsea,Seadra,A1,71,2024-10-30,1,False,seadra,True
+goldeen,pokemon,water,basic,60,1,lightning,,Goldeen,A1,72,2024-10-30,1,False,goldeen,True
+seaking,pokemon,water,1,100,1,lightning,goldeen,Seaking,A1,73,2024-10-30,1,False,seaking,True
+staryu,pokemon,water,basic,50,1,lightning,,Staryu,A1,74,2024-10-30,5,False,staryu,True
+starmie,pokemon,water,1,90,0,lightning,staryu,Starmie,A1,75,2024-10-30,2,False,starmie,True
+starmie ex,pokemon,water,1,130,0,lightning,staryu,Starmie ex,A1,76,2024-10-30,4,True,starmie_ex,True
+magikarp,pokemon,water,basic,30,1,lightning,,Magikarp,A1,77,2024-10-30,11,False,magikarp,True
+gyarados,pokemon,water,1,150,4,lightning,magikarp,Gyarados,A1,78,2024-10-30,2,False,gyarados,True
+lapras,pokemon,water,basic,100,2,lightning,,Lapras,A1,79,2024-10-30,5,False,lapras,True
+vaporeon,pokemon,water,1,130,2,lightning,eevee,Vaporeon,A1,80,2024-10-30,2,False,vaporeon,True
+omanyte,pokemon,water,1,90,1,lightning,helix fossil,Omanyte,A1,81,2024-10-30,2,False,omanyte,True
+omastar,pokemon,water,2,140,2,lightning,omanyte,Omastar,A1,82,2024-10-30,2,False,omastar,True
+articuno,pokemon,water,basic,100,1,lightning,,Articuno,A1,83,2024-10-30,2,False,articuno,True
+articuno ex,pokemon,water,basic,140,2,lightning,,Articuno ex,A1,84,2024-10-30,5,True,articuno_ex,True
+ducklett,pokemon,water,basic,50,1,lightning,,Ducklett,A1,85,2024-10-30,1,False,ducklett,True
+swanna,pokemon,water,1,90,1,lightning,ducklett,Swanna,A1,86,2024-10-30,1,False,swanna,True
+froakie,pokemon,water,basic,60,1,lightning,,Froakie,A1,87,2024-10-30,11,False,froakie,True
+frogadier,pokemon,water,1,80,1,lightning,froakie,Frogadier,A1,88,2024-10-30,7,False,frogadier,True
+greninja,pokemon,water,2,120,1,lightning,frogadier,Greninja,A1,89,2024-10-30,6,False,greninja,True
+pyukumuku,pokemon,water,basic,70,1,lightning,,Pyukumuku,A1,90,2024-10-30,1,False,pyukumuku,True
+bruxish,pokemon,water,basic,90,1,lightning,,Bruxish,A1,91,2024-10-30,1,False,bruxish,True
+snom,pokemon,water,basic,50,1,metal,,Snom,A1,92,2024-10-30,3,False,snom,True
+frosmoth,pokemon,water,1,90,1,metal,snom,Frosmoth,A1,93,2024-10-30,1,False,frosmoth,True
+pikachu,pokemon,lightning,basic,60,1,fighting,,Pikachu,A1,94,2024-10-30,19,False,pikachu,True
+raichu,pokemon,lightning,1,100,1,fighting,pikachu,Raichu,A1,95,2024-10-30,3,False,raichu,True
+pikachu ex,pokemon,lightning,basic,120,1,fighting,,Pikachu ex,A1,96,2024-10-30,17,True,pikachu_ex,True
+magnemite,pokemon,lightning,basic,60,1,fighting,,Magnemite,A1,97,2024-10-30,7,False,magnemite,True
+magneton,pokemon,lightning,1,80,2,fighting,magnemite,Magneton,A1,98,2024-10-30,7,False,magneton,True
+voltorb,pokemon,lightning,basic,60,1,fighting,,Voltorb,A1,99,2024-10-30,4,False,voltorb,True
+electrode,pokemon,lightning,1,80,0,fighting,voltorb,Electrode,A1,100,2024-10-30,2,False,electrode,True
+electabuzz,pokemon,lightning,basic,70,1,fighting,,Electabuzz,A1,101,2024-10-30,4,False,electabuzz,True
+jolteon,pokemon,lightning,1,90,1,fighting,eevee,Jolteon,A1,102,2024-10-30,5,False,jolteon,True
+zapdos,pokemon,lightning,basic,100,1,lightning,,Zapdos,A1,103,2024-10-30,3,False,zapdos,True
+zapdos ex,pokemon,lightning,basic,130,1,lightning,,Zapdos ex,A1,104,2024-10-30,5,True,zapdos_ex,True
+blitzle,pokemon,lightning,basic,60,1,fighting,,Blitzle,A1,105,2024-10-30,3,False,blitzle,True
+zebstrika,pokemon,lightning,1,90,1,fighting,blitzle,Zebstrika,A1,106,2024-10-30,3,False,zebstrika,True
+tynamo,pokemon,lightning,basic,30,1,fighting,,Tynamo,A1,107,2024-10-30,1,False,tynamo,True
+eelektrik,pokemon,lightning,1,80,2,fighting,tynamo,Eelektrik,A1,108,2024-10-30,1,False,eelektrik,True
+eelektross,pokemon,lightning,2,140,3,fighting,eelektrik,Eelektross,A1,109,2024-10-30,2,False,eelektross,True
+helioptile,pokemon,lightning,basic,60,1,fighting,,Helioptile,A1,110,2024-10-30,6,False,helioptile,True
+heliolisk,pokemon,lightning,1,90,1,fighting,helioptile,Heliolisk,A1,111,2024-10-30,2,False,heliolisk,True
+pincurchin,pokemon,lightning,basic,70,1,fighting,,Pincurchin,A1,112,2024-10-30,1,False,pincurchin,True
+clefairy,pokemon,psychic,basic,60,1,metal,,Clefairy,A1,113,2024-10-30,7,False,clefairy,True
+clefable,pokemon,psychic,1,100,1,metal,clefairy,Clefable,A1,114,2024-10-30,3,False,clefable,True
+abra,pokemon,psychic,basic,60,1,darkness,,Abra,A1,115,2024-10-30,2,False,abra,True
+kadabra,pokemon,psychic,1,80,1,darkness,abra,Kadabra,A1,116,2024-10-30,4,False,kadabra,True
+alakazam,pokemon,psychic,2,130,2,darkness,kadabra,Alakazam,A1,117,2024-10-30,2,False,alakazam,True
+slowpoke,pokemon,psychic,basic,70,2,darkness,,Slowpoke,A1,118,2024-10-30,4,False,slowpoke,True
+slowbro,pokemon,psychic,1,130,3,darkness,slowpoke,Slowbro,A1,119,2024-10-30,3,False,slowbro,True
+gastly,pokemon,psychic,basic,60,1,darkness,,Gastly,A1,120,2024-10-30,3,False,gastly,True
+haunter,pokemon,psychic,1,80,1,darkness,gastly,Haunter,A1,121,2024-10-30,5,False,haunter,True
+gengar,pokemon,psychic,2,130,2,darkness,haunter,Gengar,A1,122,2024-10-30,2,False,gengar,True
+gengar ex,pokemon,psychic,2,170,2,darkness,haunter,Gengar ex,A1,123,2024-10-30,5,True,gengar_ex,True
+drowzee,pokemon,psychic,basic,70,2,darkness,,Drowzee,A1,124,2024-10-30,2,False,drowzee,True
+hypno,pokemon,psychic,1,100,2,darkness,drowzee,Hypno,A1,125,2024-10-30,3,False,hypno,True
+mr. mime,pokemon,psychic,basic,80,1,darkness,,Mr. Mime,A1,126,2024-10-30,2,False,mr_mime,True
+jynx,pokemon,psychic,basic,80,1,darkness,,Jynx,A1,127,2024-10-30,4,False,jynx,True
+mewtwo,pokemon,psychic,basic,120,2,darkness,,Mewtwo,A1,128,2024-10-30,4,False,mewtwo,True
+mewtwo ex,pokemon,psychic,basic,150,2,darkness,,Mewtwo ex,A1,129,2024-10-30,7,True,mewtwo_ex,True
+ralts,pokemon,psychic,basic,60,1,darkness,,Ralts,A1,130,2024-10-30,11,False,ralts,True
+kirlia,pokemon,psychic,1,80,1,darkness,ralts,Kirlia,A1,131,2024-10-30,10,False,kirlia,True
+gardevoir,pokemon,psychic,2,110,2,darkness,kirlia,Gardevoir,A1,132,2024-10-30,5,False,gardevoir,True
+woobat,pokemon,psychic,basic,60,1,darkness,,Woobat,A1,133,2024-10-30,3,False,woobat,True
+swoobat,pokemon,psychic,1,90,1,darkness,woobat,Swoobat,A1,134,2024-10-30,2,False,swoobat,True
+golett,pokemon,psychic,basic,90,3,darkness,,Golett,A1,135,2024-10-30,1,False,golett,True
+golurk,pokemon,psychic,1,140,4,darkness,golett,Golurk,A1,136,2024-10-30,1,False,golurk,True
+sandshrew,pokemon,fighting,basic,70,1,grass,,Sandshrew,A1,137,2024-10-30,1,False,sandshrew,True
+sandslash,pokemon,fighting,1,100,2,grass,sandshrew,Sandslash,A1,138,2024-10-30,1,False,sandslash,True
+diglett,pokemon,fighting,basic,50,1,grass,,Diglett,A1,139,2024-10-30,3,False,diglett,True
+dugtrio,pokemon,fighting,1,70,1,grass,diglett,Dugtrio,A1,140,2024-10-30,1,False,dugtrio,True
+mankey,pokemon,fighting,basic,60,1,psychic,,Mankey,A1,141,2024-10-30,2,False,mankey,True
+primeape,pokemon,fighting,1,90,1,psychic,mankey,Primeape,A1,142,2024-10-30,2,False,primeape,True
+machop,pokemon,fighting,basic,70,2,psychic,,Machop,A1,143,2024-10-30,4,False,machop,True
+machoke,pokemon,fighting,1,100,2,psychic,machop,Machoke,A1,144,2024-10-30,5,False,machoke,True
+machamp,pokemon,fighting,2,150,3,psychic,machoke,Machamp,A1,145,2024-10-30,1,False,machamp,True
+machamp ex,pokemon,fighting,2,180,3,psychic,machoke,Machamp ex,A1,146,2024-10-30,5,True,machamp_ex,True
+geodude,pokemon,fighting,basic,70,2,grass,,Geodude,A1,147,2024-10-30,3,False,geodude,True
+graveler,pokemon,fighting,1,100,3,grass,geodude,Graveler,A1,148,2024-10-30,3,False,graveler,True
+golem,pokemon,fighting,2,160,4,grass,graveler,Golem,A1,149,2024-10-30,1,False,golem,True
+onix,pokemon,fighting,basic,110,4,grass,,Onix,A1,150,2024-10-30,2,False,onix,True
+cubone,pokemon,fighting,basic,60,1,grass,,Cubone,A1,151,2024-10-30,7,False,cubone,True
+marowak,pokemon,fighting,1,100,1,grass,cubone,Marowak,A1,152,2024-10-30,2,False,marowak,True
+marowak ex,pokemon,fighting,1,140,1,grass,cubone,Marowak ex,A1,153,2024-10-30,4,True,marowak_ex,True
+hitmonlee,pokemon,fighting,basic,80,1,psychic,,Hitmonlee,A1,154,2024-10-30,3,False,hitmonlee,True
+hitmonchan,pokemon,fighting,basic,80,1,psychic,,Hitmonchan,A1,155,2024-10-30,2,False,hitmonchan,True
+rhyhorn,pokemon,fighting,basic,80,3,grass,,Rhyhorn,A1,156,2024-10-30,4,False,rhyhorn,True
+rhydon,pokemon,fighting,1,120,4,grass,rhyhorn,Rhydon,A1,157,2024-10-30,1,False,rhydon,True
+kabuto,pokemon,fighting,1,90,1,grass,dome fossil,Kabuto,A1,158,2024-10-30,2,False,kabuto,True
+kabutops,pokemon,fighting,2,140,1,grass,kabuto,Kabutops,A1,159,2024-10-30,2,False,kabutops,True
+mienfoo,pokemon,fighting,basic,60,1,psychic,,Mienfoo,A1,160,2024-10-30,2,False,mienfoo,True
+mienshao,pokemon,fighting,1,80,1,psychic,mienfoo,Mienshao,A1,161,2024-10-30,1,False,mienshao,True
+clobbopus,pokemon,fighting,basic,80,2,psychic,,Clobbopus,A1,162,2024-10-30,1,False,clobbopus,True
+grapploct,pokemon,fighting,1,130,3,psychic,clobbopus,Grapploct,A1,163,2024-10-30,1,False,grapploct,True
+ekans,pokemon,darkness,basic,60,1,fighting,,Ekans,A1,164,2024-10-30,3,False,ekans,True
+arbok,pokemon,darkness,1,100,2,fighting,ekans,Arbok,A1,165,2024-10-30,2,False,arbok,True
+nidoran f,pokemon,darkness,basic,60,1,fighting,,Nidoran♀,A1,166,2024-10-30,2,False,nidoran_f,True
+nidorina,pokemon,darkness,1,80,1,fighting,nidoran f,Nidorina,A1,167,2024-10-30,2,False,nidorina,True
+nidoqueen,pokemon,darkness,2,140,2,fighting,nidorina,Nidoqueen,A1,168,2024-10-30,3,False,nidoqueen,True
+nidoran m,pokemon,darkness,basic,60,1,fighting,,Nidoran♂,A1,169,2024-10-30,2,False,nidoran_m,True
+nidorino,pokemon,darkness,1,90,2,fighting,nidoran m,Nidorino,A1,170,2024-10-30,2,False,nidorino,True
+nidoking,pokemon,darkness,2,150,3,fighting,nidorino,Nidoking,A1,171,2024-10-30,3,False,nidoking,True
+zubat,pokemon,darkness,basic,50,1,fighting,,Zubat,A1,172,2024-10-30,7,False,zubat,True
+golbat,pokemon,darkness,1,70,1,fighting,zubat,Golbat,A1,173,2024-10-30,3,False,golbat,True
+grimer,pokemon,darkness,basic,70,3,fighting,,Grimer,A1,174,2024-10-30,1,False,grimer,True
+muk,pokemon,darkness,1,130,3,fighting,grimer,Muk,A1,175,2024-10-30,4,False,muk,True
+koffing,pokemon,darkness,basic,70,1,fighting,,Koffing,A1,176,2024-10-30,3,False,koffing,True
+weezing,pokemon,darkness,1,110,3,fighting,koffing,Weezing,A1,177,2024-10-30,3,False,weezing,True
+mawile,pokemon,metal,basic,70,1,fire,,Mawile,A1,178,2024-10-30,4,False,mawile,True
+pawniard,pokemon,metal,basic,50,1,fire,,Pawniard,A1,179,2024-10-30,1,False,pawniard,True
+bisharp,pokemon,metal,1,90,1,fire,pawniard,Bisharp,A1,180,2024-10-30,1,False,bisharp,True
+meltan,pokemon,metal,basic,60,1,fire,,Meltan,A1,181,2024-10-30,5,False,meltan,True
+melmetal,pokemon,metal,1,130,3,fire,meltan,Melmetal,A1,182,2024-10-30,1,False,melmetal,True
+dratini,pokemon,dragon,basic,70,1,none,,Dratini,A1,183,2024-10-30,2,False,dratini,True
+dragonair,pokemon,dragon,1,100,1,none,dratini,Dragonair,A1,184,2024-10-30,2,False,dragonair,True
+dragonite,pokemon,dragon,2,160,3,none,dragonair,Dragonite,A1,185,2024-10-30,2,False,dragonite,True
+pidgey,pokemon,colorless,basic,60,1,lightning,,Pidgey,A1,186,2024-10-30,5,False,pidgey,True
+pidgeotto,pokemon,colorless,1,80,1,lightning,pidgey,Pidgeotto,A1,187,2024-10-30,2,False,pidgeotto,True
+pidgeot,pokemon,colorless,2,130,1,lightning,pidgeotto,Pidgeot,A1,188,2024-10-30,4,False,pidgeot,True
+rattata,pokemon,colorless,basic,40,1,fighting,,Rattata,A1,189,2024-10-30,1,False,rattata,True
+raticate,pokemon,colorless,1,80,1,fighting,rattata,Raticate,A1,190,2024-10-30,6,False,raticate,True
+spearow,pokemon,colorless,basic,60,1,lightning,,Spearow,A1,191,2024-10-30,3,False,spearow,True
+fearow,pokemon,colorless,1,100,1,lightning,spearow,Fearow,A1,192,2024-10-30,1,False,fearow,True
+jigglypuff,pokemon,colorless,basic,60,1,fighting,,Jigglypuff,A1,193,2024-10-30,7,False,jigglypuff,True
+wigglytuff,pokemon,colorless,1,100,2,fighting,jigglypuff,Wigglytuff,A1,194,2024-10-30,5,False,wigglytuff,True
+wigglytuff ex,pokemon,colorless,1,140,2,fighting,jigglypuff,Wigglytuff ex,A1,195,2024-10-30,5,True,wigglytuff_ex,True
+meowth,pokemon,colorless,basic,60,1,fighting,,Meowth,A1,196,2024-10-30,4,False,meowth,True
+persian,pokemon,colorless,1,90,1,fighting,meowth,Persian,A1,197,2024-10-30,2,False,persian,True
+farfetch'd,pokemon,colorless,basic,60,1,lightning,,Farfetch’d,A1,198,2024-10-30,6,False,farfetch_d,True
+doduo,pokemon,colorless,basic,60,1,lightning,,Doduo,A1,199,2024-10-30,2,False,doduo,True
+dodrio,pokemon,colorless,1,80,0,lightning,doduo,Dodrio,A1,200,2024-10-30,2,False,dodrio,True
+lickitung,pokemon,colorless,basic,90,3,fighting,,Lickitung,A1,201,2024-10-30,1,False,lickitung,True
+chansey,pokemon,colorless,basic,120,3,fighting,,Chansey,A1,202,2024-10-30,2,False,chansey,True
+kangaskhan,pokemon,colorless,basic,100,3,fighting,,Kangaskhan,A1,203,2024-10-30,3,False,kangaskhan,True
+tauros,pokemon,colorless,basic,100,2,fighting,,Tauros,A1,204,2024-10-30,4,False,tauros,True
+ditto,pokemon,colorless,basic,70,1,fighting,,Ditto,A1,205,2024-10-30,2,False,ditto,True
+eevee,pokemon,colorless,basic,60,1,fighting,,Eevee,A1,206,2024-10-30,18,False,eevee,True
+porygon,pokemon,colorless,basic,50,1,fighting,,Porygon,A1,209,2024-10-30,2,False,porygon,True
+aerodactyl,pokemon,colorless,1,100,1,lightning,old amber,Aerodactyl,A1,210,2024-10-30,2,False,aerodactyl,True
+snorlax,pokemon,colorless,basic,150,4,fighting,,Snorlax,A1,211,2024-10-30,2,False,snorlax,True
+minccino,pokemon,colorless,basic,60,1,fighting,,Minccino,A1,212,2024-10-30,2,False,minccino,True
+cinccino,pokemon,colorless,1,90,1,fighting,minccino,Cinccino,A1,213,2024-10-30,6,False,cinccino,True
+wooloo,pokemon,colorless,basic,70,1,fighting,,Wooloo,A1,214,2024-10-30,1,False,wooloo,True
+dubwool,pokemon,colorless,1,120,2,fighting,wooloo,Dubwool,A1,215,2024-10-30,1,False,dubwool,True
+helix fossil,fossil,none,basic,0,0,none,,Helix Fossil,A1,216,2024-10-30,1,False,helix_fossil,True
+dome fossil,fossil,none,basic,0,0,none,,Dome Fossil,A1,217,2024-10-30,1,False,dome_fossil,True
+old amber,fossil,none,basic,0,0,none,,Old Amber,A1,218,2024-10-30,4,False,old_amber,True
+erika,supporter,none,none,0,0,none,,Erika,A1,219,2024-10-30,4,False,erika,True
+misty,supporter,none,none,0,0,none,,Misty,A1,220,2024-10-30,2,False,misty,True
+blaine,supporter,none,none,0,0,none,,Blaine,A1,221,2024-10-30,2,False,blaine,True
+koga,supporter,none,none,0,0,none,,Koga,A1,222,2024-10-30,2,False,koga,True
+giovanni,supporter,none,none,0,0,none,,Giovanni,A1,223,2024-10-30,4,False,giovanni,True
+brock,supporter,none,none,0,0,none,,Brock,A1,224,2024-10-30,2,False,brock,True
+sabrina,supporter,none,none,0,0,none,,Sabrina,A1,225,2024-10-30,4,False,sabrina,True
+lt. surge,supporter,none,none,0,0,none,,Lt. Surge,A1,226,2024-10-30,2,False,lt_surge,True
+mew,pokemon,psychic,basic,60,1,darkness,,Mew,A1,283,2024-10-30,2,False,mew,True
+potion,item,none,none,0,0,none,,Potion,PROMO-A,1,2024-10-30,1,False,potion,True
+x speed,item,none,none,0,0,none,,X Speed,PROMO-A,2,2024-10-30,1,False,x_speed,True
+hand scope,item,none,none,0,0,none,,Hand Scope,PROMO-A,3,2024-10-30,1,False,hand_scope,True
+pokedex,item,none,none,0,0,none,,Pokédex,PROMO-A,4,2024-10-30,2,False,pokedex,True
+poke ball,item,none,none,0,0,none,,Poké Ball,PROMO-A,5,2024-10-30,2,False,poke_ball,True
+red card,item,none,none,0,0,none,,Red Card,PROMO-A,6,2024-10-30,1,False,red_card,True
+professor's research,supporter,none,none,0,0,none,,Professor’s Research,PROMO-A,7,2024-10-30,2,False,professor_s_research,True
+lapras ex,pokemon,water,basic,140,3,lightning,,Lapras ex,PROMO-A,14,2024-10-30,1,True,lapras_ex,True
+mankey,pokemon,fighting,basic,50,1,psychic,,Mankey,PROMO-A,17,2024-10-30,3,False,mankey_v2,False
+haunter,pokemon,psychic,1,70,1,darkness,gastly,Haunter,PROMO-A,20,2024-10-30,1,False,haunter_v2,False
+jigglypuff,pokemon,colorless,basic,50,1,fighting,,Jigglypuff,PROMO-A,22,2024-10-30,1,False,jigglypuff_v2,False
+snivy,pokemon,grass,basic,60,1,fire,,Snivy,PROMO-A,27,2024-10-30,3,False,snivy,True
+volcarona,pokemon,fire,1,120,2,water,larvesta,Volcarona,PROMO-A,28,2024-10-30,2,False,volcarona,True
+piplup,pokemon,water,basic,60,1,lightning,,Piplup,PROMO-A,34,2024-10-30,6,False,piplup,True
+turtwig,pokemon,grass,basic,80,2,fire,,Turtwig,PROMO-A,35,2024-10-30,2,False,turtwig,True
+electivire,pokemon,lightning,1,120,3,fighting,electabuzz,Electivire,PROMO-A,36,2024-10-30,2,False,electivire,True
+cresselia ex,pokemon,psychic,basic,140,2,darkness,,Cresselia ex,PROMO-A,37,2024-10-30,1,True,cresselia_ex,True
+misdreavus,pokemon,psychic,basic,60,1,darkness,,Misdreavus,PROMO-A,38,2024-10-30,6,False,misdreavus,True
+skarmory,pokemon,metal,basic,80,1,lightning,,Skarmory,PROMO-A,39,2024-10-30,2,False,skarmory,True
+chimchar,pokemon,fire,basic,60,1,water,,Chimchar,PROMO-A,40,2024-10-30,6,False,chimchar,True
+togepi,pokemon,psychic,basic,50,1,metal,,Togepi,PROMO-A,41,2024-10-30,2,False,togepi,True
+darkrai ex,pokemon,darkness,basic,140,2,grass,,Darkrai ex,PROMO-A,42,2024-10-30,6,True,darkrai_ex,True
+cherrim,pokemon,grass,1,80,1,fire,cherubi,Cherrim,PROMO-A,43,2024-10-30,6,False,cherrim,True
+raichu,pokemon,lightning,1,90,1,fighting,pikachu,Raichu,PROMO-A,44,2024-10-30,2,False,raichu_v2,False
+nosepass,pokemon,fighting,basic,60,1,grass,,Nosepass,PROMO-A,45,2024-10-30,1,False,nosepass,True
+gible,pokemon,fighting,basic,60,1,grass,,Gible,PROMO-A,46,2024-10-30,5,False,gible,True
+staraptor,pokemon,colorless,2,140,1,lightning,staravia,Staraptor,PROMO-A,47,2024-10-30,4,False,staraptor,True
+manaphy,pokemon,water,basic,50,1,lightning,,Manaphy,PROMO-A,48,2024-10-30,6,False,manaphy,True
+snorlax,pokemon,colorless,basic,140,4,fighting,,Snorlax,PROMO-A,49,2024-10-30,2,False,snorlax_v2,False
+cyclizar,pokemon,colorless,basic,80,1,fighting,,Cyclizar,PROMO-A,51,2024-10-30,4,False,cyclizar,True
+sprigatito,pokemon,grass,basic,60,1,fire,,Sprigatito,PROMO-A,52,2024-10-30,9,False,sprigatito,True
+floatzel,pokemon,water,1,100,1,lightning,buizel,Floatzel,PROMO-A,53,2024-10-30,2,False,floatzel,True
+pawmot,pokemon,lightning,2,140,0,fighting,pawmo,Pawmot,PROMO-A,54,2024-10-30,2,False,pawmot,True
+machamp,pokemon,fighting,2,150,2,psychic,machoke,Machamp,PROMO-A,55,2024-10-30,5,False,machamp_v2,False
+bidoof,pokemon,colorless,basic,70,2,fighting,,Bidoof,PROMO-A,57,2024-10-30,4,False,bidoof,True
+pachirisu,pokemon,lightning,basic,70,1,fighting,,Pachirisu,PROMO-A,58,2024-10-30,9,False,pachirisu,True
+riolu,pokemon,fighting,basic,70,1,psychic,,Riolu,PROMO-A,59,2024-10-30,5,False,riolu,True
+rayquaza,pokemon,colorless,basic,100,1,lightning,,Rayquaza,PROMO-A,63,2024-10-30,1,False,rayquaza,True
+rayquaza ex,pokemon,colorless,basic,140,2,lightning,,Rayquaza ex,PROMO-A,64,2024-10-30,2,True,rayquaza_ex,True
+mimikyu,pokemon,psychic,basic,70,1,darkness,,Mimikyu,PROMO-A,66,2024-10-30,4,False,mimikyu,True
+cosmog,pokemon,psychic,basic,60,1,darkness,,Cosmog,PROMO-A,67,2024-10-30,7,False,cosmog,True
+lycanroc,pokemon,fighting,1,100,1,grass,rockruff,Lycanroc,PROMO-A,68,2024-10-30,3,False,lycanroc,True
+alolan exeggutor,pokemon,grass,1,150,4,fire,exeggcute,Alolan Exeggutor,PROMO-A,69,2024-10-30,3,False,alolan_exeggutor,True
+alolan ninetales,pokemon,water,1,110,1,metal,alolan vulpix,Alolan Ninetales,PROMO-A,70,2024-10-30,2,False,alolan_ninetales,True
+crabrawler,pokemon,fighting,basic,70,2,psychic,,Crabrawler,PROMO-A,71,2024-10-30,4,False,crabrawler,True
+alolan grimer,pokemon,darkness,basic,70,2,fighting,,Alolan Grimer,PROMO-A,72,2024-10-30,4,False,alolan_grimer,True
+toucannon,pokemon,colorless,2,140,2,lightning,trumbeak,Toucannon,PROMO-A,73,2024-10-30,2,False,toucannon,True
+zeraora,pokemon,lightning,basic,90,1,fighting,,Zeraora,PROMO-A,74,2024-10-30,6,False,zeraora,True
+kartana,pokemon,grass,basic,60,1,fire,,Kartana,PROMO-A,75,2024-10-30,4,False,kartana,True
+blacephalon,pokemon,fire,basic,100,2,water,,Blacephalon,PROMO-A,76,2024-10-30,3,False,blacephalon,True
+xurkitree,pokemon,lightning,basic,100,2,fighting,,Xurkitree,PROMO-A,77,2024-10-30,2,False,xurkitree,True
+dawn wings necrozma,pokemon,psychic,basic,110,2,darkness,,Dawn Wings Necrozma,PROMO-A,78,2024-10-30,1,False,dawn_wings_necrozma,True
+dusk mane necrozma,pokemon,metal,basic,110,2,fire,,Dusk Mane Necrozma,PROMO-A,79,2024-10-30,1,False,dusk_mane_necrozma,True
+stakataka,pokemon,metal,basic,110,3,fire,,Stakataka,PROMO-A,80,2024-10-30,2,False,stakataka,True
+ultra necrozma ex,pokemon,dragon,basic,150,2,none,,Ultra Necrozma ex,PROMO-A,81,2024-10-30,1,True,ultra_necrozma_ex,True
+poipole,pokemon,darkness,basic,60,1,fighting,,Poipole,PROMO-A,82,2024-10-30,2,False,poipole,True
+stufful,pokemon,colorless,basic,70,2,fighting,,Stufful,PROMO-A,83,2024-10-30,5,False,stufful,True
+tapu koko ex,pokemon,lightning,basic,130,1,fighting,,Tapu Koko ex,PROMO-A,84,2024-10-30,6,True,tapu_koko_ex,True
+vanillite,pokemon,water,basic,60,1,metal,,Vanillite,PROMO-A,85,2024-10-30,3,False,vanillite,True
+alcremie,pokemon,psychic,1,80,1,metal,milcery,Alcremie,PROMO-A,87,2024-10-30,5,False,alcremie,True
+dragonair,pokemon,dragon,1,100,2,none,dratini,Dragonair,PROMO-A,88,2024-10-30,1,False,dragonair_v2,False
+audino,pokemon,colorless,basic,100,2,fighting,,Audino,PROMO-A,89,2024-10-30,1,False,audino,True
+togedemaru,pokemon,metal,basic,80,1,fire,,Togedemaru,PROMO-A,90,2024-10-30,2,False,togedemaru,True
+greedent,pokemon,colorless,1,120,2,fighting,skwovet,Greedent,PROMO-A,91,2024-10-30,2,False,greedent,True
+cleffa,pokemon,psychic,basic,30,0,none,,Cleffa,PROMO-A,93,2024-10-30,2,False,cleffa,True
+chinchou,pokemon,lightning,basic,60,1,fighting,,Chinchou,PROMO-A,95,2024-10-30,2,False,chinchou,True
+houndoom,pokemon,darkness,1,110,2,grass,houndour,Houndoom,PROMO-A,96,2024-10-30,2,False,houndoom,True
+blissey ex,pokemon,colorless,1,180,3,fighting,chansey,Blissey ex,PROMO-A,98,2024-10-30,1,True,blissey_ex,True
+marill,pokemon,water,basic,60,1,lightning,,Marill,PROMO-A,99,2024-10-30,4,False,marill,True
+weavile,pokemon,darkness,1,80,0,grass,sneasel,Weavile,PROMO-A,100,2024-10-30,2,False,weavile,True
+latias,pokemon,psychic,basic,90,1,darkness,,Latias,PROMO-A,101,2024-10-30,3,False,latias,True
+tropius,pokemon,grass,basic,100,2,fire,,Tropius,PROMO-A,102,2024-10-30,3,False,tropius,True
+milotic,pokemon,water,1,120,2,lightning,feebas,Milotic,PROMO-A,104,2024-10-30,3,False,milotic,True
+zorua,pokemon,darkness,basic,60,1,grass,,Zorua,PROMO-A,105,2024-10-30,9,False,zorua,True
+zoroark,pokemon,darkness,1,100,2,grass,zorua,Zoroark,PROMO-A,106,2024-10-30,2,False,zoroark,True
+miltank,pokemon,colorless,basic,110,3,fighting,,Miltank,PROMO-A,107,2024-10-30,2,False,miltank,True
+phanpy,pokemon,fighting,basic,70,2,grass,,Phanpy,PROMO-A,108,2024-10-30,7,False,phanpy,True
+eevee ex,pokemon,colorless,basic,90,1,fighting,,Eevee ex,PROMO-A,109,2024-10-30,6,True,eevee_ex,True
+entei ex,pokemon,fire,basic,140,2,water,,Entei ex,PROMO-A,110,2024-10-30,5,True,entei_ex,True
+raichu ex,pokemon,lightning,1,140,1,fighting,pikachu,Raichu ex,PROMO-A,112,2024-10-30,1,True,raichu_ex,True
+mimikyu,pokemon,psychic,basic,70,1,metal,,Mimikyu,PROMO-A,113,2024-10-30,2,False,mimikyu_v2,False
+regigigas,pokemon,colorless,basic,140,4,fighting,,Regigigas,PROMO-A,115,2024-10-30,3,False,regigigas,True
+shaymin,pokemon,grass,basic,60,1,fire,,Shaymin,PROMO-A,116,2024-10-30,5,False,shaymin,True
+absol,pokemon,darkness,basic,80,1,grass,,Absol,PROMO-A,117,2024-10-30,5,False,absol,True
+celebi ex,pokemon,grass,basic,130,1,fire,,Celebi ex,A1a,3,2024-12-17,5,True,celebi_ex,True
+snivy,pokemon,grass,basic,70,1,fire,,Snivy,A1a,4,2024-12-17,3,False,snivy_v2,False
+servine,pokemon,grass,1,80,1,fire,snivy,Servine,A1a,5,2024-12-17,4,False,servine,True
+serperior,pokemon,grass,2,110,2,fire,servine,Serperior,A1a,6,2024-12-17,4,False,serperior,True
+morelull,pokemon,grass,basic,60,1,fire,,Morelull,A1a,7,2024-12-17,3,False,morelull,True
+shiinotic,pokemon,grass,1,90,2,fire,morelull,Shiinotic,A1a,8,2024-12-17,1,False,shiinotic,True
+dhelmise,pokemon,grass,basic,100,2,fire,,Dhelmise,A1a,9,2024-12-17,1,False,dhelmise,True
+larvesta,pokemon,fire,basic,80,2,water,,Larvesta,A1a,13,2024-12-17,1,False,larvesta,True
+salazzle,pokemon,fire,1,80,1,water,salandit,Salazzle,A1a,16,2024-12-17,1,False,salazzle_v2,False
+gyarados ex,pokemon,water,1,180,3,lightning,magikarp,Gyarados ex,A1a,18,2024-12-17,4,True,gyarados_ex,True
+vaporeon,pokemon,water,1,120,2,lightning,eevee,Vaporeon,A1a,19,2024-12-17,8,False,vaporeon_v2,False
+finneon,pokemon,water,basic,60,1,lightning,,Finneon,A1a,20,2024-12-17,1,False,finneon,True
+lumineon,pokemon,water,1,80,0,lightning,finneon,Lumineon,A1a,21,2024-12-17,1,False,lumineon,True
+chewtle,pokemon,water,basic,80,2,lightning,,Chewtle,A1a,22,2024-12-17,2,False,chewtle,True
+drednaw,pokemon,water,1,130,3,lightning,chewtle,Drednaw,A1a,23,2024-12-17,3,False,drednaw,True
+cramorant,pokemon,water,basic,80,1,lightning,,Cramorant,A1a,24,2024-12-17,3,False,cramorant,True
+raichu,pokemon,lightning,1,120,2,fighting,pikachu,Raichu,A1a,26,2024-12-17,1,False,raichu_v3,False
+joltik,pokemon,lightning,basic,40,1,fighting,,Joltik,A1a,28,2024-12-17,2,False,joltik,True
+galvantula,pokemon,lightning,1,80,1,fighting,joltik,Galvantula,A1a,29,2024-12-17,1,False,galvantula,True
+dedenne,pokemon,lightning,basic,60,1,fighting,,Dedenne,A1a,30,2024-12-17,2,False,dedenne,True
+mew ex,pokemon,psychic,basic,130,1,darkness,,Mew ex,A1a,32,2024-12-17,10,True,mew_ex,True
+sigilyph,pokemon,psychic,basic,80,1,darkness,,Sigilyph,A1a,33,2024-12-17,1,False,sigilyph,True
+elgyem,pokemon,psychic,basic,60,1,darkness,,Elgyem,A1a,34,2024-12-17,1,False,elgyem,True
+beheeyem,pokemon,psychic,1,90,1,darkness,elgyem,Beheeyem,A1a,35,2024-12-17,1,False,beheeyem,True
+flabebe,pokemon,psychic,basic,40,1,metal,,Flabébé,A1a,36,2024-12-17,1,False,flabebe,True
+floette,pokemon,psychic,1,70,1,metal,flabebe,Floette,A1a,37,2024-12-17,1,False,floette,True
+florges,pokemon,psychic,2,120,1,metal,floette,Florges,A1a,38,2024-12-17,1,False,florges,True
+swirlix,pokemon,psychic,basic,60,1,metal,,Swirlix,A1a,39,2024-12-17,5,False,swirlix,True
+slurpuff,pokemon,psychic,1,100,2,metal,swirlix,Slurpuff,A1a,40,2024-12-17,1,False,slurpuff,True
+primeape,pokemon,fighting,1,80,1,psychic,mankey,Primeape,A1a,42,2024-12-17,2,False,primeape_v2,False
+golem,pokemon,fighting,2,160,3,grass,graveler,Golem,A1a,45,2024-12-17,2,False,golem_v2,False
+aerodactyl ex,pokemon,fighting,1,140,1,lightning,old amber,Aerodactyl ex,A1a,46,2024-12-17,5,True,aerodactyl_ex,True
+marshadow,pokemon,fighting,basic,80,1,psychic,,Marshadow,A1a,47,2024-12-17,4,False,marshadow,True
+stonjourner,pokemon,fighting,basic,120,3,grass,,Stonjourner,A1a,48,2024-12-17,1,False,stonjourner,True
+koffing,pokemon,darkness,basic,70,2,fighting,,Koffing,A1a,49,2024-12-17,1,False,koffing_v2,False
+purrloin,pokemon,darkness,basic,60,1,grass,,Purrloin,A1a,51,2024-12-17,5,False,purrloin,True
+liepard,pokemon,darkness,1,90,1,grass,purrloin,Liepard,A1a,52,2024-12-17,4,False,liepard,True
+venipede,pokemon,darkness,basic,60,1,fighting,,Venipede,A1a,53,2024-12-17,1,False,venipede,True
+whirlipede,pokemon,darkness,1,90,2,fighting,venipede,Whirlipede,A1a,54,2024-12-17,1,False,whirlipede,True
+scolipede,pokemon,darkness,2,140,2,fighting,whirlipede,Scolipede,A1a,55,2024-12-17,1,False,scolipede,True
+druddigon,pokemon,dragon,basic,100,2,none,,Druddigon,A1a,56,2024-12-17,2,False,druddigon,True
+pidgey,pokemon,colorless,basic,50,1,lightning,,Pidgey,A1a,57,2024-12-17,3,False,pidgey_v2,False
+pidgeotto,pokemon,colorless,1,90,1,lightning,pidgey,Pidgeotto,A1a,58,2024-12-17,4,False,pidgeotto_v2,False
+pidgeot ex,pokemon,colorless,2,170,1,lightning,pidgeotto,Pidgeot ex,A1a,59,2024-12-17,4,True,pidgeot_ex,True
+chatot,pokemon,colorless,basic,60,1,lightning,,Chatot,A1a,62,2024-12-17,1,False,chatot,True
+pokemon flute,item,none,none,0,0,none,,Pokémon Flute,A1a,64,2024-12-17,1,False,pokemon_flute,True
+mythical slab,item,none,none,0,0,none,,Mythical Slab,A1a,65,2024-12-17,1,False,mythical_slab,True
+budding expeditioner,supporter,none,none,0,0,none,,Budding Expeditioner,A1a,66,2024-12-17,2,False,budding_expeditioner,True
+blue,supporter,none,none,0,0,none,,Blue,A1a,67,2024-12-17,2,False,blue,True
+leaf,supporter,none,none,0,0,none,,Leaf,A1a,68,2024-12-17,4,False,leaf,True
+bellossom,pokemon,grass,2,130,1,fire,gloom,Bellossom,A2,3,2025-01-29,3,False,bellossom,True
+tangela,pokemon,grass,basic,70,1,fire,,Tangela,A2,4,2025-01-29,1,False,tangela_v2,False
+tangrowth,pokemon,grass,1,130,3,fire,tangela,Tangrowth,A2,5,2025-01-29,3,False,tangrowth,True
+yanma,pokemon,grass,basic,50,1,lightning,,Yanma,A2,6,2025-01-29,3,False,yanma,True
+yanmega ex,pokemon,grass,1,140,1,lightning,yanma,Yanmega ex,A2,7,2025-01-29,5,True,yanmega_ex,True
+roselia,pokemon,grass,basic,70,1,fire,,Roselia,A2,8,2025-01-29,1,False,roselia,True
+roserade,pokemon,grass,1,100,2,fire,roselia,Roserade,A2,9,2025-01-29,1,False,roserade,True
+grotle,pokemon,grass,1,100,3,fire,turtwig,Grotle,A2,11,2025-01-29,1,False,grotle,True
+torterra,pokemon,grass,2,160,4,fire,grotle,Torterra,A2,12,2025-01-29,1,False,torterra,True
+kricketot,pokemon,grass,basic,60,1,fire,,Kricketot,A2,13,2025-01-29,2,False,kricketot,True
+kricketune,pokemon,grass,1,90,1,fire,kricketot,Kricketune,A2,14,2025-01-29,3,False,kricketune,True
+burmy,pokemon,grass,basic,60,1,fire,,Burmy,A2,15,2025-01-29,2,False,burmy,True
+wormadam,pokemon,grass,1,120,2,fire,burmy,Wormadam,A2,16,2025-01-29,1,False,wormadam,True
+combee,pokemon,grass,basic,50,1,fire,,Combee,A2,17,2025-01-29,6,False,combee,True
+vespiquen,pokemon,grass,1,100,2,fire,combee,Vespiquen,A2,18,2025-01-29,2,False,vespiquen,True
+carnivine,pokemon,grass,basic,90,1,fire,,Carnivine,A2,19,2025-01-29,2,False,carnivine,True
+leafeon,pokemon,grass,1,90,1,fire,eevee,Leafeon,A2,20,2025-01-29,3,False,leafeon,True
+mow rotom,pokemon,grass,basic,80,1,fire,,Mow Rotom,A2,21,2025-01-29,1,False,mow_rotom,True
+magmortar,pokemon,fire,1,130,3,water,magmar,Magmortar,A2,24,2025-01-29,1,False,magmortar,True
+slugma,pokemon,fire,basic,70,2,water,,Slugma,A2,25,2025-01-29,2,False,slugma,True
+magcargo,pokemon,fire,1,120,3,water,slugma,Magcargo,A2,26,2025-01-29,3,False,magcargo,True
+monferno,pokemon,fire,1,80,1,water,chimchar,Monferno,A2,28,2025-01-29,4,False,monferno,True
+infernape ex,pokemon,fire,2,170,0,water,monferno,Infernape ex,A2,29,2025-01-29,5,True,infernape_ex,True
+heat rotom,pokemon,fire,basic,80,1,water,,Heat Rotom,A2,30,2025-01-29,1,False,heat_rotom,True
+swinub,pokemon,water,basic,60,2,metal,,Swinub,A2,31,2025-01-29,1,False,swinub,True
+piloswine,pokemon,water,1,110,3,metal,swinub,Piloswine,A2,32,2025-01-29,1,False,piloswine,True
+mamoswine,pokemon,water,2,160,4,metal,piloswine,Mamoswine,A2,33,2025-01-29,2,False,mamoswine,True
+regice,pokemon,water,basic,110,2,metal,,Regice,A2,34,2025-01-29,1,False,regice,True
+prinplup,pokemon,water,1,90,1,lightning,piplup,Prinplup,A2,36,2025-01-29,1,False,prinplup,True
+empoleon,pokemon,water,2,150,2,lightning,prinplup,Empoleon,A2,37,2025-01-29,1,False,empoleon,True
+buizel,pokemon,water,basic,60,1,lightning,,Buizel,A2,38,2025-01-29,1,False,buizel,True
+floatzel,pokemon,water,1,90,1,lightning,buizel,Floatzel,A2,39,2025-01-29,2,False,floatzel_v2,False
+shellos,pokemon,water,basic,70,2,lightning,,Shellos,A2,40,2025-01-29,1,False,shellos,True
+gastrodon,pokemon,water,1,120,3,lightning,shellos,Gastrodon,A2,41,2025-01-29,2,False,gastrodon,True
+finneon,pokemon,water,basic,50,1,lightning,,Finneon,A2,42,2025-01-29,1,False,finneon_v2,False
+lumineon,pokemon,water,1,90,1,lightning,finneon,Lumineon,A2,43,2025-01-29,1,False,lumineon_v2,False
+snover,pokemon,water,basic,70,2,metal,,Snover,A2,44,2025-01-29,2,False,snover,True
+abomasnow,pokemon,water,1,140,4,metal,snover,Abomasnow,A2,45,2025-01-29,1,False,abomasnow,True
+glaceon,pokemon,water,1,90,1,metal,eevee,Glaceon,A2,46,2025-01-29,1,False,glaceon,True
+wash rotom,pokemon,water,basic,80,2,lightning,,Wash Rotom,A2,47,2025-01-29,1,False,wash_rotom,True
+frost rotom,pokemon,water,basic,80,1,metal,,Frost Rotom,A2,48,2025-01-29,1,False,frost_rotom,True
+palkia ex,pokemon,water,basic,150,2,lightning,,Palkia ex,A2,49,2025-01-29,7,True,palkia_ex,True
+magneton,pokemon,lightning,1,80,1,fighting,magnemite,Magneton,A2,52,2025-01-29,1,False,magneton_v2,False
+magnezone,pokemon,lightning,2,140,2,fighting,magneton,Magnezone,A2,53,2025-01-29,3,False,magnezone,True
+electrode,pokemon,lightning,1,80,1,fighting,voltorb,Electrode,A2,55,2025-01-29,2,False,electrode_v2,False
+electabuzz,pokemon,lightning,basic,80,2,fighting,,Electabuzz,A2,56,2025-01-29,1,False,electabuzz_v2,False
+shinx,pokemon,lightning,basic,60,1,fighting,,Shinx,A2,58,2025-01-29,5,False,shinx,True
+luxio,pokemon,lightning,1,90,1,fighting,shinx,Luxio,A2,59,2025-01-29,2,False,luxio,True
+luxray,pokemon,lightning,2,130,0,fighting,luxio,Luxray,A2,60,2025-01-29,4,False,luxray,True
+pachirisu ex,pokemon,lightning,basic,120,1,fighting,,Pachirisu ex,A2,61,2025-01-29,5,True,pachirisu_ex,True
+rotom,pokemon,lightning,basic,70,1,fighting,,Rotom,A2,62,2025-01-29,2,False,rotom,True
+togetic,pokemon,psychic,1,80,1,metal,togepi,Togetic,A2,64,2025-01-29,1,False,togetic,True
+togekiss,pokemon,psychic,2,140,1,metal,togetic,Togekiss,A2,65,2025-01-29,2,False,togekiss,True
+mismagius ex,pokemon,psychic,1,140,1,darkness,misdreavus,Mismagius ex,A2,67,2025-01-29,5,True,mismagius_ex,True
+duskull,pokemon,psychic,basic,60,1,darkness,,Duskull,A2,70,2025-01-29,1,False,duskull,True
+dusclops,pokemon,psychic,1,90,2,darkness,duskull,Dusclops,A2,71,2025-01-29,2,False,dusclops,True
+dusknoir,pokemon,psychic,2,130,2,darkness,dusclops,Dusknoir,A2,72,2025-01-29,1,False,dusknoir,True
+drifloon,pokemon,psychic,basic,50,1,lightning,,Drifloon,A2,73,2025-01-29,2,False,drifloon,True
+drifblim,pokemon,psychic,1,100,1,lightning,drifloon,Drifblim,A2,74,2025-01-29,1,False,drifblim,True
+uxie,pokemon,psychic,basic,70,1,darkness,,Uxie,A2,75,2025-01-29,1,False,uxie,True
+mesprit,pokemon,psychic,basic,70,1,darkness,,Mesprit,A2,76,2025-01-29,2,False,mesprit,True
+azelf,pokemon,psychic,basic,70,1,darkness,,Azelf,A2,77,2025-01-29,1,False,azelf,True
+giratina,pokemon,psychic,basic,120,3,darkness,,Giratina,A2,78,2025-01-29,4,False,giratina,True
+cresselia,pokemon,psychic,basic,110,2,darkness,,Cresselia,A2,79,2025-01-29,2,False,cresselia,True
+rhydon,pokemon,fighting,1,110,3,grass,rhyhorn,Rhydon,A2,81,2025-01-29,3,False,rhydon_v2,False
+rhyperior,pokemon,fighting,2,160,4,grass,rhydon,Rhyperior,A2,82,2025-01-29,3,False,rhyperior,True
+gligar,pokemon,fighting,basic,60,1,grass,,Gligar,A2,83,2025-01-29,4,False,gligar,True
+gliscor,pokemon,fighting,1,100,2,grass,gligar,Gliscor,A2,84,2025-01-29,1,False,gliscor,True
+hitmontop,pokemon,fighting,basic,80,1,psychic,,Hitmontop,A2,85,2025-01-29,1,False,hitmontop,True
+nosepass,pokemon,fighting,basic,70,2,grass,,Nosepass,A2,86,2025-01-29,2,False,nosepass_v2,False
+regirock,pokemon,fighting,basic,120,3,grass,,Regirock,A2,87,2025-01-29,1,False,regirock,True
+cranidos,pokemon,fighting,1,90,2,grass,skull fossil,Cranidos,A2,88,2025-01-29,1,False,cranidos,True
+rampardos,pokemon,fighting,2,150,2,grass,cranidos,Rampardos,A2,89,2025-01-29,1,False,rampardos,True
+wormadam,pokemon,fighting,1,120,2,grass,burmy,Wormadam,A2,90,2025-01-29,1,False,wormadam_v2,False
+riolu,pokemon,fighting,basic,60,1,psychic,,Riolu,A2,91,2025-01-29,5,False,riolu_v2,False
+lucario,pokemon,fighting,1,100,2,psychic,riolu,Lucario,A2,92,2025-01-29,4,False,lucario,True
+hippopotas,pokemon,fighting,basic,80,3,grass,,Hippopotas,A2,93,2025-01-29,3,False,hippopotas,True
+hippowdon,pokemon,fighting,1,140,4,grass,hippopotas,Hippowdon,A2,94,2025-01-29,1,False,hippowdon,True
+gallade ex,pokemon,fighting,2,170,1,psychic,kirlia,Gallade ex,A2,95,2025-01-29,5,True,gallade_ex,True
+murkrow,pokemon,darkness,basic,60,1,lightning,,Murkrow,A2,96,2025-01-29,3,False,murkrow,True
+honchkrow,pokemon,darkness,1,100,2,lightning,murkrow,Honchkrow,A2,97,2025-01-29,3,False,honchkrow,True
+sneasel,pokemon,darkness,basic,60,1,grass,,Sneasel,A2,98,2025-01-29,6,False,sneasel,True
+weavile ex,pokemon,darkness,1,140,1,grass,sneasel,Weavile ex,A2,99,2025-01-29,5,True,weavile_ex,True
+poochyena,pokemon,darkness,basic,60,1,grass,,Poochyena,A2,100,2025-01-29,3,False,poochyena,True
+mightyena,pokemon,darkness,1,90,1,grass,poochyena,Mightyena,A2,101,2025-01-29,2,False,mightyena,True
+stunky,pokemon,darkness,basic,70,1,fighting,,Stunky,A2,102,2025-01-29,1,False,stunky,True
+skuntank,pokemon,darkness,1,100,2,fighting,stunky,Skuntank,A2,103,2025-01-29,1,False,skuntank,True
+spiritomb,pokemon,darkness,basic,80,1,grass,,Spiritomb,A2,104,2025-01-29,4,False,spiritomb,True
+skorupi,pokemon,darkness,basic,70,2,fighting,,Skorupi,A2,105,2025-01-29,1,False,skorupi,True
+drapion,pokemon,darkness,1,120,3,fighting,skorupi,Drapion,A2,106,2025-01-29,1,False,drapion,True
+croagunk,pokemon,darkness,basic,60,1,fighting,,Croagunk,A2,107,2025-01-29,3,False,croagunk,True
+toxicroak,pokemon,darkness,1,90,2,fighting,croagunk,Toxicroak,A2,108,2025-01-29,1,False,toxicroak,True
+darkrai,pokemon,darkness,basic,110,2,grass,,Darkrai,A2,109,2025-01-29,1,False,darkrai,True
+registeel,pokemon,metal,basic,110,2,fire,,Registeel,A2,112,2025-01-29,1,False,registeel,True
+shieldon,pokemon,metal,1,100,2,fire,armor fossil,Shieldon,A2,113,2025-01-29,1,False,shieldon,True
+bastiodon,pokemon,metal,2,160,4,fire,shieldon,Bastiodon,A2,114,2025-01-29,1,False,bastiodon,True
+wormadam,pokemon,metal,1,110,1,fire,burmy,Wormadam,A2,115,2025-01-29,1,False,wormadam_v3,False
+bronzor,pokemon,metal,basic,60,1,fire,,Bronzor,A2,116,2025-01-29,3,False,bronzor,True
+bronzong,pokemon,metal,1,120,3,fire,bronzor,Bronzong,A2,117,2025-01-29,3,False,bronzong,True
+probopass,pokemon,metal,1,130,4,fire,nosepass,Probopass,A2,118,2025-01-29,2,False,probopass,True
+dialga ex,pokemon,metal,basic,150,2,fire,,Dialga ex,A2,119,2025-01-29,7,True,dialga_ex,True
+heatran,pokemon,metal,basic,120,3,fire,,Heatran,A2,120,2025-01-29,2,False,heatran,True
+gible,pokemon,dragon,basic,60,1,none,,Gible,A2,121,2025-01-29,3,False,gible_v2,False
+gabite,pokemon,dragon,1,90,1,none,gible,Gabite,A2,122,2025-01-29,1,False,gabite,True
+garchomp,pokemon,dragon,2,140,1,none,gabite,Garchomp,A2,123,2025-01-29,2,False,garchomp,True
+lickitung,pokemon,colorless,basic,80,2,fighting,,Lickitung,A2,124,2025-01-29,5,False,lickitung_v2,False
+lickilicky ex,pokemon,colorless,1,160,4,fighting,lickitung,Lickilicky ex,A2,125,2025-01-29,5,True,lickilicky_ex,True
+porygon,pokemon,colorless,basic,60,1,fighting,,Porygon,A2,127,2025-01-29,5,False,porygon_v2,False
+porygon2,pokemon,colorless,1,80,1,fighting,porygon,Porygon2,A2,128,2025-01-29,1,False,porygon2,True
+porygon-z,pokemon,colorless,2,140,2,fighting,porygon2,Porygon-Z,A2,129,2025-01-29,3,False,porygon_z,True
+aipom,pokemon,colorless,basic,60,1,fighting,,Aipom,A2,130,2025-01-29,5,False,aipom,True
+ambipom,pokemon,colorless,1,90,1,fighting,aipom,Ambipom,A2,131,2025-01-29,3,False,ambipom,True
+starly,pokemon,colorless,basic,50,1,lightning,,Starly,A2,132,2025-01-29,1,False,starly,True
+staravia,pokemon,colorless,1,80,1,lightning,starly,Staravia,A2,133,2025-01-29,3,False,staravia,True
+bidoof,pokemon,colorless,basic,60,2,fighting,,Bidoof,A2,135,2025-01-29,3,False,bidoof_v2,False
+bibarel,pokemon,colorless,1,110,2,fighting,bidoof,Bibarel,A2,136,2025-01-29,1,False,bibarel,True
+buneary,pokemon,colorless,basic,60,1,fighting,,Buneary,A2,137,2025-01-29,7,False,buneary,True
+lopunny,pokemon,colorless,1,90,1,fighting,buneary,Lopunny,A2,138,2025-01-29,2,False,lopunny,True
+glameow,pokemon,colorless,basic,60,1,fighting,,Glameow,A2,139,2025-01-29,2,False,glameow,True
+purugly,pokemon,colorless,1,110,3,fighting,glameow,Purugly,A2,140,2025-01-29,1,False,purugly,True
+chatot,pokemon,colorless,basic,70,1,lightning,,Chatot,A2,141,2025-01-29,5,False,chatot_v2,False
+fan rotom,pokemon,colorless,basic,80,1,lightning,,Fan Rotom,A2,142,2025-01-29,1,False,fan_rotom,True
+skull fossil,fossil,none,basic,0,0,none,,Skull Fossil,A2,144,2025-01-29,1,False,skull_fossil,True
+armor fossil,fossil,none,basic,0,0,none,,Armor Fossil,A2,145,2025-01-29,1,False,armor_fossil,True
+pokemon communication,item,none,none,0,0,none,,Pokémon Communication,A2,146,2025-01-29,3,False,pokemon_communication,True
+giant cape,tool,none,none,0,0,none,,Giant Cape,A2,147,2025-01-29,3,False,giant_cape,True
+rocky helmet,tool,none,none,0,0,none,,Rocky Helmet,A2,148,2025-01-29,3,False,rocky_helmet,True
+lum berry,tool,none,none,0,0,none,,Lum Berry,A2,149,2025-01-29,1,False,lum_berry,True
+cyrus,supporter,none,none,0,0,none,,Cyrus,A2,150,2025-01-29,4,False,cyrus,True
+team galactic grunt,supporter,none,none,0,0,none,,Team Galactic Grunt,A2,151,2025-01-29,2,False,team_galactic_grunt,True
+cynthia,supporter,none,none,0,0,none,,Cynthia,A2,152,2025-01-29,2,False,cynthia,True
+volkner,supporter,none,none,0,0,none,,Volkner,A2,153,2025-01-29,2,False,volkner,True
+dawn,supporter,none,none,0,0,none,,Dawn,A2,154,2025-01-29,4,False,dawn,True
+mars,supporter,none,none,0,0,none,,Mars,A2,155,2025-01-29,4,False,mars,True
+heracross,pokemon,grass,basic,100,2,fire,,Heracross,A2a,1,2025-02-28,1,False,heracross,True
+burmy,pokemon,grass,basic,50,1,fire,,Burmy,A2a,2,2025-02-28,1,False,burmy_v2,False
+mothim,pokemon,grass,1,90,0,lightning,burmy,Mothim,A2a,3,2025-02-28,1,False,mothim,True
+cherubi,pokemon,grass,basic,50,1,fire,,Cherubi,A2a,6,2025-02-28,4,False,cherubi,True
+carnivine,pokemon,grass,basic,80,1,fire,,Carnivine,A2a,9,2025-02-28,2,False,carnivine_v2,False
+leafeon ex,pokemon,grass,1,140,1,fire,eevee,Leafeon ex,A2a,10,2025-02-28,5,True,leafeon_ex,True
+houndour,pokemon,fire,basic,60,1,water,,Houndour,A2a,11,2025-02-28,3,False,houndour,True
+houndoom,pokemon,fire,1,100,2,water,houndour,Houndoom,A2a,12,2025-02-28,2,False,houndoom_v2,False
+heatran,pokemon,fire,basic,110,3,water,,Heatran,A2a,13,2025-02-28,3,False,heatran_v2,False
+azumarill,pokemon,water,1,100,2,lightning,marill,Azumarill,A2a,15,2025-02-28,1,False,azumarill,True
+barboach,pokemon,water,basic,60,1,lightning,,Barboach,A2a,16,2025-02-28,1,False,barboach,True
+whiscash,pokemon,water,1,120,3,lightning,barboach,Whiscash,A2a,17,2025-02-28,1,False,whiscash,True
+snorunt,pokemon,water,basic,60,1,metal,,Snorunt,A2a,18,2025-02-28,2,False,snorunt,True
+froslass,pokemon,water,1,90,1,metal,snorunt,Froslass,A2a,19,2025-02-28,1,False,froslass,True
+abomasnow,pokemon,water,1,120,3,metal,snover,Abomasnow,A2a,21,2025-02-28,1,False,abomasnow_v2,False
+glaceon ex,pokemon,water,1,140,1,metal,eevee,Glaceon ex,A2a,22,2025-02-28,5,True,glaceon_ex,True
+origin forme palkia,pokemon,water,basic,120,2,lightning,,Origin Forme Palkia,A2a,23,2025-02-28,1,False,origin_forme_palkia,True
+phione,pokemon,water,basic,60,1,lightning,,Phione,A2a,24,2025-02-28,1,False,phione,True
+electrike,pokemon,lightning,basic,60,1,fighting,,Electrike,A2a,27,2025-02-28,6,False,electrike,True
+manectric,pokemon,lightning,1,90,1,fighting,electrike,Manectric,A2a,28,2025-02-28,1,False,manectric,True
+clefable,pokemon,psychic,1,100,2,metal,clefairy,Clefable,A2a,30,2025-02-28,1,False,clefable_v2,False
+gastly,pokemon,psychic,basic,50,1,darkness,,Gastly,A2a,31,2025-02-28,2,False,gastly_v2,False
+gengar,pokemon,psychic,2,140,1,darkness,haunter,Gengar,A2a,33,2025-02-28,1,False,gengar_v2,False
+unown,pokemon,psychic,basic,60,1,darkness,,Unown,A2a,34,2025-02-28,4,False,unown,True
+rotom,pokemon,psychic,basic,70,1,darkness,,Rotom,A2a,35,2025-02-28,1,False,rotom_v2,False
+sudowoodo,pokemon,fighting,basic,80,2,grass,,Sudowoodo,A2a,36,2025-02-28,4,False,sudowoodo,True
+phanpy,pokemon,fighting,basic,60,2,grass,,Phanpy,A2a,37,2025-02-28,1,False,phanpy_v2,False
+donphan,pokemon,fighting,1,120,3,grass,phanpy,Donphan,A2a,38,2025-02-28,1,False,donphan,True
+larvitar,pokemon,fighting,basic,60,1,grass,,Larvitar,A2a,39,2025-02-28,2,False,larvitar,True
+pupitar,pokemon,fighting,1,80,1,grass,larvitar,Pupitar,A2a,40,2025-02-28,1,False,pupitar,True
+tyranitar,pokemon,fighting,2,160,4,grass,pupitar,Tyranitar,A2a,41,2025-02-28,1,False,tyranitar,True
+nosepass,pokemon,fighting,basic,80,3,grass,,Nosepass,A2a,42,2025-02-28,3,False,nosepass_v3,False
+meditite,pokemon,fighting,basic,60,1,psychic,,Meditite,A2a,43,2025-02-28,3,False,meditite,True
+medicham,pokemon,fighting,1,100,1,psychic,meditite,Medicham,A2a,44,2025-02-28,2,False,medicham,True
+gabite,pokemon,fighting,1,80,1,grass,gible,Gabite,A2a,46,2025-02-28,4,False,gabite_v2,False
+garchomp ex,pokemon,fighting,2,170,1,grass,gabite,Garchomp ex,A2a,47,2025-02-28,5,True,garchomp_ex,True
+golbat,pokemon,darkness,1,80,1,fighting,zubat,Golbat,A2a,49,2025-02-28,5,False,golbat_v2,False
+crobat,pokemon,darkness,2,110,0,fighting,golbat,Crobat,A2a,50,2025-02-28,3,False,crobat,True
+toxicroak,pokemon,darkness,1,100,1,fighting,croagunk,Toxicroak,A2a,52,2025-02-28,1,False,toxicroak_v2,False
+magnemite,pokemon,metal,basic,60,1,fire,,Magnemite,A2a,53,2025-02-28,2,False,magnemite_v2,False
+magneton,pokemon,metal,1,90,2,fire,magnemite,Magneton,A2a,54,2025-02-28,1,False,magneton_v3,False
+magnezone,pokemon,metal,2,140,2,fire,magneton,Magnezone,A2a,55,2025-02-28,1,False,magnezone_v2,False
+probopass ex,pokemon,metal,1,160,3,fire,nosepass,Probopass ex,A2a,57,2025-02-28,4,True,probopass_ex,True
+origin forme dialga,pokemon,metal,basic,120,2,fire,,Origin Forme Dialga,A2a,60,2025-02-28,1,False,origin_forme_dialga,True
+giratina,pokemon,dragon,basic,120,3,none,,Giratina,A2a,61,2025-02-28,1,False,giratina_v2,False
+hoothoot,pokemon,colorless,basic,60,1,lightning,,Hoothoot,A2a,64,2025-02-28,1,False,hoothoot,True
+noctowl,pokemon,colorless,1,100,1,lightning,hoothoot,Noctowl,A2a,65,2025-02-28,2,False,noctowl,True
+starly,pokemon,colorless,basic,60,1,lightning,,Starly,A2a,66,2025-02-28,2,False,starly_v2,False
+staraptor,pokemon,colorless,2,150,2,lightning,staravia,Staraptor,A2a,68,2025-02-28,1,False,staraptor_v2,False
+shaymin,pokemon,colorless,basic,70,1,lightning,,Shaymin,A2a,69,2025-02-28,4,False,shaymin_v2,False
+arceus,pokemon,colorless,basic,120,2,fighting,,Arceus,A2a,70,2025-02-28,1,False,arceus,True
+arceus ex,pokemon,colorless,basic,140,2,fighting,,Arceus ex,A2a,71,2025-02-28,7,True,arceus_ex,True
+irida,supporter,none,none,0,0,none,,Irida,A2a,72,2025-02-28,4,False,irida,True
+celestic town elder,supporter,none,none,0,0,none,,Celestic Town Elder,A2a,73,2025-02-28,2,False,celestic_town_elder,True
+barry,supporter,none,none,0,0,none,,Barry,A2a,74,2025-02-28,2,False,barry,True
+adaman,supporter,none,none,0,0,none,,Adaman,A2a,75,2025-02-28,2,False,adaman,True
+beedrill ex,pokemon,grass,2,170,1,fire,kakuna,Beedrill ex,A2b,3,2025-03-27,4,True,beedrill_ex,True
+floragato,pokemon,grass,1,90,1,fire,sprigatito,Floragato,A2b,6,2025-03-27,9,False,floragato,True
+meowscarada,pokemon,grass,2,140,1,fire,floragato,Meowscarada,A2b,7,2025-03-27,5,False,meowscarada,True
+charizard ex,pokemon,fire,2,180,3,water,charmeleon,Charizard ex,A2b,10,2025-03-27,4,True,charizard_ex_v2,False
+magmar,pokemon,fire,basic,70,1,water,,Magmar,A2b,11,2025-03-27,1,False,magmar_v2,False
+magmortar,pokemon,fire,1,120,3,water,magmar,Magmortar,A2b,12,2025-03-27,1,False,magmortar_v2,False
+paldean tauros,pokemon,fire,basic,110,2,water,,Paldean Tauros,A2b,13,2025-03-27,1,False,paldean_tauros,True
+tentacool,pokemon,water,basic,70,1,lightning,,Tentacool,A2b,14,2025-03-27,1,False,tentacool_v2,False
+tentacruel,pokemon,water,1,100,1,lightning,tentacool,Tentacruel,A2b,15,2025-03-27,1,False,tentacruel_v2,False
+buizel,pokemon,water,basic,70,1,lightning,,Buizel,A2b,16,2025-03-27,3,False,buizel_v2,False
+wiglett,pokemon,water,basic,60,1,lightning,,Wiglett,A2b,18,2025-03-27,5,False,wiglett,True
+wugtrio ex,pokemon,water,1,140,1,lightning,wiglett,Wugtrio ex,A2b,19,2025-03-27,4,True,wugtrio_ex,True
+dondozo,pokemon,water,basic,120,3,lightning,,Dondozo,A2b,20,2025-03-27,2,False,dondozo,True
+tatsugiri,pokemon,water,basic,70,1,lightning,,Tatsugiri,A2b,21,2025-03-27,4,False,tatsugiri,True
+voltorb,pokemon,lightning,basic,70,1,fighting,,Voltorb,A2b,23,2025-03-27,1,False,voltorb_v2,False
+electrode,pokemon,lightning,1,90,1,fighting,voltorb,Electrode,A2b,24,2025-03-27,3,False,electrode_v3,False
+pawmi,pokemon,lightning,basic,60,1,fighting,,Pawmi,A2b,26,2025-03-27,4,False,pawmi,True
+pawmo,pokemon,lightning,1,90,1,fighting,pawmi,Pawmo,A2b,27,2025-03-27,3,False,pawmo,True
+alakazam,pokemon,psychic,2,130,1,darkness,kadabra,Alakazam,A2b,31,2025-03-27,3,False,alakazam_v2,False
+mr. mime,pokemon,psychic,basic,90,1,darkness,,Mr. Mime,A2b,32,2025-03-27,1,False,mr_mime_v2,False
+drifloon,pokemon,psychic,basic,60,1,darkness,,Drifloon,A2b,33,2025-03-27,2,False,drifloon_v2,False
+drifblim,pokemon,psychic,1,90,0,darkness,drifloon,Drifblim,A2b,34,2025-03-27,1,False,drifblim_v2,False
+giratina ex,pokemon,psychic,basic,150,2,darkness,,Giratina ex,A2b,35,2025-03-27,5,True,giratina_ex,True
+gimmighoul,pokemon,psychic,basic,60,1,darkness,,Gimmighoul,A2b,36,2025-03-27,6,False,gimmighoul,True
+machop,pokemon,fighting,basic,60,1,psychic,,Machop,A2b,37,2025-03-27,1,False,machop_v2,False
+hitmonchan,pokemon,fighting,basic,90,1,psychic,,Hitmonchan,A2b,41,2025-03-27,1,False,hitmonchan_v2,False
+lucario ex,pokemon,fighting,1,150,2,psychic,riolu,Lucario ex,A2b,43,2025-03-27,4,True,lucario_ex,True
+flamigo,pokemon,fighting,basic,80,1,psychic,,Flamigo,A2b,44,2025-03-27,1,False,flamigo,True
+ekans,pokemon,darkness,basic,70,1,fighting,,Ekans,A2b,45,2025-03-27,1,False,ekans_v2,False
+arbok,pokemon,darkness,1,110,2,fighting,ekans,Arbok,A2b,46,2025-03-27,1,False,arbok_v2,False
+paldean wooper,pokemon,darkness,basic,50,1,fighting,,Paldean Wooper,A2b,47,2025-03-27,4,False,paldean_wooper,True
+paldean clodsire ex,pokemon,darkness,1,160,3,fighting,paldean wooper,Paldean Clodsire ex,A2b,48,2025-03-27,5,True,paldean_clodsire_ex,True
+shroodle,pokemon,darkness,basic,60,1,fighting,,Shroodle,A2b,50,2025-03-27,1,False,shroodle,True
+grafaiai,pokemon,darkness,1,90,1,fighting,shroodle,Grafaiai,A2b,51,2025-03-27,3,False,grafaiai,True
+tinkatink,pokemon,metal,basic,60,1,fire,,Tinkatink,A2b,52,2025-03-27,5,False,tinkatink,True
+tinkatuff,pokemon,metal,1,90,2,fire,tinkatink,Tinkatuff,A2b,53,2025-03-27,3,False,tinkatuff,True
+tinkaton ex,pokemon,metal,2,170,2,fire,tinkatuff,Tinkaton ex,A2b,54,2025-03-27,5,True,tinkaton_ex,True
+varoom,pokemon,metal,basic,70,1,fire,,Varoom,A2b,55,2025-03-27,3,False,varoom,True
+revavroom,pokemon,metal,1,110,2,fire,varoom,Revavroom,A2b,56,2025-03-27,3,False,revavroom,True
+gholdengo,pokemon,metal,1,120,2,fire,gimmighoul,Gholdengo,A2b,57,2025-03-27,3,False,gholdengo,True
+rattata,pokemon,colorless,basic,50,1,fighting,,Rattata,A2b,58,2025-03-27,5,False,rattata_v2,False
+raticate,pokemon,colorless,1,90,1,fighting,rattata,Raticate,A2b,59,2025-03-27,1,False,raticate_v2,False
+lickilicky,pokemon,colorless,1,130,3,fighting,lickitung,Lickilicky,A2b,63,2025-03-27,2,False,lickilicky,True
+bibarel ex,pokemon,colorless,1,160,3,fighting,bidoof,Bibarel ex,A2b,65,2025-03-27,5,True,bibarel_ex,True
+buneary,pokemon,colorless,basic,50,1,fighting,,Buneary,A2b,66,2025-03-27,2,False,buneary_v2,False
+lopunny,pokemon,colorless,1,100,1,fighting,buneary,Lopunny,A2b,67,2025-03-27,2,False,lopunny_v2,False
+iono,supporter,none,none,0,0,none,,Iono,A2b,69,2025-03-27,6,False,iono,True
+pokemon center lady,supporter,none,none,0,0,none,,Pokémon Center Lady,A2b,70,2025-03-27,2,False,pokemon_center_lady,True
+red,supporter,none,none,0,0,none,,Red,A2b,71,2025-03-27,4,False,red,True
+team rocket grunt,supporter,none,none,0,0,none,,Team Rocket Grunt,A2b,72,2025-03-27,2,False,team_rocket_grunt,True
+exeggcute,pokemon,grass,basic,60,1,fire,,Exeggcute,A3,1,2025-04-30,4,False,exeggcute_v2,False
+surskit,pokemon,grass,basic,50,1,fire,,Surskit,A3,3,2025-04-30,2,False,surskit,True
+masquerain,pokemon,grass,1,90,0,fire,surskit,Masquerain,A3,4,2025-04-30,1,False,masquerain,True
+maractus,pokemon,grass,basic,90,1,fire,,Maractus,A3,5,2025-04-30,1,False,maractus,True
+karrablast,pokemon,grass,basic,60,1,fire,,Karrablast,A3,6,2025-04-30,2,False,karrablast,True
+phantump,pokemon,grass,basic,60,1,fire,,Phantump,A3,7,2025-04-30,2,False,phantump,True
+trevenant,pokemon,grass,1,130,3,fire,phantump,Trevenant,A3,8,2025-04-30,1,False,trevenant,True
+rowlet,pokemon,grass,basic,60,1,fire,,Rowlet,A3,9,2025-04-30,8,False,rowlet,True
+dartrix,pokemon,grass,1,80,1,fire,rowlet,Dartrix,A3,11,2025-04-30,5,False,dartrix,True
+decidueye ex,pokemon,grass,2,170,1,fire,dartrix,Decidueye ex,A3,12,2025-04-30,5,True,decidueye_ex,True
+grubbin,pokemon,grass,basic,60,1,fire,,Grubbin,A3,13,2025-04-30,1,False,grubbin,True
+fomantis,pokemon,grass,basic,60,1,fire,,Fomantis,A3,14,2025-04-30,1,False,fomantis,True
+lurantis,pokemon,grass,1,90,1,fire,fomantis,Lurantis,A3,15,2025-04-30,1,False,lurantis,True
+shiinotic,pokemon,grass,1,100,2,fire,morelull,Shiinotic,A3,17,2025-04-30,1,False,shiinotic_v2,False
+bounsweet,pokemon,grass,basic,50,1,fire,,Bounsweet,A3,18,2025-04-30,1,False,bounsweet,True
+steenee,pokemon,grass,1,80,1,fire,bounsweet,Steenee,A3,19,2025-04-30,1,False,steenee,True
+tsareena,pokemon,grass,2,130,2,fire,steenee,Tsareena,A3,20,2025-04-30,2,False,tsareena,True
+wimpod,pokemon,grass,basic,70,3,fire,,Wimpod,A3,21,2025-04-30,1,False,wimpod,True
+golisopod,pokemon,grass,1,120,2,fire,wimpod,Golisopod,A3,22,2025-04-30,1,False,golisopod,True
+dhelmise ex,pokemon,grass,basic,140,2,fire,,Dhelmise ex,A3,23,2025-04-30,4,True,dhelmise_ex,True
+tapu bulu,pokemon,grass,basic,120,2,fire,,Tapu Bulu,A3,24,2025-04-30,2,False,tapu_bulu,True
+growlithe,pokemon,fire,basic,70,2,water,,Growlithe,A3,25,2025-04-30,3,False,growlithe_v2,False
+arcanine,pokemon,fire,1,130,3,water,growlithe,Arcanine,A3,26,2025-04-30,1,False,arcanine_v2,False
+alolan marowak,pokemon,fire,1,110,2,water,cubone,Alolan Marowak,A3,27,2025-04-30,2,False,alolan_marowak,True
+fletchinder,pokemon,fire,1,80,1,lightning,fletchling,Fletchinder,A3,28,2025-04-30,1,False,fletchinder,True
+talonflame,pokemon,fire,2,120,1,lightning,fletchinder,Talonflame,A3,29,2025-04-30,1,False,talonflame,True
+litten,pokemon,fire,basic,60,1,water,,Litten,A3,30,2025-04-30,6,False,litten,True
+torracat,pokemon,fire,1,80,1,water,litten,Torracat,A3,32,2025-04-30,5,False,torracat,True
+incineroar ex,pokemon,fire,2,180,2,water,torracat,Incineroar ex,A3,33,2025-04-30,5,True,incineroar_ex,True
+oricorio,pokemon,fire,basic,70,1,water,,Oricorio,A3,34,2025-04-30,3,False,oricorio,True
+salandit,pokemon,fire,basic,50,1,water,,Salandit,A3,35,2025-04-30,2,False,salandit_v2,False
+turtonator,pokemon,fire,basic,120,4,water,,Turtonator,A3,37,2025-04-30,2,False,turtonator,True
+alolan sandshrew,pokemon,water,basic,60,1,metal,,Alolan Sandshrew,A3,38,2025-04-30,1,False,alolan_sandshrew,True
+alolan sandslash,pokemon,water,1,100,1,metal,alolan sandshrew,Alolan Sandslash,A3,39,2025-04-30,1,False,alolan_sandslash,True
+alolan vulpix,pokemon,water,basic,60,1,metal,,Alolan Vulpix,A3,40,2025-04-30,7,False,alolan_vulpix,True
+shellder,pokemon,water,basic,70,1,lightning,,Shellder,A3,42,2025-04-30,2,False,shellder_v2,False
+cloyster,pokemon,water,1,110,3,lightning,shellder,Cloyster,A3,43,2025-04-30,2,False,cloyster_v2,False
+lapras,pokemon,water,basic,110,2,lightning,,Lapras,A3,44,2025-04-30,1,False,lapras_v2,False
+popplio,pokemon,water,basic,60,1,lightning,,Popplio,A3,45,2025-04-30,4,False,popplio,True
+brionne,pokemon,water,1,80,1,lightning,popplio,Brionne,A3,47,2025-04-30,1,False,brionne,True
+primarina,pokemon,water,2,140,2,lightning,brionne,Primarina,A3,48,2025-04-30,1,False,primarina,True
+crabominable ex,pokemon,water,1,160,3,metal,crabrawler,Crabominable ex,A3,49,2025-04-30,4,True,crabominable_ex,True
+wishiwashi,pokemon,water,basic,30,1,lightning,,Wishiwashi,A3,50,2025-04-30,3,False,wishiwashi,True
+wishiwashi ex,pokemon,water,basic,170,3,lightning,,Wishiwashi ex,A3,51,2025-04-30,4,True,wishiwashi_ex,True
+dewpider,pokemon,water,basic,60,1,lightning,,Dewpider,A3,52,2025-04-30,2,False,dewpider,True
+araquanid,pokemon,water,1,110,2,lightning,dewpider,Araquanid,A3,53,2025-04-30,1,False,araquanid,True
+pyukumuku,pokemon,water,basic,60,1,lightning,,Pyukumuku,A3,54,2025-04-30,3,False,pyukumuku_v2,False
+bruxish,pokemon,water,basic,80,1,lightning,,Bruxish,A3,55,2025-04-30,2,False,bruxish_v2,False
+tapu fini,pokemon,water,basic,100,1,lightning,,Tapu Fini,A3,56,2025-04-30,2,False,tapu_fini,True
+alolan raichu ex,pokemon,lightning,1,140,1,fighting,pikachu,Alolan Raichu ex,A3,58,2025-04-30,4,True,alolan_raichu_ex,True
+alolan geodude,pokemon,lightning,basic,70,2,fighting,,Alolan Geodude,A3,59,2025-04-30,1,False,alolan_geodude,True
+alolan graveler,pokemon,lightning,1,110,3,fighting,alolan geodude,Alolan Graveler,A3,60,2025-04-30,1,False,alolan_graveler,True
+alolan golem,pokemon,lightning,2,160,4,fighting,alolan graveler,Alolan Golem,A3,61,2025-04-30,1,False,alolan_golem,True
+charjabug,pokemon,lightning,1,90,2,fighting,grubbin,Charjabug,A3,64,2025-04-30,1,False,charjabug,True
+vikavolt,pokemon,lightning,2,140,1,fighting,charjabug,Vikavolt,A3,65,2025-04-30,1,False,vikavolt,True
+oricorio,pokemon,lightning,basic,70,1,fighting,,Oricorio,A3,66,2025-04-30,5,False,oricorio_v2,False
+togedemaru,pokemon,lightning,basic,70,1,fighting,,Togedemaru,A3,67,2025-04-30,1,False,togedemaru_v2,False
+tapu koko,pokemon,lightning,basic,100,1,fighting,,Tapu Koko,A3,68,2025-04-30,2,False,tapu_koko,True
+sableye,pokemon,psychic,basic,80,1,darkness,,Sableye,A3,70,2025-04-30,2,False,sableye,True
+spoink,pokemon,psychic,basic,60,1,darkness,,Spoink,A3,71,2025-04-30,2,False,spoink,True
+grumpig,pokemon,psychic,1,110,1,darkness,spoink,Grumpig,A3,72,2025-04-30,1,False,grumpig,True
+lunatone,pokemon,psychic,basic,90,2,darkness,,Lunatone,A3,73,2025-04-30,1,False,lunatone,True
+shuppet,pokemon,psychic,basic,60,1,darkness,,Shuppet,A3,74,2025-04-30,1,False,shuppet,True
+banette,pokemon,psychic,1,90,1,darkness,shuppet,Banette,A3,75,2025-04-30,1,False,banette,True
+oricorio,pokemon,psychic,basic,70,1,darkness,,Oricorio,A3,76,2025-04-30,4,False,oricorio_v3,False
+cutiefly,pokemon,psychic,basic,30,0,metal,,Cutiefly,A3,78,2025-04-30,2,False,cutiefly,True
+ribombee,pokemon,psychic,1,80,0,metal,cutiefly,Ribombee,A3,79,2025-04-30,1,False,ribombee,True
+comfey,pokemon,psychic,basic,70,1,metal,,Comfey,A3,80,2025-04-30,2,False,comfey,True
+sandygast,pokemon,psychic,basic,80,2,darkness,,Sandygast,A3,81,2025-04-30,2,False,sandygast,True
+palossand,pokemon,psychic,1,130,3,darkness,sandygast,Palossand,A3,82,2025-04-30,1,False,palossand,True
+tapu lele,pokemon,psychic,basic,90,1,metal,,Tapu Lele,A3,84,2025-04-30,2,False,tapu_lele,True
+cosmoem,pokemon,psychic,1,100,3,darkness,cosmog,Cosmoem,A3,86,2025-04-30,6,False,cosmoem,True
+lunala ex,pokemon,psychic,2,180,1,darkness,cosmoem,Lunala ex,A3,87,2025-04-30,7,True,lunala_ex,True
+necrozma,pokemon,psychic,basic,120,2,darkness,,Necrozma,A3,88,2025-04-30,1,False,necrozma,True
+makuhita,pokemon,fighting,basic,70,2,psychic,,Makuhita,A3,90,2025-04-30,2,False,makuhita,True
+hariyama,pokemon,fighting,1,120,3,psychic,makuhita,Hariyama,A3,91,2025-04-30,3,False,hariyama,True
+solrock,pokemon,fighting,basic,90,2,grass,,Solrock,A3,92,2025-04-30,1,False,solrock,True
+drilbur,pokemon,fighting,basic,60,1,grass,,Drilbur,A3,93,2025-04-30,4,False,drilbur,True
+timburr,pokemon,fighting,basic,60,1,psychic,,Timburr,A3,94,2025-04-30,1,False,timburr,True
+gurdurr,pokemon,fighting,1,90,2,psychic,timburr,Gurdurr,A3,95,2025-04-30,2,False,gurdurr,True
+conkeldurr,pokemon,fighting,2,150,3,psychic,gurdurr,Conkeldurr,A3,96,2025-04-30,2,False,conkeldurr,True
+rockruff,pokemon,fighting,basic,60,1,grass,,Rockruff,A3,98,2025-04-30,10,False,rockruff,True
+mudbray,pokemon,fighting,basic,80,2,grass,,Mudbray,A3,102,2025-04-30,1,False,mudbray,True
+mudsdale,pokemon,fighting,1,140,4,grass,mudbray,Mudsdale,A3,103,2025-04-30,2,False,mudsdale,True
+passimian ex,pokemon,fighting,basic,130,2,psychic,,Passimian ex,A3,104,2025-04-30,5,True,passimian_ex,True
+minior,pokemon,fighting,basic,80,1,grass,,Minior,A3,105,2025-04-30,2,False,minior,True
+alolan rattata,pokemon,darkness,basic,50,1,grass,,Alolan Rattata,A3,106,2025-04-30,1,False,alolan_rattata,True
+alolan raticate,pokemon,darkness,1,110,3,grass,alolan rattata,Alolan Raticate,A3,107,2025-04-30,1,False,alolan_raticate,True
+alolan meowth,pokemon,darkness,basic,60,1,grass,,Alolan Meowth,A3,108,2025-04-30,4,False,alolan_meowth,True
+alolan persian,pokemon,darkness,1,100,1,grass,alolan meowth,Alolan Persian,A3,109,2025-04-30,3,False,alolan_persian,True
+alolan muk ex,pokemon,darkness,1,160,3,fighting,alolan grimer,Alolan Muk ex,A3,111,2025-04-30,4,True,alolan_muk_ex,True
+trubbish,pokemon,darkness,basic,60,1,fighting,,Trubbish,A3,113,2025-04-30,1,False,trubbish,True
+garbodor,pokemon,darkness,1,120,3,fighting,trubbish,Garbodor,A3,114,2025-04-30,2,False,garbodor,True
+mareanie,pokemon,darkness,basic,70,2,fighting,,Mareanie,A3,115,2025-04-30,1,False,mareanie,True
+toxapex,pokemon,darkness,1,110,2,fighting,mareanie,Toxapex,A3,116,2025-04-30,2,False,toxapex,True
+alolan diglett,pokemon,metal,basic,50,1,fire,,Alolan Diglett,A3,117,2025-04-30,2,False,alolan_diglett,True
+alolan dugtrio,pokemon,metal,1,90,1,fire,alolan diglett,Alolan Dugtrio,A3,118,2025-04-30,1,False,alolan_dugtrio,True
+excadrill,pokemon,metal,1,110,3,fire,drilbur,Excadrill,A3,119,2025-04-30,3,False,excadrill,True
+escavalier,pokemon,metal,1,110,3,fire,karrablast,Escavalier,A3,120,2025-04-30,1,False,escavalier,True
+klefki,pokemon,metal,basic,70,1,fire,,Klefki,A3,121,2025-04-30,3,False,klefki,True
+solgaleo ex,pokemon,metal,2,180,2,fire,cosmoem,Solgaleo ex,A3,122,2025-04-30,7,True,solgaleo_ex,True
+magearna,pokemon,metal,basic,90,1,fire,,Magearna,A3,123,2025-04-30,5,False,magearna,True
+drampa,pokemon,dragon,basic,100,2,none,,Drampa,A3,124,2025-04-30,3,False,drampa,True
+jangmo-o,pokemon,dragon,basic,60,1,none,,Jangmo-o,A3,125,2025-04-30,1,False,jangmo_o,True
+hakamo-o,pokemon,dragon,1,100,2,none,,Hakamo-o,A3,126,2025-04-30,1,False,hakamo_o,True
+kommo-o,pokemon,dragon,2,150,2,none,,Kommo-o,A3,127,2025-04-30,1,False,kommo_o,True
+skitty,pokemon,colorless,basic,60,1,fighting,,Skitty,A3,129,2025-04-30,5,False,skitty,True
+delcatty,pokemon,colorless,1,90,1,fighting,skitty,Delcatty,A3,130,2025-04-30,5,False,delcatty,True
+fletchling,pokemon,colorless,basic,50,1,lightning,,Fletchling,A3,131,2025-04-30,2,False,fletchling,True
+hawlucha,pokemon,colorless,basic,80,1,lightning,,Hawlucha,A3,132,2025-04-30,3,False,hawlucha,True
+pikipek,pokemon,colorless,basic,50,1,lightning,,Pikipek,A3,133,2025-04-30,2,False,pikipek,True
+trumbeak,pokemon,colorless,1,80,1,lightning,pikipek,Trumbeak,A3,134,2025-04-30,1,False,trumbeak,True
+yungoos,pokemon,colorless,basic,60,1,fighting,,Yungoos,A3,136,2025-04-30,1,False,yungoos,True
+gumshoos,pokemon,colorless,1,100,1,fighting,yungoos,Gumshoos,A3,137,2025-04-30,1,False,gumshoos,True
+bewear,pokemon,colorless,1,130,3,fighting,stufful,Bewear,A3,139,2025-04-30,2,False,bewear,True
+oranguru,pokemon,colorless,basic,100,2,fighting,,Oranguru,A3,140,2025-04-30,2,False,oranguru,True
+komala,pokemon,colorless,basic,90,2,fighting,,Komala,A3,141,2025-04-30,2,False,komala,True
+big malasada,item,none,none,0,0,none,,Big Malasada,A3,142,2025-04-30,1,False,big_malasada,True
+fishing net,item,none,none,0,0,none,,Fishing Net,A3,143,2025-04-30,1,False,fishing_net,True
+rare candy,item,none,none,0,0,none,,Rare Candy,A3,144,2025-04-30,4,False,rare_candy,True
+rotom dex,item,none,none,0,0,none,,Rotom Dex,A3,145,2025-04-30,1,False,rotom_dex,True
+poison barb,tool,none,none,0,0,none,,Poison Barb,A3,146,2025-04-30,1,False,poison_barb,True
+leaf cape,tool,none,none,0,0,none,,Leaf Cape,A3,147,2025-04-30,3,False,leaf_cape,True
+acerola,supporter,none,none,0,0,none,,Acerola,A3,148,2025-04-30,2,False,acerola,True
+ilima,supporter,none,none,0,0,none,,Ilima,A3,149,2025-04-30,2,False,ilima,True
+kiawe,supporter,none,none,0,0,none,,Kiawe,A3,150,2025-04-30,2,False,kiawe,True
+guzma,supporter,none,none,0,0,none,,Guzma,A3,151,2025-04-30,3,False,guzma,True
+lana,supporter,none,none,0,0,none,,Lana,A3,152,2025-04-30,2,False,lana,True
+sophocles,supporter,none,none,0,0,none,,Sophocles,A3,153,2025-04-30,2,False,sophocles,True
+mallow,supporter,none,none,0,0,none,,Mallow,A3,154,2025-04-30,2,False,mallow,True
+lillie,supporter,none,none,0,0,none,,Lillie,A3,155,2025-04-30,6,False,lillie,True
+lilligant,pokemon,grass,1,110,2,fire,petilil,Lilligant,A3a,2,2025-05-29,1,False,lilligant_v2,False
+decidueye,pokemon,grass,2,130,2,fire,dartrix,Decidueye,A3a,5,2025-05-29,1,False,decidueye,True
+buzzwole ex,pokemon,grass,basic,140,2,fire,,Buzzwole ex,A3a,6,2025-05-29,6,True,buzzwole_ex,True
+pheromosa,pokemon,grass,basic,70,1,fire,,Pheromosa,A3a,7,2025-05-29,5,False,pheromosa,True
+mantine,pokemon,water,basic,90,2,lightning,,Mantine,A3a,10,2025-05-29,1,False,mantine,True
+carvanha,pokemon,water,basic,60,1,lightning,,Carvanha,A3a,11,2025-05-29,1,False,carvanha,True
+sharpedo,pokemon,water,1,90,1,lightning,carvanha,Sharpedo,A3a,12,2025-05-29,1,False,sharpedo,True
+luxio,pokemon,lightning,1,80,1,fighting,shinx,Luxio,A3a,14,2025-05-29,1,False,luxio_v2,False
+luxray,pokemon,lightning,2,130,1,fighting,luxio,Luxray,A3a,15,2025-05-29,1,False,luxray_v2,False
+emolga,pokemon,lightning,basic,70,1,lightning,,Emolga,A3a,18,2025-05-29,5,False,emolga,True
+phantump,pokemon,psychic,basic,70,2,darkness,,Phantump,A3a,24,2025-05-29,1,False,phantump_v2,False
+trevenant,pokemon,psychic,1,120,2,darkness,phantump,Trevenant,A3a,25,2025-05-29,1,False,trevenant_v2,False
+morelull,pokemon,psychic,basic,50,1,metal,,Morelull,A3a,26,2025-05-29,1,False,morelull_v2,False
+shiinotic,pokemon,psychic,1,90,2,metal,morelull,Shiinotic,A3a,27,2025-05-29,1,False,shiinotic_v3,False
+medicham,pokemon,fighting,1,90,2,psychic,meditite,Medicham,A3a,29,2025-05-29,1,False,medicham_v2,False
+baltoy,pokemon,fighting,basic,60,1,grass,,Baltoy,A3a,30,2025-05-29,1,False,baltoy,True
+claydol,pokemon,fighting,1,100,2,grass,baltoy,Claydol,A3a,31,2025-05-29,1,False,claydol,True
+lycanroc ex,pokemon,fighting,1,150,2,grass,rockruff,Lycanroc ex,A3a,33,2025-05-29,9,True,lycanroc_ex,True
+passimian,pokemon,fighting,basic,100,1,psychic,,Passimian,A3a,34,2025-05-29,1,False,passimian,True
+sandygast,pokemon,fighting,basic,80,2,grass,,Sandygast,A3a,35,2025-05-29,2,False,sandygast_v2,False
+palossand,pokemon,fighting,1,130,3,grass,sandygast,Palossand,A3a,36,2025-05-29,2,False,palossand_v2,False
+sandile,pokemon,darkness,basic,70,2,grass,,Sandile,A3a,39,2025-05-29,1,False,sandile,True
+krokorok,pokemon,darkness,1,90,2,grass,sandile,Krokorok,A3a,40,2025-05-29,1,False,krokorok,True
+krookodile,pokemon,darkness,2,140,3,grass,krokorok,Krookodile,A3a,41,2025-05-29,1,False,krookodile,True
+nihilego,pokemon,darkness,basic,70,1,fighting,,Nihilego,A3a,42,2025-05-29,4,False,nihilego,True
+guzzlord ex,pokemon,darkness,basic,170,4,grass,,Guzzlord ex,A3a,43,2025-05-29,5,True,guzzlord_ex,True
+naganadel,pokemon,darkness,1,100,2,fighting,poipole,Naganadel,A3a,45,2025-05-29,1,False,naganadel,True
+alolan diglett,pokemon,metal,basic,60,1,fire,,Alolan Diglett,A3a,46,2025-05-29,3,False,alolan_diglett_v2,False
+alolan dugtrio ex,pokemon,metal,1,130,1,fire,alolan diglett,Alolan Dugtrio ex,A3a,47,2025-05-29,5,True,alolan_dugtrio_ex,True
+aron,pokemon,metal,basic,70,2,fire,,Aron,A3a,48,2025-05-29,1,False,aron,True
+lairon,pokemon,metal,1,100,3,fire,aron,Lairon,A3a,49,2025-05-29,1,False,lairon,True
+aggron,pokemon,metal,2,160,4,fire,lairon,Aggron,A3a,50,2025-05-29,1,False,aggron,True
+ferroseed,pokemon,metal,basic,60,2,fire,,Ferroseed,A3a,51,2025-05-29,2,False,ferroseed,True
+ferrothorn,pokemon,metal,1,110,3,fire,ferroseed,Ferrothorn,A3a,52,2025-05-29,2,False,ferrothorn,True
+lillipup,pokemon,colorless,basic,60,1,fighting,,Lillipup,A3a,54,2025-05-29,5,False,lillipup,True
+herdier,pokemon,colorless,1,80,1,fighting,lillipup,Herdier,A3a,55,2025-05-29,1,False,herdier,True
+stoutland,pokemon,colorless,2,140,2,fighting,herdier,Stoutland,A3a,56,2025-05-29,1,False,stoutland,True
+bewear,pokemon,colorless,1,120,3,fighting,stufful,Bewear,A3a,58,2025-05-29,1,False,bewear_v2,False
+type: null,pokemon,colorless,basic,80,2,fighting,,Type: Null,A3a,60,2025-05-29,5,False,type_null,True
+silvally,pokemon,colorless,1,110,1,fighting,type: null,Silvally,A3a,61,2025-05-29,5,False,silvally,True
+celesteela,pokemon,colorless,basic,120,4,lightning,,Celesteela,A3a,62,2025-05-29,4,False,celesteela,True
+beast wall,item,none,none,0,0,none,,Beast Wall,A3a,63,2025-05-29,1,False,beast_wall,True
+repel,item,none,none,0,0,none,,Repel,A3a,64,2025-05-29,1,False,repel,True
+electrical cord,tool,none,none,0,0,none,,Electrical Cord,A3a,65,2025-05-29,3,False,electrical_cord,True
+beastite,tool,none,none,0,0,none,,Beastite,A3a,66,2025-05-29,1,False,beastite,True
+gladion,supporter,none,none,0,0,none,,Gladion,A3a,67,2025-05-29,2,False,gladion,True
+looker,supporter,none,none,0,0,none,,Looker,A3a,68,2025-05-29,2,False,looker,True
+lusamine,supporter,none,none,0,0,none,,Lusamine,A3a,69,2025-05-29,5,False,lusamine,True
+bounsweet,pokemon,grass,basic,60,1,fire,,Bounsweet,A3b,3,2025-06-26,1,False,bounsweet_v2,False
+steenee,pokemon,grass,1,80,2,fire,bounsweet,Steenee,A3b,4,2025-06-26,1,False,steenee_v2,False
+tsareena,pokemon,grass,2,140,2,fire,steenee,Tsareena,A3b,5,2025-06-26,1,False,tsareena_v2,False
+applin,pokemon,grass,basic,40,1,fire,,Applin,A3b,6,2025-06-26,2,False,applin,True
+appletun,pokemon,grass,1,90,3,fire,applin,Appletun,A3b,7,2025-06-26,1,False,appletun,True
+flareon,pokemon,fire,1,110,2,water,eevee,Flareon,A3b,8,2025-06-26,6,False,flareon_v2,False
+flareon ex,pokemon,fire,1,150,2,water,eevee,Flareon ex,A3b,9,2025-06-26,5,True,flareon_ex,True
+torkoal,pokemon,fire,basic,100,2,water,,Torkoal,A3b,10,2025-06-26,3,False,torkoal,True
+litten,pokemon,fire,basic,70,1,water,,Litten,A3b,11,2025-06-26,1,False,litten_v2,False
+incineroar,pokemon,fire,2,150,3,water,torracat,Incineroar,A3b,13,2025-06-26,1,False,incineroar,True
+salazzle,pokemon,fire,1,90,0,water,salandit,Salazzle,A3b,15,2025-06-26,1,False,salazzle_v3,False
+glaceon,pokemon,water,1,100,2,metal,eevee,Glaceon,A3b,17,2025-06-26,2,False,glaceon_v2,False
+vanillish,pokemon,water,1,80,2,metal,vanillite,Vanillish,A3b,19,2025-06-26,1,False,vanillish,True
+vanilluxe,pokemon,water,2,140,2,metal,vanillish,Vanilluxe,A3b,20,2025-06-26,2,False,vanilluxe,True
+alomomola,pokemon,water,basic,110,2,lightning,,Alomomola,A3b,21,2025-06-26,1,False,alomomola,True
+popplio,pokemon,water,basic,70,1,lightning,,Popplio,A3b,22,2025-06-26,3,False,popplio_v2,False
+brionne,pokemon,water,1,90,2,lightning,popplio,Brionne,A3b,23,2025-06-26,4,False,brionne_v2,False
+primarina ex,pokemon,water,2,180,2,lightning,brionne,Primarina ex,A3b,24,2025-06-26,5,True,primarina_ex,True
+galvantula,pokemon,lightning,1,80,0,fighting,joltik,Galvantula,A3b,27,2025-06-26,2,False,galvantula_v2,False
+espeon,pokemon,psychic,1,100,1,darkness,eevee,Espeon,A3b,28,2025-06-26,2,False,espeon,True
+swoobat,pokemon,psychic,1,100,1,darkness,woobat,Swoobat,A3b,30,2025-06-26,1,False,swoobat_v2,False
+slurpuff,pokemon,psychic,1,120,3,metal,swirlix,Slurpuff,A3b,32,2025-06-26,4,False,slurpuff_v2,False
+sylveon,pokemon,psychic,1,90,1,metal,eevee,Sylveon,A3b,33,2025-06-26,2,False,sylveon,True
+sylveon ex,pokemon,psychic,1,140,1,metal,eevee,Sylveon ex,A3b,34,2025-06-26,5,True,sylveon_ex,True
+milcery,pokemon,psychic,basic,50,1,metal,,Milcery,A3b,36,2025-06-26,3,False,milcery,True
+barboach,pokemon,fighting,basic,70,2,grass,,Barboach,A3b,38,2025-06-26,1,False,barboach_v2,False
+whiscash,pokemon,fighting,1,130,3,grass,barboach,Whiscash,A3b,39,2025-06-26,1,False,whiscash_v2,False
+mienshao,pokemon,fighting,1,90,1,psychic,mienfoo,Mienshao,A3b,41,2025-06-26,2,False,mienshao_v2,False
+carbink,pokemon,fighting,basic,80,1,grass,,Carbink,A3b,42,2025-06-26,1,False,carbink,True
+umbreon,pokemon,darkness,1,100,2,grass,eevee,Umbreon,A3b,43,2025-06-26,5,False,umbreon,True
+sableye,pokemon,darkness,basic,70,1,grass,,Sableye,A3b,44,2025-06-26,1,False,sableye_v2,False
+melmetal,pokemon,metal,1,140,4,fire,meltan,Melmetal,A3b,50,2025-06-26,2,False,melmetal_v2,False
+dratini,pokemon,dragon,basic,60,1,none,,Dratini,A3b,51,2025-06-26,9,False,dratini_v2,False
+dragonair,pokemon,dragon,1,90,1,none,dratini,Dragonair,A3b,52,2025-06-26,3,False,dragonair_v3,False
+dragonite ex,pokemon,dragon,2,180,2,none,dragonair,Dragonite ex,A3b,53,2025-06-26,4,True,dragonite_ex,True
+snorlax ex,pokemon,colorless,basic,160,4,fighting,,Snorlax ex,A3b,57,2025-06-26,4,True,snorlax_ex,True
+audino,pokemon,colorless,basic,90,2,fighting,,Audino,A3b,61,2025-06-26,1,False,audino_v2,False
+minccino,pokemon,colorless,basic,70,1,fighting,,Minccino,A3b,62,2025-06-26,1,False,minccino_v2,False
+skwovet,pokemon,colorless,basic,70,1,fighting,,Skwovet,A3b,64,2025-06-26,1,False,skwovet,True
+eevee bag,item,none,none,0,0,none,,Eevee Bag,A3b,66,2025-06-26,4,False,eevee_bag,True
+leftovers,tool,none,none,0,0,none,,Leftovers,A3b,67,2025-06-26,1,False,leftovers,True
+hau,supporter,none,none,0,0,none,,Hau,A3b,68,2025-06-26,2,False,hau,True
+penny,supporter,none,none,0,0,none,,Penny,A3b,69,2025-06-26,4,False,penny,True
+oddish,pokemon,grass,basic,50,1,fire,,Oddish,A4,1,2025-07-30,2,False,oddish_v2,False
+gloom,pokemon,grass,1,80,1,fire,oddish,Gloom,A4,2,2025-07-30,2,False,gloom_v2,False
+tangrowth,pokemon,grass,1,130,4,fire,tangela,Tangrowth,A4,5,2025-07-30,1,False,tangrowth_v2,False
+chikorita,pokemon,grass,basic,60,1,fire,,Chikorita,A4,8,2025-07-30,3,False,chikorita,True
+bayleef,pokemon,grass,1,90,2,fire,chikorita,Bayleef,A4,9,2025-07-30,1,False,bayleef,True
+meganium,pokemon,grass,2,150,3,fire,bayleef,Meganium,A4,10,2025-07-30,1,False,meganium,True
+ledyba,pokemon,grass,basic,60,1,fire,,Ledyba,A4,11,2025-07-30,2,False,ledyba,True
+ledian,pokemon,grass,1,80,1,fire,ledyba,Ledian,A4,12,2025-07-30,2,False,ledian,True
+hoppip,pokemon,grass,basic,50,1,fire,,Hoppip,A4,13,2025-07-30,3,False,hoppip,True
+skiploom,pokemon,grass,1,70,1,fire,hoppip,Skiploom,A4,14,2025-07-30,3,False,skiploom,True
+jumpluff,pokemon,grass,2,120,1,fire,skiploom,Jumpluff,A4,15,2025-07-30,3,False,jumpluff,True
+sunkern,pokemon,grass,basic,40,1,fire,,Sunkern,A4,16,2025-07-30,1,False,sunkern,True
+sunflora,pokemon,grass,1,90,1,fire,sunkern,Sunflora,A4,17,2025-07-30,1,False,sunflora,True
+yanma,pokemon,grass,basic,60,1,lightning,,Yanma,A4,18,2025-07-30,2,False,yanma_v2,False
+yanmega,pokemon,grass,1,90,1,lightning,yanma,Yanmega,A4,19,2025-07-30,1,False,yanmega,True
+pineco,pokemon,grass,basic,60,1,fire,,Pineco,A4,20,2025-07-30,3,False,pineco,True
+shuckle ex,pokemon,grass,basic,120,1,fire,,Shuckle ex,A4,21,2025-07-30,4,True,shuckle_ex,True
+heracross,pokemon,grass,basic,90,2,fire,,Heracross,A4,22,2025-07-30,3,False,heracross_v2,False
+vulpix,pokemon,fire,basic,60,1,water,,Vulpix,A4,25,2025-07-30,4,False,vulpix_v2,False
+ninetales,pokemon,fire,1,100,1,water,vulpix,Ninetales,A4,26,2025-07-30,3,False,ninetales_v2,False
+cyndaquil,pokemon,fire,basic,60,1,water,,Cyndaquil,A4,27,2025-07-30,7,False,cyndaquil,True
+quilava,pokemon,fire,1,80,1,water,cyndaquil,Quilava,A4,28,2025-07-30,6,False,quilava,True
+typhlosion,pokemon,fire,2,140,2,water,quilava,Typhlosion,A4,29,2025-07-30,1,False,typhlosion,True
+magby,pokemon,fire,basic,30,0,none,,Magby,A4,32,2025-07-30,3,False,magby,True
+entei,pokemon,fire,basic,110,2,water,,Entei,A4,33,2025-07-30,1,False,entei,True
+ho-oh ex,pokemon,fire,basic,150,2,lightning,,Ho-Oh ex,A4,34,2025-07-30,7,True,ho_oh_ex,True
+darumaka,pokemon,fire,basic,70,1,water,,Darumaka,A4,35,2025-07-30,1,False,darumaka,True
+darmanitan,pokemon,fire,1,120,2,water,darumaka,Darmanitan,A4,36,2025-07-30,2,False,darmanitan,True
+heatmor,pokemon,fire,basic,90,2,water,,Heatmor,A4,37,2025-07-30,1,False,heatmor_v2,False
+poliwhirl,pokemon,water,1,90,1,lightning,poliwag,Poliwhirl,A4,39,2025-07-30,2,False,poliwhirl_v2,False
+politoed,pokemon,water,2,140,1,lightning,poliwhirl,Politoed,A4,40,2025-07-30,1,False,politoed,True
+horsea,pokemon,water,basic,50,1,lightning,,Horsea,A4,41,2025-07-30,4,False,horsea_v2,False
+seadra,pokemon,water,1,80,1,lightning,horsea,Seadra,A4,42,2025-07-30,4,False,seadra_v2,False
+kingdra ex,pokemon,water,2,170,1,lightning,seadra,Kingdra ex,A4,43,2025-07-30,5,True,kingdra_ex,True
+gyarados,pokemon,water,1,130,3,lightning,magikarp,Gyarados,A4,45,2025-07-30,2,False,gyarados_v2,False
+totodile,pokemon,water,basic,60,1,lightning,,Totodile,A4,46,2025-07-30,2,False,totodile,True
+croconaw,pokemon,water,1,90,2,lightning,totodile,Croconaw,A4,47,2025-07-30,1,False,croconaw,True
+feraligatr,pokemon,water,2,150,3,lightning,croconaw,Feraligatr,A4,48,2025-07-30,1,False,feraligatr,True
+azumarill,pokemon,water,1,110,2,lightning,marill,Azumarill,A4,50,2025-07-30,1,False,azumarill_v2,False
+wooper,pokemon,water,basic,70,1,lightning,,Wooper,A4,51,2025-07-30,1,False,wooper,True
+quagsire,pokemon,water,1,130,3,lightning,wooper,Quagsire,A4,52,2025-07-30,3,False,quagsire,True
+qwilfish,pokemon,water,basic,80,2,lightning,,Qwilfish,A4,53,2025-07-30,2,False,qwilfish,True
+corsola,pokemon,water,basic,80,1,lightning,,Corsola,A4,54,2025-07-30,1,False,corsola,True
+remoraid,pokemon,water,basic,60,1,lightning,,Remoraid,A4,55,2025-07-30,1,False,remoraid,True
+octillery,pokemon,water,1,100,2,lightning,remoraid,Octillery,A4,56,2025-07-30,2,False,octillery,True
+delibird,pokemon,water,basic,70,1,metal,,Delibird,A4,57,2025-07-30,2,False,delibird,True
+mantine,pokemon,water,basic,100,2,lightning,,Mantine,A4,58,2025-07-30,1,False,mantine_v2,False
+suicune,pokemon,water,basic,100,1,lightning,,Suicune,A4,59,2025-07-30,1,False,suicune,True
+corphish,pokemon,water,basic,60,1,lightning,,Corphish,A4,60,2025-07-30,3,False,corphish,True
+crawdaunt,pokemon,water,1,100,2,lightning,corphish,Crawdaunt,A4,61,2025-07-30,5,False,crawdaunt,True
+ducklett,pokemon,water,basic,60,1,lightning,,Ducklett,A4,62,2025-07-30,1,False,ducklett_v2,False
+swanna,pokemon,water,1,80,0,lightning,ducklett,Swanna,A4,63,2025-07-30,1,False,swanna_v2,False
+chinchou,pokemon,lightning,basic,70,1,fighting,,Chinchou,A4,64,2025-07-30,3,False,chinchou_v2,False
+lanturn ex,pokemon,lightning,1,150,2,fighting,chinchou,Lanturn ex,A4,65,2025-07-30,4,True,lanturn_ex,True
+pichu,pokemon,lightning,basic,30,0,none,,Pichu,A4,66,2025-07-30,3,False,pichu,True
+mareep,pokemon,lightning,basic,60,1,fighting,,Mareep,A4,67,2025-07-30,1,False,mareep,True
+flaaffy,pokemon,lightning,1,90,2,fighting,mareep,Flaaffy,A4,68,2025-07-30,1,False,flaaffy,True
+ampharos,pokemon,lightning,2,150,2,fighting,flaaffy,Ampharos,A4,69,2025-07-30,2,False,ampharos,True
+elekid,pokemon,lightning,basic,30,0,none,,Elekid,A4,70,2025-07-30,1,False,elekid,True
+raikou,pokemon,lightning,basic,90,1,fighting,,Raikou,A4,71,2025-07-30,1,False,raikou,True
+slowking,pokemon,psychic,1,110,2,darkness,slowpoke,Slowking,A4,74,2025-07-30,1,False,slowking,True
+smoochum,pokemon,psychic,basic,30,0,none,,Smoochum,A4,75,2025-07-30,1,False,smoochum,True
+jynx,pokemon,psychic,basic,80,2,darkness,,Jynx,A4,76,2025-07-30,1,False,jynx_v2,False
+togepi,pokemon,psychic,basic,60,1,metal,,Togepi,A4,78,2025-07-30,2,False,togepi_v2,False
+togetic,pokemon,psychic,1,90,1,metal,togepi,Togetic,A4,79,2025-07-30,1,False,togetic_v2,False
+natu,pokemon,psychic,basic,50,1,darkness,,Natu,A4,81,2025-07-30,1,False,natu,True
+xatu,pokemon,psychic,1,80,1,darkness,natu,Xatu,A4,82,2025-07-30,2,False,xatu,True
+espeon ex,pokemon,psychic,1,140,1,darkness,eevee,Espeon ex,A4,83,2025-07-30,5,True,espeon_ex,True
+wobbuffet,pokemon,psychic,basic,90,2,darkness,,Wobbuffet,A4,86,2025-07-30,3,False,wobbuffet,True
+girafarig,pokemon,psychic,basic,80,1,darkness,,Girafarig,A4,87,2025-07-30,1,False,girafarig,True
+snubbull,pokemon,psychic,basic,60,1,metal,,Snubbull,A4,88,2025-07-30,3,False,snubbull,True
+granbull,pokemon,psychic,1,120,2,metal,snubbull,Granbull,A4,89,2025-07-30,2,False,granbull,True
+munna,pokemon,psychic,basic,70,2,darkness,,Munna,A4,90,2025-07-30,1,False,munna,True
+musharna,pokemon,psychic,1,110,3,darkness,munna,Musharna,A4,91,2025-07-30,1,False,musharna,True
+onix,pokemon,fighting,basic,100,3,grass,,Onix,A4,92,2025-07-30,6,False,onix_v2,False
+sudowoodo,pokemon,fighting,basic,90,2,grass,,Sudowoodo,A4,93,2025-07-30,2,False,sudowoodo_v2,False
+gliscor,pokemon,fighting,1,100,1,grass,gligar,Gliscor,A4,95,2025-07-30,1,False,gliscor_v2,False
+swinub,pokemon,fighting,basic,70,2,grass,,Swinub,A4,96,2025-07-30,1,False,swinub_v2,False
+piloswine,pokemon,fighting,1,100,3,grass,swinub,Piloswine,A4,97,2025-07-30,1,False,piloswine_v2,False
+mamoswine,pokemon,fighting,2,160,4,grass,piloswine,Mamoswine,A4,98,2025-07-30,1,False,mamoswine_v2,False
+donphan ex,pokemon,fighting,1,160,3,grass,phanpy,Donphan ex,A4,100,2025-07-30,5,True,donphan_ex,True
+tyrogue,pokemon,fighting,basic,30,0,none,,Tyrogue,A4,101,2025-07-30,2,False,tyrogue,True
+hitmontop,pokemon,fighting,basic,80,2,psychic,,Hitmontop,A4,102,2025-07-30,1,False,hitmontop_v2,False
+pupitar,pokemon,fighting,1,80,2,grass,larvitar,Pupitar,A4,104,2025-07-30,1,False,pupitar_v2,False
+binacle,pokemon,fighting,basic,80,2,grass,,Binacle,A4,105,2025-07-30,1,False,binacle,True
+barbaracle,pokemon,fighting,1,120,2,grass,binacle,Barbaracle,A4,106,2025-07-30,1,False,barbaracle,True
+crobat ex,pokemon,darkness,2,170,1,fighting,golbat,Crobat ex,A4,109,2025-07-30,4,True,crobat_ex,True
+spinarak,pokemon,darkness,basic,60,1,fighting,,Spinarak,A4,110,2025-07-30,2,False,spinarak,True
+ariados,pokemon,darkness,1,80,1,fighting,spinarak,Ariados,A4,111,2025-07-30,1,False,ariados,True
+umbreon ex,pokemon,darkness,1,140,2,grass,eevee,Umbreon ex,A4,112,2025-07-30,5,True,umbreon_ex,True
+honchkrow,pokemon,darkness,1,120,2,lightning,murkrow,Honchkrow,A4,114,2025-07-30,1,False,honchkrow_v2,False
+houndour,pokemon,darkness,basic,60,1,grass,,Houndour,A4,117,2025-07-30,1,False,houndour_v2,False
+tyranitar,pokemon,darkness,2,160,4,grass,pupitar,Tyranitar,A4,119,2025-07-30,2,False,tyranitar_v2,False
+forretress,pokemon,metal,1,130,3,fire,pineco,Forretress,A4,121,2025-07-30,1,False,forretress,True
+steelix,pokemon,metal,1,150,4,fire,onix,Steelix,A4,122,2025-07-30,3,False,steelix,True
+scizor,pokemon,metal,1,100,1,fire,scyther,Scizor,A4,123,2025-07-30,2,False,scizor,True
+skarmory ex,pokemon,metal,basic,140,2,fire,,Skarmory ex,A4,124,2025-07-30,4,True,skarmory_ex,True
+klink,pokemon,metal,basic,60,1,fire,,Klink,A4,126,2025-07-30,1,False,klink,True
+klang,pokemon,metal,1,80,2,fire,klink,Klang,A4,127,2025-07-30,1,False,klang,True
+klinklang,pokemon,metal,2,150,3,fire,klang,Klinklang,A4,128,2025-07-30,1,False,klinklang,True
+spearow,pokemon,colorless,basic,70,1,lightning,,Spearow,A4,129,2025-07-30,1,False,spearow_v2,False
+fearow,pokemon,colorless,1,90,1,lightning,spearow,Fearow,A4,130,2025-07-30,3,False,fearow_v2,False
+chansey,pokemon,colorless,basic,100,2,fighting,,Chansey,A4,131,2025-07-30,3,False,chansey_v2,False
+blissey,pokemon,colorless,1,150,4,fighting,chansey,Blissey,A4,132,2025-07-30,2,False,blissey,True
+porygon2,pokemon,colorless,1,80,2,fighting,porygon,Porygon2,A4,136,2025-07-30,1,False,porygon2_v2,False
+porygon-z,pokemon,colorless,2,130,1,fighting,porygon2,Porygon-Z,A4,137,2025-07-30,2,False,porygon_z_v2,False
+sentret,pokemon,colorless,basic,60,1,fighting,,Sentret,A4,138,2025-07-30,3,False,sentret,True
+furret,pokemon,colorless,1,90,1,fighting,sentret,Furret,A4,139,2025-07-30,1,False,furret,True
+hoothoot,pokemon,colorless,basic,50,1,lightning,,Hoothoot,A4,140,2025-07-30,2,False,hoothoot_v2,False
+aipom,pokemon,colorless,basic,50,1,fighting,,Aipom,A4,142,2025-07-30,1,False,aipom_v2,False
+ambipom,pokemon,colorless,1,100,1,fighting,aipom,Ambipom,A4,143,2025-07-30,2,False,ambipom_v2,False
+dunsparce,pokemon,colorless,basic,50,1,fighting,,Dunsparce,A4,144,2025-07-30,1,False,dunsparce,True
+teddiursa,pokemon,colorless,basic,60,1,fighting,,Teddiursa,A4,145,2025-07-30,4,False,teddiursa,True
+ursaring,pokemon,colorless,1,120,3,fighting,teddiursa,Ursaring,A4,146,2025-07-30,1,False,ursaring,True
+stantler,pokemon,colorless,basic,80,1,fighting,,Stantler,A4,147,2025-07-30,3,False,stantler,True
+smeargle,pokemon,colorless,basic,70,1,fighting,,Smeargle,A4,148,2025-07-30,2,False,smeargle,True
+lugia ex,pokemon,colorless,basic,150,2,lightning,,Lugia ex,A4,149,2025-07-30,7,True,lugia_ex,True
+bouffalant,pokemon,colorless,basic,100,2,fighting,,Bouffalant,A4,150,2025-07-30,2,False,bouffalant,True
+elemental switch,item,none,none,0,0,none,,Elemental Switch,A4,151,2025-07-30,3,False,elemental_switch,True
+squirt bottle,item,none,none,0,0,none,,Squirt Bottle,A4,152,2025-07-30,1,False,squirt_bottle,True
+steel apron,tool,none,none,0,0,none,,Steel Apron,A4,153,2025-07-30,1,False,steel_apron,True
+dark pendant,tool,none,none,0,0,none,,Dark Pendant,A4,154,2025-07-30,1,False,dark_pendant,True
+rescue scarf,tool,none,none,0,0,none,,Rescue Scarf,A4,155,2025-07-30,1,False,rescue_scarf,True
+will,supporter,none,none,0,0,none,,Will,A4,156,2025-07-30,2,False,will,True
+lyra,supporter,none,none,0,0,none,,Lyra,A4,157,2025-07-30,4,False,lyra,True
+silver,supporter,none,none,0,0,none,,Silver,A4,158,2025-07-30,4,False,silver,True
+fisher,supporter,none,none,0,0,none,,Fisher,A4,159,2025-07-30,2,False,fisher,True
+jasmine,supporter,none,none,0,0,none,,Jasmine,A4,160,2025-07-30,2,False,jasmine,True
+hiker,supporter,none,none,0,0,none,,Hiker,A4,161,2025-07-30,2,False,hiker,True
+hoppip,pokemon,grass,basic,50,1,lightning,,Hoppip,A4a,1,2025-08-28,1,False,hoppip_v2,False
+skiploom,pokemon,grass,1,60,1,lightning,hoppip,Skiploom,A4a,2,2025-08-28,1,False,skiploom_v2,False
+jumpluff ex,pokemon,grass,2,160,1,lightning,skiploom,Jumpluff ex,A4a,3,2025-08-28,3,True,jumpluff_ex,True
+sunkern,pokemon,grass,basic,50,1,fire,,Sunkern,A4a,4,2025-08-28,2,False,sunkern_v2,False
+sunflora,pokemon,grass,1,90,2,fire,sunkern,Sunflora,A4a,5,2025-08-28,1,False,sunflora_v2,False
+celebi,pokemon,grass,basic,70,1,fire,,Celebi,A4a,6,2025-08-28,7,False,celebi,True
+durant,pokemon,grass,basic,70,1,fire,,Durant,A4a,7,2025-08-28,4,False,durant,True
+slugma,pokemon,fire,basic,80,2,water,,Slugma,A4a,8,2025-08-28,1,False,slugma_v2,False
+fletchinder,pokemon,fire,1,70,1,lightning,fletchling,Fletchinder,A4a,11,2025-08-28,1,False,fletchinder_v2,False
+talonflame,pokemon,fire,2,130,1,lightning,fletchinder,Talonflame,A4a,12,2025-08-28,1,False,talonflame_v2,False
+poliwhirl,pokemon,water,1,80,1,lightning,poliwag,Poliwhirl,A4a,14,2025-08-28,1,False,poliwhirl_v3,False
+slowpoke,pokemon,water,basic,60,1,lightning,,Slowpoke,A4a,17,2025-08-28,1,False,slowpoke_v2,False
+slowking,pokemon,water,1,130,3,lightning,slowpoke,Slowking,A4a,18,2025-08-28,1,False,slowking_v2,False
+jynx,pokemon,water,basic,70,1,metal,,Jynx,A4a,19,2025-08-28,1,False,jynx_v3,False
+suicune ex,pokemon,water,basic,140,2,lightning,,Suicune ex,A4a,20,2025-08-28,4,True,suicune_ex,True
+feebas,pokemon,water,basic,30,1,lightning,,Feebas,A4a,21,2025-08-28,5,False,feebas,True
+mantyke,pokemon,water,basic,30,0,none,,Mantyke,A4a,23,2025-08-28,3,False,mantyke,True
+cryogonal,pokemon,water,basic,80,1,metal,,Cryogonal,A4a,24,2025-08-28,1,False,cryogonal,True
+raikou ex,pokemon,lightning,basic,130,2,fighting,,Raikou ex,A4a,25,2025-08-28,4,True,raikou_ex,True
+tynamo,pokemon,lightning,basic,40,0,fighting,,Tynamo,A4a,26,2025-08-28,1,False,tynamo_v2,False
+eelektrik,pokemon,lightning,1,90,2,fighting,tynamo,Eelektrik,A4a,27,2025-08-28,1,False,eelektrik_v2,False
+eelektross,pokemon,lightning,2,150,3,fighting,eelektrik,Eelektross,A4a,28,2025-08-28,1,False,eelektross_v2,False
+stunfisk,pokemon,lightning,basic,90,2,fighting,,Stunfisk,A4a,29,2025-08-28,2,False,stunfisk,True
+yamper,pokemon,lightning,basic,60,1,fighting,,Yamper,A4a,30,2025-08-28,6,False,yamper,True
+boltund,pokemon,lightning,1,120,2,fighting,yamper,Boltund,A4a,31,2025-08-28,1,False,boltund,True
+misdreavus,pokemon,psychic,basic,50,1,darkness,,Misdreavus,A4a,32,2025-08-28,2,False,misdreavus_v2,False
+mismagius,pokemon,psychic,1,100,1,darkness,misdreavus,Mismagius,A4a,33,2025-08-28,1,False,mismagius,True
+galarian corsola,pokemon,psychic,basic,60,1,darkness,,Galarian Corsola,A4a,34,2025-08-28,1,False,galarian_corsola,True
+galarian cursola,pokemon,psychic,1,80,2,darkness,galarian corsola,Galarian Cursola,A4a,35,2025-08-28,1,False,galarian_cursola,True
+latios,pokemon,psychic,basic,110,2,darkness,,Latios,A4a,37,2025-08-28,3,False,latios,True
+frillish,pokemon,psychic,basic,60,1,darkness,,Frillish,A4a,38,2025-08-28,1,False,frillish,True
+jellicent,pokemon,psychic,1,110,2,darkness,frillish,Jellicent,A4a,39,2025-08-28,1,False,jellicent,True
+diglett,pokemon,fighting,basic,60,1,grass,,Diglett,A4a,40,2025-08-28,3,False,diglett_v2,False
+dugtrio,pokemon,fighting,1,90,1,grass,diglett,Dugtrio,A4a,41,2025-08-28,2,False,dugtrio_v2,False
+poliwrath ex,pokemon,fighting,2,180,3,psychic,poliwhirl,Poliwrath ex,A4a,42,2025-08-28,3,True,poliwrath_ex,True
+donphan,pokemon,fighting,1,120,4,grass,phanpy,Donphan,A4a,44,2025-08-28,1,False,donphan_v2,False
+relicanth,pokemon,fighting,basic,90,2,grass,,Relicanth,A4a,45,2025-08-28,1,False,relicanth,True
+dwebble,pokemon,fighting,basic,70,2,grass,,Dwebble,A4a,46,2025-08-28,5,False,dwebble,True
+crustle,pokemon,fighting,1,140,4,grass,dwebble,Crustle,A4a,47,2025-08-28,1,False,crustle,True
+seviper,pokemon,darkness,basic,80,2,fighting,,Seviper,A4a,48,2025-08-28,1,False,seviper,True
+inkay,pokemon,darkness,basic,60,1,grass,,Inkay,A4a,51,2025-08-28,2,False,inkay,True
+malamar,pokemon,darkness,1,90,1,grass,inkay,Malamar,A4a,52,2025-08-28,1,False,malamar,True
+skrelp,pokemon,darkness,basic,50,1,fighting,,Skrelp,A4a,53,2025-08-28,1,False,skrelp,True
+dragalge,pokemon,darkness,1,110,1,fighting,skrelp,Dragalge,A4a,54,2025-08-28,1,False,dragalge,True
+altaria,pokemon,dragon,1,120,2,none,swablu,Altaria,A4a,55,2025-08-28,1,False,altaria,True
+farfetch'd,pokemon,colorless,basic,70,1,lightning,,Farfetch’d,A4a,56,2025-08-28,1,False,farfetch_d_v2,False
+lickitung,pokemon,colorless,basic,80,3,fighting,,Lickitung,A4a,57,2025-08-28,1,False,lickitung_v3,False
+igglybuff,pokemon,colorless,basic,30,0,none,,Igglybuff,A4a,59,2025-08-28,1,False,igglybuff,True
+ursaring,pokemon,colorless,1,130,3,fighting,teddiursa,Ursaring,A4a,61,2025-08-28,1,False,ursaring_v2,False
+azurill,pokemon,colorless,basic,30,0,none,,Azurill,A4a,63,2025-08-28,2,False,azurill,True
+swablu,pokemon,colorless,basic,50,1,lightning,,Swablu,A4a,64,2025-08-28,7,False,swablu,True
+zangoose,pokemon,colorless,basic,80,1,fighting,,Zangoose,A4a,65,2025-08-28,2,False,zangoose,True
+inflatable boat,tool,none,none,0,0,none,,Inflatable Boat,A4a,67,2025-08-28,1,False,inflatable_boat,True
+memory light,tool,none,none,0,0,none,,Memory Light,A4a,68,2025-08-28,1,False,memory_light,True
+whitney,supporter,none,none,0,0,none,,Whitney,A4a,69,2025-08-28,2,False,whitney,True
+traveling merchant,supporter,none,none,0,0,none,,Traveling Merchant,A4a,70,2025-08-28,2,False,traveling_merchant,True
+morty,supporter,none,none,0,0,none,,Morty,A4a,71,2025-08-28,2,False,morty,True
+mega pinsir ex,pokemon,grass,basic,170,2,fire,,Mega Pinsir ex,B1,2,2025-10-30,4,True,mega_pinsir_ex,True
+wurmple,pokemon,grass,basic,50,1,fire,,Wurmple,B1,3,2025-10-30,1,False,wurmple,True
+silcoon,pokemon,grass,1,80,3,fire,wurmple,Silcoon,B1,4,2025-10-30,2,False,silcoon,True
+beautifly,pokemon,grass,2,130,1,fire,silcoon,Beautifly,B1,5,2025-10-30,3,False,beautifly,True
+cascoon,pokemon,grass,1,80,3,fire,wurmple,Cascoon,B1,6,2025-10-30,2,False,cascoon,True
+dustox,pokemon,grass,2,130,1,fire,cascoon,Dustox,B1,7,2025-10-30,1,False,dustox,True
+seedot,pokemon,grass,basic,50,1,fire,,Seedot,B1,8,2025-10-30,1,False,seedot,True
+nuzleaf,pokemon,grass,1,80,1,fire,seedot,Nuzleaf,B1,9,2025-10-30,1,False,nuzleaf,True
+shiftry,pokemon,grass,2,140,1,fire,nuzleaf,Shiftry,B1,10,2025-10-30,1,False,shiftry,True
+shroomish,pokemon,grass,basic,60,1,fire,,Shroomish,B1,11,2025-10-30,3,False,shroomish,True
+breloom,pokemon,grass,1,100,1,fire,shroomish,Breloom,B1,12,2025-10-30,1,False,breloom,True
+pansage,pokemon,grass,basic,60,1,fire,,Pansage,B1,13,2025-10-30,1,False,pansage,True
+simisage,pokemon,grass,1,100,1,fire,pansage,Simisage,B1,14,2025-10-30,1,False,simisage,True
+whimsicott ex,pokemon,grass,1,140,1,fire,cottonee,Whimsicott ex,B1,16,2025-10-30,5,True,whimsicott_ex,True
+lilligant,pokemon,grass,1,80,1,fire,petilil,Lilligant,B1,18,2025-10-30,4,False,lilligant_v3,False
+maractus,pokemon,grass,basic,80,1,fire,,Maractus,B1,19,2025-10-30,1,False,maractus_v2,False
+virizion,pokemon,grass,basic,100,1,fire,,Virizion,B1,20,2025-10-30,1,False,virizion,True
+skiddo,pokemon,grass,basic,80,2,fire,,Skiddo,B1,21,2025-10-30,2,False,skiddo_v2,False
+trevenant,pokemon,grass,1,110,2,fire,phantump,Trevenant,B1,24,2025-10-30,1,False,trevenant_v3,False
+grookey,pokemon,grass,basic,60,1,fire,,Grookey,B1,25,2025-10-30,2,False,grookey,True
+thwackey,pokemon,grass,1,90,2,fire,grookey,Thwackey,B1,26,2025-10-30,1,False,thwackey,True
+rillaboom,pokemon,grass,2,150,3,fire,thwackey,Rillaboom,B1,27,2025-10-30,2,False,rillaboom,True
+arcanine,pokemon,fire,1,120,3,water,growlithe,Arcanine,B1,29,2025-10-30,2,False,arcanine_v3,False
+rapidash ex,pokemon,fire,1,150,2,water,ponyta,Rapidash ex,B1,31,2025-10-30,4,True,rapidash_ex,True
+ho-oh,pokemon,fire,basic,120,2,lightning,,Ho-Oh,B1,32,2025-10-30,1,False,ho_oh,True
+torchic,pokemon,fire,basic,60,1,water,,Torchic,B1,33,2025-10-30,6,False,torchic,True
+combusken,pokemon,fire,1,80,1,water,torchic,Combusken,B1,34,2025-10-30,4,False,combusken,True
+blaziken,pokemon,fire,2,140,1,water,combusken,Blaziken,B1,35,2025-10-30,2,False,blaziken,True
+mega blaziken ex,pokemon,fire,2,210,1,water,combusken,Mega Blaziken ex,B1,36,2025-10-30,6,True,mega_blaziken_ex,True
+pansear,pokemon,fire,basic,60,1,water,,Pansear,B1,37,2025-10-30,1,False,pansear,True
+simisear,pokemon,fire,1,100,1,water,pansear,Simisear,B1,38,2025-10-30,1,False,simisear,True
+darumaka,pokemon,fire,basic,70,2,water,,Darumaka,B1,39,2025-10-30,1,False,darumaka_v2,False
+darmanitan,pokemon,fire,1,130,3,water,darumaka,Darmanitan,B1,40,2025-10-30,1,False,darmanitan_v2,False
+litwick,pokemon,fire,basic,50,1,water,,Litwick,B1,41,2025-10-30,1,False,litwick,True
+lampent,pokemon,fire,1,80,1,water,litwick,Lampent,B1,42,2025-10-30,1,False,lampent,True
+chandelure,pokemon,fire,2,140,2,water,lampent,Chandelure,B1,43,2025-10-30,2,False,chandelure,True
+litleo,pokemon,fire,basic,60,1,water,,Litleo,B1,45,2025-10-30,1,False,litleo,True
+pyroar,pokemon,fire,1,130,2,water,litleo,Pyroar,B1,46,2025-10-30,1,False,pyroar,True
+turtonator,pokemon,fire,basic,110,3,water,,Turtonator,B1,47,2025-10-30,1,False,turtonator_v2,False
+gyarados,pokemon,water,1,140,3,lightning,magikarp,Gyarados,B1,51,2025-10-30,1,False,gyarados_v3,False
+mega gyarados ex,pokemon,water,1,210,3,lightning,magikarp,Mega Gyarados ex,B1,52,2025-10-30,6,True,mega_gyarados_ex,True
+lotad,pokemon,water,basic,60,1,lightning,,Lotad,B1,53,2025-10-30,1,False,lotad,True
+lombre,pokemon,water,1,90,1,lightning,lotad,Lombre,B1,54,2025-10-30,1,False,lombre,True
+ludicolo,pokemon,water,2,140,2,lightning,lombre,Ludicolo,B1,55,2025-10-30,2,False,ludicolo,True
+wailmer,pokemon,water,basic,100,3,lightning,,Wailmer,B1,56,2025-10-30,4,False,wailmer,True
+wailord,pokemon,water,1,200,4,lightning,wailmer,Wailord,B1,57,2025-10-30,1,False,wailord,True
+corphish,pokemon,water,basic,70,2,lightning,,Corphish,B1,58,2025-10-30,1,False,corphish_v2,False
+luvdisc,pokemon,water,basic,70,1,lightning,,Luvdisc,B1,60,2025-10-30,2,False,luvdisc,True
+panpour,pokemon,water,basic,60,1,lightning,,Panpour,B1,61,2025-10-30,1,False,panpour,True
+simipour,pokemon,water,1,100,1,lightning,panpour,Simipour,B1,62,2025-10-30,1,False,simipour,True
+tympole,pokemon,water,basic,60,1,lightning,,Tympole,B1,63,2025-10-30,1,False,tympole,True
+palpitoad,pokemon,water,1,90,2,lightning,tympole,Palpitoad,B1,64,2025-10-30,1,False,palpitoad,True
+seismitoad,pokemon,water,2,150,3,lightning,palpitoad,Seismitoad,B1,65,2025-10-30,1,False,seismitoad,True
+tirtouga,pokemon,water,1,90,2,lightning,cover fossil,Tirtouga,B1,66,2025-10-30,1,False,tirtouga,True
+carracosta,pokemon,water,2,150,3,lightning,tirtouga,Carracosta,B1,67,2025-10-30,1,False,carracosta,True
+frillish,pokemon,water,basic,60,1,lightning,,Frillish,B1,68,2025-10-30,2,False,frillish_v2,False
+jellicent,pokemon,water,1,120,2,lightning,frillish,Jellicent,B1,69,2025-10-30,3,False,jellicent_v2,False
+keldeo,pokemon,water,basic,100,1,lightning,,Keldeo,B1,70,2025-10-30,2,False,keldeo,True
+greninja ex,pokemon,water,2,170,2,lightning,frogadier,Greninja ex,B1,73,2025-10-30,5,True,greninja_ex,True
+bergmite,pokemon,water,basic,70,2,metal,,Bergmite,B1,74,2025-10-30,1,False,bergmite,True
+avalugg,pokemon,water,1,140,4,metal,bergmite,Avalugg,B1,75,2025-10-30,1,False,avalugg,True
+chewtle,pokemon,water,basic,80,3,lightning,,Chewtle,B1,76,2025-10-30,1,False,chewtle_v2,False
+arrokuda,pokemon,water,basic,60,1,lightning,,Arrokuda,B1,78,2025-10-30,2,False,arrokuda,True
+barraskewda,pokemon,water,1,90,1,lightning,arrokuda,Barraskewda,B1,79,2025-10-30,1,False,barraskewda,True
+eiscue,pokemon,water,basic,80,1,metal,,Eiscue,B1,80,2025-10-30,2,False,eiscue,True
+jolteon ex,pokemon,lightning,1,140,1,fighting,eevee,Jolteon ex,B1,81,2025-10-30,5,True,jolteon_ex,True
+mareep,pokemon,lightning,basic,70,1,fighting,,Mareep,B1,82,2025-10-30,5,False,mareep_v2,False
+flaaffy,pokemon,lightning,1,90,1,fighting,mareep,Flaaffy,B1,83,2025-10-30,4,False,flaaffy_v2,False
+ampharos,pokemon,lightning,2,140,1,fighting,flaaffy,Ampharos,B1,84,2025-10-30,2,False,ampharos_v2,False
+mega ampharos ex,pokemon,lightning,2,210,2,fighting,flaaffy,Mega Ampharos ex,B1,85,2025-10-30,5,True,mega_ampharos_ex,True
+blitzle,pokemon,lightning,basic,70,1,fighting,,Blitzle,B1,90,2025-10-30,1,False,blitzle_v2,False
+zebstrika,pokemon,lightning,1,100,1,fighting,blitzle,Zebstrika,B1,91,2025-10-30,1,False,zebstrika_v2,False
+joltik,pokemon,lightning,basic,30,0,fighting,,Joltik,B1,92,2025-10-30,1,False,joltik_v2,False
+dedenne,pokemon,lightning,basic,70,1,fighting,,Dedenne,B1,94,2025-10-30,1,False,dedenne_v2,False
+boltund,pokemon,lightning,1,110,1,fighting,yamper,Boltund,B1,96,2025-10-30,1,False,boltund_v2,False
+natu,pokemon,psychic,basic,60,1,darkness,,Natu,B1,97,2025-10-30,1,False,natu_v2,False
+xatu,pokemon,psychic,1,100,1,darkness,natu,Xatu,B1,98,2025-10-30,1,False,xatu_v2,False
+mismagius,pokemon,psychic,1,90,1,darkness,misdreavus,Mismagius,B1,100,2025-10-30,2,False,mismagius_v2,False
+mega altaria ex,pokemon,psychic,1,190,1,metal,swablu,Mega Altaria ex,B1,102,2025-10-30,6,True,mega_altaria_ex,True
+duskull,pokemon,psychic,basic,50,1,darkness,,Duskull,B1,103,2025-10-30,1,False,duskull_v2,False
+dusknoir,pokemon,psychic,2,150,2,darkness,dusclops,Dusknoir,B1,105,2025-10-30,1,False,dusknoir_v2,False
+jirachi,pokemon,psychic,basic,50,1,darkness,,Jirachi,B1,106,2025-10-30,2,False,jirachi,True
+drifblim,pokemon,psychic,1,100,2,darkness,drifloon,Drifblim,B1,108,2025-10-30,2,False,drifblim_v3,False
+chingling,pokemon,psychic,basic,30,0,none,,Chingling,B1,109,2025-10-30,3,False,chingling,True
+yamask,pokemon,psychic,basic,70,2,darkness,,Yamask,B1,110,2025-10-30,1,False,yamask,True
+cofagrigus,pokemon,psychic,1,120,2,darkness,yamask,Cofagrigus,B1,111,2025-10-30,2,False,cofagrigus,True
+gothita,pokemon,psychic,basic,60,1,darkness,,Gothita,B1,112,2025-10-30,2,False,gothita,True
+gothorita,pokemon,psychic,1,80,1,darkness,gothita,Gothorita,B1,113,2025-10-30,1,False,gothorita,True
+gothitelle,pokemon,psychic,2,130,2,darkness,gothorita,Gothitelle,B1,114,2025-10-30,1,False,gothitelle,True
+spritzee,pokemon,psychic,basic,60,1,metal,,Spritzee,B1,115,2025-10-30,2,False,spritzee,True
+aromatisse,pokemon,psychic,1,90,1,metal,spritzee,Aromatisse,B1,116,2025-10-30,1,False,aromatisse,True
+slurpuff,pokemon,psychic,1,110,3,metal,swirlix,Slurpuff,B1,118,2025-10-30,1,False,slurpuff_v3,False
+carbink,pokemon,psychic,basic,50,1,metal,,Carbink,B1,119,2025-10-30,2,False,carbink_v2,False
+klefki,pokemon,psychic,basic,50,1,metal,,Klefki,B1,120,2025-10-30,4,False,klefki_v2,False
+indeedee ex,pokemon,psychic,basic,130,1,darkness,,Indeedee ex,B1,121,2025-10-30,5,True,indeedee_ex,True
+sandshrew,pokemon,fighting,basic,60,1,grass,,Sandshrew,B1,122,2025-10-30,4,False,sandshrew_v2,False
+sandslash,pokemon,fighting,1,90,1,grass,sandshrew,Sandslash,B1,123,2025-10-30,3,False,sandslash_v2,False
+hitmonchan ex,pokemon,fighting,basic,130,1,psychic,,Hitmonchan ex,B1,124,2025-10-30,5,True,hitmonchan_ex,True
+makuhita,pokemon,fighting,basic,80,3,psychic,,Makuhita,B1,126,2025-10-30,2,False,makuhita_v2,False
+hariyama,pokemon,fighting,1,130,4,psychic,makuhita,Hariyama,B1,127,2025-10-30,1,False,hariyama_v2,False
+hippowdon,pokemon,fighting,1,130,4,grass,hippopotas,Hippowdon,B1,129,2025-10-30,2,False,hippowdon_v2,False
+sandile,pokemon,fighting,basic,60,1,grass,,Sandile,B1,130,2025-10-30,1,False,sandile_v2,False
+krokorok,pokemon,fighting,1,90,2,grass,sandile,Krokorok,B1,131,2025-10-30,1,False,krokorok_v2,False
+krookodile,pokemon,fighting,2,160,3,grass,krokorok,Krookodile,B1,132,2025-10-30,2,False,krookodile_v2,False
+archen,pokemon,fighting,1,90,1,lightning,plume fossil,Archen,B1,133,2025-10-30,1,False,archen,True
+archeops,pokemon,fighting,2,140,1,lightning,archen,Archeops,B1,134,2025-10-30,2,False,archeops,True
+golett,pokemon,fighting,basic,80,3,grass,,Golett,B1,135,2025-10-30,1,False,golett_v2,False
+golurk,pokemon,fighting,1,130,3,grass,golett,Golurk,B1,136,2025-10-30,1,False,golurk_v2,False
+terrakion,pokemon,fighting,basic,120,3,grass,,Terrakion,B1,137,2025-10-30,1,False,terrakion,True
+pancham,pokemon,fighting,basic,60,1,psychic,,Pancham,B1,138,2025-10-30,2,False,pancham,True
+crabrawler,pokemon,fighting,basic,80,2,psychic,,Crabrawler,B1,139,2025-10-30,1,False,crabrawler_v2,False
+crabominable,pokemon,fighting,1,120,3,psychic,crabrawler,Crabominable,B1,140,2025-10-30,1,False,crabominable,True
+stufful,pokemon,fighting,basic,70,2,psychic,,Stufful,B1,141,2025-10-30,2,False,stufful_v2,False
+bewear,pokemon,fighting,1,130,3,psychic,stufful,Bewear,B1,142,2025-10-30,1,False,bewear_v3,False
+palossand,pokemon,fighting,1,140,3,grass,sandygast,Palossand,B1,144,2025-10-30,1,False,palossand_v3,False
+rolycoly,pokemon,fighting,basic,70,2,grass,,Rolycoly,B1,145,2025-10-30,1,False,rolycoly,True
+carkol,pokemon,fighting,1,90,2,grass,rolycoly,Carkol,B1,146,2025-10-30,1,False,carkol,True
+coalossal,pokemon,fighting,2,150,4,grass,carkol,Coalossal,B1,147,2025-10-30,1,False,coalossal,True
+murkrow,pokemon,darkness,basic,70,1,lightning,,Murkrow,B1,148,2025-10-30,1,False,murkrow_v2,False
+mega absol ex,pokemon,darkness,basic,170,1,grass,,Mega Absol ex,B1,151,2025-10-30,6,True,mega_absol_ex,True
+skorupi,pokemon,darkness,basic,60,1,fighting,,Skorupi,B1,152,2025-10-30,1,False,skorupi_v2,False
+drapion,pokemon,darkness,1,130,3,fighting,skorupi,Drapion,B1,153,2025-10-30,1,False,drapion_v2,False
+darkrai,pokemon,darkness,basic,120,2,grass,,Darkrai,B1,154,2025-10-30,1,False,darkrai_v2,False
+deino,pokemon,darkness,basic,60,1,grass,,Deino,B1,155,2025-10-30,1,False,deino,True
+zweilous,pokemon,darkness,1,90,2,grass,deino,Zweilous,B1,156,2025-10-30,1,False,zweilous,True
+hydreigon,pokemon,darkness,2,150,2,grass,zweilous,Hydreigon,B1,157,2025-10-30,2,False,hydreigon,True
+pangoro,pokemon,darkness,1,120,3,grass,pancham,Pangoro,B1,158,2025-10-30,1,False,pangoro,True
+skrelp,pokemon,darkness,basic,60,1,fighting,,Skrelp,B1,159,2025-10-30,4,False,skrelp_v2,False
+dragalge ex,pokemon,darkness,1,150,2,fighting,skrelp,Dragalge ex,B1,160,2025-10-30,5,True,dragalge_ex,True
+mareanie,pokemon,darkness,basic,60,1,fighting,,Mareanie,B1,161,2025-10-30,3,False,mareanie_v2,False
+toxapex,pokemon,darkness,1,100,2,fighting,mareanie,Toxapex,B1,162,2025-10-30,1,False,toxapex_v2,False
+impidimp,pokemon,darkness,basic,60,1,grass,,Impidimp,B1,163,2025-10-30,1,False,impidimp,True
+morgrem,pokemon,darkness,1,90,2,grass,impidimp,Morgrem,B1,164,2025-10-30,1,False,morgrem,True
+grimmsnarl,pokemon,darkness,2,160,3,grass,morgrem,Grimmsnarl,B1,165,2025-10-30,1,False,grimmsnarl,True
+durant,pokemon,metal,basic,80,1,fire,,Durant,B1,168,2025-10-30,1,False,durant_v2,False
+cobalion,pokemon,metal,basic,110,2,fire,,Cobalion,B1,169,2025-10-30,1,False,cobalion,True
+honedge,pokemon,metal,basic,60,1,fire,,Honedge,B1,170,2025-10-30,3,False,honedge,True
+doublade,pokemon,metal,1,90,2,fire,honedge,Doublade,B1,171,2025-10-30,4,False,doublade,True
+aegislash,pokemon,metal,2,140,2,fire,doublade,Aegislash,B1,172,2025-10-30,7,False,aegislash,True
+meltan,pokemon,metal,basic,70,2,fire,,Meltan,B1,173,2025-10-30,3,False,meltan_v2,False
+melmetal ex,pokemon,metal,1,170,3,fire,meltan,Melmetal ex,B1,174,2025-10-30,4,True,melmetal_ex,True
+corviknight,pokemon,metal,2,140,1,lightning,corvisquire,Corviknight,B1,175,2025-10-30,2,False,corviknight,True
+druddigon,pokemon,dragon,basic,110,2,none,,Druddigon,B1,176,2025-10-30,1,False,druddigon_v2,False
+goomy,pokemon,dragon,basic,40,1,none,,Goomy,B1,177,2025-10-30,2,False,goomy,True
+sliggoo,pokemon,dragon,1,90,2,none,goomy,Sliggoo,B1,178,2025-10-30,1,False,sliggoo,True
+goodra,pokemon,dragon,2,150,3,none,sliggoo,Goodra,B1,179,2025-10-30,1,False,goodra,True
+pidgeot,pokemon,colorless,2,150,2,lightning,pidgeotto,Pidgeot,B1,182,2025-10-30,1,False,pidgeot_v2,False
+tauros ex,pokemon,colorless,basic,140,2,fighting,,Tauros ex,B1,183,2025-10-30,4,True,tauros_ex,True
+eevee,pokemon,colorless,basic,50,1,fighting,,Eevee,B1,184,2025-10-30,7,False,eevee_v2,False
+miltank,pokemon,colorless,basic,100,2,fighting,,Miltank,B1,187,2025-10-30,1,False,miltank_v2,False
+zigzagoon,pokemon,colorless,basic,60,1,fighting,,Zigzagoon,B1,188,2025-10-30,1,False,zigzagoon,True
+linoone,pokemon,colorless,1,100,1,fighting,zigzagoon,Linoone,B1,189,2025-10-30,1,False,linoone,True
+whismur,pokemon,colorless,basic,60,1,fighting,,Whismur,B1,190,2025-10-30,1,False,whismur,True
+loudred,pokemon,colorless,1,90,2,fighting,whismur,Loudred,B1,191,2025-10-30,1,False,loudred,True
+exploud,pokemon,colorless,2,150,3,fighting,loudred,Exploud,B1,192,2025-10-30,1,False,exploud,True
+skitty,pokemon,colorless,basic,50,1,fighting,,Skitty,B1,193,2025-10-30,3,False,skitty_v2,False
+delcatty,pokemon,colorless,1,80,1,fighting,skitty,Delcatty,B1,194,2025-10-30,4,False,delcatty_v2,False
+spinda,pokemon,colorless,basic,70,1,fighting,,Spinda,B1,195,2025-10-30,2,False,spinda,True
+altaria,pokemon,colorless,1,100,1,lightning,swablu,Altaria,B1,197,2025-10-30,2,False,altaria_v2,False
+patrat,pokemon,colorless,basic,60,1,fighting,,Patrat,B1,199,2025-10-30,2,False,patrat,True
+watchog,pokemon,colorless,1,100,1,fighting,patrat,Watchog,B1,200,2025-10-30,1,False,watchog,True
+herdier,pokemon,colorless,1,90,1,fighting,lillipup,Herdier,B1,202,2025-10-30,1,False,herdier_v2,False
+stoutland,pokemon,colorless,2,150,3,fighting,herdier,Stoutland,B1,203,2025-10-30,3,False,stoutland_v2,False
+rufflet,pokemon,colorless,basic,60,1,lightning,,Rufflet,B1,204,2025-10-30,2,False,rufflet,True
+braviary,pokemon,colorless,1,120,1,lightning,rufflet,Braviary,B1,205,2025-10-30,1,False,braviary,True
+furfrou,pokemon,colorless,basic,80,1,fighting,,Furfrou,B1,206,2025-10-30,6,False,furfrou,True
+rookidee,pokemon,colorless,basic,60,1,lightning,,Rookidee,B1,209,2025-10-30,5,False,rookidee,True
+corvisquire,pokemon,colorless,1,80,1,lightning,rookidee,Corvisquire,B1,210,2025-10-30,4,False,corvisquire,True
+wooloo,pokemon,colorless,basic,70,2,fighting,,Wooloo,B1,211,2025-10-30,1,False,wooloo_v2,False
+dubwool,pokemon,colorless,1,130,2,fighting,wooloo,Dubwool,B1,212,2025-10-30,1,False,dubwool_v2,False
+prank spinner,item,none,none,0,0,none,,Prank Spinner,B1,213,2025-10-30,1,False,prank_spinner,True
+plume fossil,fossil,none,basic,0,0,none,,Plume Fossil,B1,214,2025-10-30,1,False,plume_fossil,True
+hitting hammer,item,none,none,0,0,none,,Hitting Hammer,B1,215,2025-10-30,1,False,hitting_hammer,True
+cover fossil,fossil,none,basic,0,0,none,,Cover Fossil,B1,216,2025-10-30,1,False,cover_fossil,True
+flame patch,item,none,none,0,0,none,,Flame Patch,B1,217,2025-10-30,4,False,flame_patch,True
+sitrus berry,tool,none,none,0,0,none,,Sitrus Berry,B1,218,2025-10-30,1,False,sitrus_berry,True
+heavy helmet,tool,none,none,0,0,none,,Heavy Helmet,B1,219,2025-10-30,1,False,heavy_helmet,True
+lucky mittens,tool,none,none,0,0,none,,Lucky Mittens,B1,220,2025-10-30,1,False,lucky_mittens,True
+marlon,supporter,none,none,0,0,none,,Marlon,B1,221,2025-10-30,2,False,marlon,True
+hala,supporter,none,none,0,0,none,,Hala,B1,222,2025-10-30,2,False,hala,True
+may,supporter,none,none,0,0,none,,May,B1,223,2025-10-30,4,False,may,True
+fantina,supporter,none,none,0,0,none,,Fantina,B1,224,2025-10-30,2,False,fantina,True
+copycat,supporter,none,none,0,0,none,,Copycat,B1,225,2025-10-30,5,False,copycat,True
+lisia,supporter,none,none,0,0,none,,Lisia,B1,226,2025-10-30,4,False,lisia,True
+petilil,pokemon,grass,basic,50,1,fire,,Petilil,PROMO-B,2,2025-10-30,1,False,petilil_v2,False
+mega pidgeot ex,pokemon,colorless,2,210,2,lightning,pidgeotto,Mega Pidgeot ex,PROMO-B,6,2025-10-30,1,True,mega_pidgeot_ex,True
+ditto,pokemon,colorless,basic,60,1,fighting,,Ditto,PROMO-B,12,2025-10-30,3,False,ditto_v2,False
+heliolisk,pokemon,lightning,1,100,1,fighting,helioptile,Heliolisk,PROMO-B,18,2025-10-30,2,False,heliolisk_v2,False
+charmeleon,pokemon,fire,1,80,2,water,charmander,Charmeleon,PROMO-B,20,2025-10-30,7,False,charmeleon_v2,False
+hawlucha,pokemon,fighting,basic,70,1,lightning,,Hawlucha,PROMO-B,22,2025-10-30,1,False,hawlucha_v2,False
+genesect,pokemon,metal,basic,110,2,fire,,Genesect,PROMO-B,23,2025-10-30,2,False,genesect,True
+mega latios ex,pokemon,dragon,basic,180,2,none,,Mega Latios ex,PROMO-B,24,2025-10-30,1,True,mega_latios_ex,True
+mudkip,pokemon,water,basic,60,1,lightning,,Mudkip,PROMO-B,26,2025-10-30,6,False,mudkip,True
+plusle,pokemon,lightning,basic,70,1,fighting,,Plusle,PROMO-B,27,2025-10-30,3,False,plusle,True
+mega medicham ex,pokemon,fighting,1,180,1,psychic,meditite,Mega Medicham ex,PROMO-B,29,2025-10-30,1,True,mega_medicham_ex,True
+tornadus,pokemon,colorless,basic,90,1,lightning,,Tornadus,PROMO-B,30,2025-10-30,2,False,tornadus,True
+cinderace,pokemon,fire,2,130,0,water,raboot,Cinderace,PROMO-B,31,2025-10-30,2,False,cinderace,True
+quaxly,pokemon,water,basic,60,1,lightning,,Quaxly,PROMO-B,33,2025-10-30,3,False,quaxly,True
+smoliv,pokemon,grass,basic,60,1,fire,,Smoliv,PROMO-B,34,2025-10-30,4,False,smoliv,True
+charcadet,pokemon,fire,basic,60,1,water,,Charcadet,PROMO-B,35,2025-10-30,7,False,charcadet,True
+frigibax,pokemon,water,basic,60,1,metal,,Frigibax,PROMO-B,37,2025-10-30,4,False,frigibax,True
+tinkaton,pokemon,metal,2,150,2,fire,tinkatuff,Tinkaton,PROMO-B,38,2025-10-30,2,False,tinkaton,True
+paldean clodsire,pokemon,darkness,1,120,3,fighting,paldean wooper,Paldean Clodsire,PROMO-B,40,2025-10-30,2,False,paldean_clodsire,True
+chien-pao ex,pokemon,water,basic,130,1,metal,,Chien-Pao ex,PROMO-B,41,2025-10-30,5,True,chien_pao_ex,True
+slowpoke,pokemon,water,basic,70,2,lightning,,Slowpoke,PROMO-B,42,2025-10-30,5,False,slowpoke_v3,False
+varoom,pokemon,metal,basic,60,1,fire,,Varoom,PROMO-B,44,2025-10-30,2,False,varoom_v2,False
+haxorus,pokemon,dragon,2,150,2,none,fraxure,Haxorus,PROMO-B,45,2025-10-30,5,False,haxorus,True
+gastly,pokemon,darkness,basic,60,1,fighting,,Gastly,PROMO-B,47,2025-10-30,6,False,gastly_v3,False
+wigglytuff,pokemon,colorless,1,110,2,fighting,jigglypuff,Wigglytuff,PROMO-B,48,2025-10-30,2,False,wigglytuff_v2,False
+victini,pokemon,fire,basic,70,1,water,,Victini,PROMO-B,49,2025-10-30,4,False,victini,True
+meloetta,pokemon,psychic,basic,70,1,darkness,,Meloetta,PROMO-B,50,2025-10-30,6,False,meloetta,True
+zygarde,pokemon,fighting,basic,80,1,grass,,Zygarde,PROMO-B,51,2025-10-30,1,False,zygarde,True
+zygarde,pokemon,fighting,basic,120,2,grass,,Zygarde,PROMO-B,52,2025-10-30,1,False,zygarde_v2,False
+zygarde ex,pokemon,fighting,basic,170,4,grass,,Zygarde ex,PROMO-B,53,2025-10-30,2,True,zygarde_ex,True
+mega heracross ex,pokemon,grass,basic,180,3,fire,,Mega Heracross ex,PROMO-B,56,2025-10-30,1,True,mega_heracross_ex,True
+castform sunny form,pokemon,fire,basic,70,1,water,,Castform Sunny Form,PROMO-B,57,2025-10-30,2,False,castform_sunny_form,True
+tepig,pokemon,fire,basic,60,1,water,,Tepig,PROMO-B,58,2025-10-30,3,False,tepig,True
+zarude,pokemon,darkness,basic,90,1,grass,,Zarude,PROMO-B,60,2025-10-30,4,False,zarude,True
+treecko,pokemon,grass,basic,60,1,fire,,Treecko,PROMO-B,61,2025-10-30,7,False,treecko,True
+gallade,pokemon,fighting,2,150,2,psychic,kirlia,Gallade,PROMO-B,62,2025-10-30,2,False,gallade,True
+meowscarada ex,pokemon,grass,2,160,1,fire,floragato,Meowscarada ex,PROMO-B,63,2025-10-30,6,True,meowscarada_ex,True
+ceruledge ex,pokemon,psychic,1,150,2,darkness,charcadet,Ceruledge ex,PROMO-B,66,2025-10-30,1,True,ceruledge_ex,True
+pawniard,pokemon,darkness,basic,60,1,grass,,Pawniard,PROMO-B,67,2025-10-30,1,False,pawniard_v2,False
+dudunsparce,pokemon,colorless,1,100,3,fighting,dunsparce,Dudunsparce,PROMO-B,68,2025-10-30,2,False,dudunsparce,True
+sableye,pokemon,darkness,basic,60,1,grass,,Sableye,PROMO-B,70,2025-10-30,2,False,sableye_v3,False
+psyduck,pokemon,water,basic,70,1,lightning,,Psyduck,PROMO-B,71,2025-10-30,3,False,psyduck_v2,False
+froslass,pokemon,water,1,100,1,metal,snorunt,Froslass,PROMO-B,73,2025-10-30,2,False,froslass_v2,False
+raichu,pokemon,lightning,1,110,2,fighting,pikachu,Raichu,PROMO-B,74,2025-10-30,2,False,raichu_v4,False
+quagsire,pokemon,fighting,1,120,3,grass,wooper,Quagsire,PROMO-B,75,2025-10-30,2,False,quagsire_v2,False
+hisuian zorua,pokemon,colorless,basic,60,1,fighting,,Hisuian Zorua,PROMO-B,76,2025-10-30,5,False,hisuian_zorua,True
+growlithe,pokemon,fire,basic,80,3,water,,Growlithe,PROMO-B,77,2025-10-30,4,False,growlithe_v3,False
+mega houndoom ex,pokemon,fire,1,190,2,water,houndour,Mega Houndoom ex,PROMO-B,80,2025-10-30,1,True,mega_houndoom_ex,True
+carvanha,pokemon,water,basic,50,1,lightning,,Carvanha,PROMO-B,81,2025-10-30,4,False,carvanha_v2,False
+noivern,pokemon,dragon,1,100,1,none,noibat,Noivern,PROMO-B,83,2025-10-30,3,False,noivern,True
+beldum,pokemon,metal,basic,60,2,fire,,Beldum,PROMO-B,86,2025-10-30,4,False,beldum,True
+mega sceptile ex,pokemon,grass,2,210,1,fire,grovyle,Mega Sceptile ex,PROMO-B,87,2025-10-30,7,True,mega_sceptile_ex,True
+team rocket's scyther,pokemon,grass,basic,60,1,fire,,Team Rocket’s Scyther,PROMO-B,88,2025-10-30,1,False,team_rocket_s_scyther,True
+team rocket's lapras,pokemon,water,basic,90,1,lightning,,Team Rocket’s Lapras,PROMO-B,89,2025-10-30,2,False,team_rocket_s_lapras,True
+wingull,pokemon,water,basic,60,1,lightning,,Wingull,PROMO-B,90,2025-10-30,2,False,wingull,True
+team rocket's wobbuffet,pokemon,psychic,basic,80,2,darkness,,Team Rocket’s Wobbuffet,PROMO-B,91,2025-10-30,1,False,team_rocket_s_wobbuffet,True
+marowak,pokemon,fighting,1,110,2,grass,cubone,Marowak,PROMO-B,92,2025-10-30,2,False,marowak_v2,False
+fennekin,pokemon,fire,basic,60,1,water,,Fennekin,PROMO-B,93,2025-10-30,3,False,fennekin,True
+meowstic,pokemon,psychic,1,90,1,darkness,espurr,Meowstic,PROMO-B,94,2025-10-30,4,False,meowstic,True
+darkrai,pokemon,darkness,basic,100,2,grass,,Darkrai,PROMO-B,95,2025-10-30,4,False,darkrai_v3,False
+falinks,pokemon,fighting,basic,70,1,psychic,,Falinks,PROMO-B,96,2025-10-30,6,False,falinks,True
+gabite,pokemon,dragon,1,80,1,none,gible,Gabite,PROMO-B,98,2025-10-30,2,False,gabite_v3,False
+mega garchomp ex,pokemon,dragon,2,220,2,none,gabite,Mega Garchomp ex,PROMO-B,99,2025-10-30,1,True,mega_garchomp_ex,True
+charmander,pokemon,fire,basic,70,1,water,,Charmander,PROMO-B,101,2025-10-30,5,False,charmander_v2,False
+drampa,pokemon,dragon,basic,100,1,none,,Drampa,PROMO-B,102,2025-10-30,4,False,drampa_v2,False
+bulbasaur,pokemon,grass,basic,60,1,fire,,Bulbasaur,B1a,1,2025-12-17,3,False,bulbasaur_v2,False
+ivysaur,pokemon,grass,1,100,3,fire,bulbasaur,Ivysaur,B1a,2,2025-12-17,4,False,ivysaur_v2,False
+mega venusaur ex,pokemon,grass,2,240,4,fire,ivysaur,Mega Venusaur ex,B1a,4,2025-12-17,5,True,mega_venusaur_ex,True
+spinarak,pokemon,grass,basic,50,1,fire,,Spinarak,B1a,5,2025-12-17,1,False,spinarak_v2,False
+ariados,pokemon,grass,1,90,1,fire,spinarak,Ariados,B1a,6,2025-12-17,2,False,ariados_v2,False
+sunflora,pokemon,grass,1,100,2,fire,sunkern,Sunflora,B1a,8,2025-12-17,2,False,sunflora_v3,False
+mothim,pokemon,grass,1,100,1,lightning,burmy,Mothim,B1a,10,2025-12-17,1,False,mothim_v2,False
+charizard,pokemon,fire,2,150,3,water,charmeleon,Charizard,B1a,13,2025-12-17,4,False,charizard_v2,False
+mega charizard y ex,pokemon,fire,2,220,2,water,charmeleon,Mega Charizard Y ex,B1a,14,2025-12-17,6,True,mega_charizard_y_ex,True
+houndoom,pokemon,fire,1,90,1,water,houndour,Houndoom,B1a,16,2025-12-17,1,False,houndoom_v3,False
+squirtle,pokemon,water,basic,70,1,lightning,,Squirtle,B1a,17,2025-12-17,3,False,squirtle_v2,False
+wartortle,pokemon,water,1,90,2,lightning,squirtle,Wartortle,B1a,18,2025-12-17,4,False,wartortle_v2,False
+mega blastoise ex,pokemon,water,2,230,3,lightning,wartortle,Mega Blastoise ex,B1a,20,2025-12-17,5,True,mega_blastoise_ex,True
+basculin,pokemon,water,basic,80,1,lightning,,Basculin,B1a,21,2025-12-17,1,False,basculin,True
+clauncher,pokemon,water,basic,60,1,lightning,,Clauncher,B1a,22,2025-12-17,1,False,clauncher,True
+clawitzer,pokemon,water,1,100,2,lightning,clauncher,Clawitzer,B1a,23,2025-12-17,1,False,clawitzer,True
+magnemite,pokemon,lightning,basic,50,1,fighting,,Magnemite,B1a,24,2025-12-17,3,False,magnemite_v3,False
+magnezone,pokemon,lightning,2,150,2,fighting,magneton,Magnezone,B1a,26,2025-12-17,1,False,magnezone_v3,False
+solosis,pokemon,psychic,basic,40,1,darkness,,Solosis,B1a,32,2025-12-17,1,False,solosis,True
+duosion,pokemon,psychic,1,70,1,darkness,solosis,Duosion,B1a,33,2025-12-17,1,False,duosion,True
+reuniclus,pokemon,psychic,2,90,3,darkness,duosion,Reuniclus,B1a,34,2025-12-17,2,False,reuniclus,True
+aromatisse,pokemon,psychic,1,100,2,metal,spritzee,Aromatisse,B1a,36,2025-12-17,1,False,aromatisse_v2,False
+xerneas,pokemon,psychic,basic,120,2,metal,,Xerneas,B1a,37,2025-12-17,2,False,xerneas,True
+makuhita,pokemon,fighting,basic,80,2,psychic,,Makuhita,B1a,39,2025-12-17,1,False,makuhita_v3,False
+mega lopunny ex,pokemon,fighting,1,190,1,psychic,buneary,Mega Lopunny ex,B1a,42,2025-12-17,5,True,mega_lopunny_ex,True
+mienfoo,pokemon,fighting,basic,50,1,psychic,,Mienfoo,B1a,43,2025-12-17,1,False,mienfoo_v2,False
+grimer,pokemon,darkness,basic,80,3,fighting,,Grimer,B1a,45,2025-12-17,2,False,grimer_v2,False
+trubbish,pokemon,darkness,basic,70,1,fighting,,Trubbish,B1a,49,2025-12-17,2,False,trubbish_v2,False
+garbodor,pokemon,darkness,1,130,3,fighting,trubbish,Garbodor,B1a,50,2025-12-17,1,False,garbodor_v2,False
+mega steelix ex,pokemon,metal,1,220,4,fire,onix,Mega Steelix ex,B1a,52,2025-12-17,5,True,mega_steelix_ex,True
+porygon2,pokemon,colorless,1,90,2,fighting,porygon,Porygon2,B1a,57,2025-12-17,3,False,porygon2_v3,False
+furfrou,pokemon,colorless,basic,70,1,fighting,,Furfrou,B1a,65,2025-12-17,4,False,furfrou_v2,False
+clemont's backpack,item,none,none,0,0,none,,Clemont’s Backpack,B1a,66,2025-12-17,1,False,clemont_s_backpack,True
+quick-grow extract,item,none,none,0,0,none,,Quick-Grow Extract,B1a,67,2025-12-17,4,False,quick_grow_extract,True
+clemont,supporter,none,none,0,0,none,,Clemont,B1a,68,2025-12-17,4,False,clemont,True
+serena,supporter,none,none,0,0,none,,Serena,B1a,69,2025-12-17,4,False,serena,True
+shuckle,pokemon,grass,basic,80,1,fire,,Shuckle,B2,3,2026-01-29,1,False,shuckle,True
+roselia,pokemon,grass,basic,60,1,fire,,Roselia,B2,4,2026-01-29,1,False,roselia_v2,False
+roserade,pokemon,grass,1,90,1,fire,roselia,Roserade,B2,5,2026-01-29,2,False,roserade_v2,False
+cacnea,pokemon,grass,basic,60,1,fire,,Cacnea,B2,6,2026-01-29,3,False,cacnea,True
+cacturne,pokemon,grass,1,120,2,fire,cacnea,Cacturne,B2,7,2026-01-29,1,False,cacturne,True
+chespin,pokemon,grass,basic,60,1,fire,,Chespin,B2,8,2026-01-29,2,False,chespin,True
+quilladin,pokemon,grass,1,90,3,fire,chespin,Quilladin,B2,9,2026-01-29,1,False,quilladin,True
+chesnaught,pokemon,grass,2,160,3,fire,quilladin,Chesnaught,B2,10,2026-01-29,1,False,chesnaught,True
+scatterbug,pokemon,grass,basic,50,1,fire,,Scatterbug,B2,11,2026-01-29,1,False,scatterbug,True
+spewpa,pokemon,grass,1,80,2,fire,scatterbug,Spewpa,B2,12,2026-01-29,1,False,spewpa,True
+vivillon,pokemon,grass,2,130,1,fire,spewpa,Vivillon,B2,13,2026-01-29,2,False,vivillon,True
+buzzwole,pokemon,grass,basic,110,2,fire,,Buzzwole,B2,14,2026-01-29,2,False,buzzwole,True
+gossifleur,pokemon,grass,basic,60,1,fire,,Gossifleur,B2,15,2026-01-29,1,False,gossifleur,True
+eldegoss,pokemon,grass,1,90,1,fire,gossifleur,Eldegoss,B2,16,2026-01-29,1,False,eldegoss,True
+teal mask ogerpon ex,pokemon,grass,basic,130,1,fire,,Teal Mask Ogerpon ex,B2,17,2026-01-29,4,True,teal_mask_ogerpon_ex,True
+alolan marowak,pokemon,fire,1,100,2,water,cubone,Alolan Marowak,B2,18,2026-01-29,1,False,alolan_marowak_v2,False
+reshiram,pokemon,fire,basic,120,2,water,,Reshiram,B2,19,2026-01-29,2,False,reshiram,True
+litleo,pokemon,fire,basic,70,1,water,,Litleo,B2,20,2026-01-29,1,False,litleo_v2,False
+pyroar,pokemon,fire,1,90,1,water,litleo,Pyroar,B2,21,2026-01-29,1,False,pyroar_v2,False
+blacephalon ex,pokemon,fire,basic,140,2,water,,Blacephalon ex,B2,23,2026-01-29,5,True,blacephalon_ex,True
+scorbunny,pokemon,fire,basic,60,1,water,,Scorbunny,B2,24,2026-01-29,3,False,scorbunny,True
+raboot,pokemon,fire,1,80,1,water,scorbunny,Raboot,B2,25,2026-01-29,1,False,raboot,True
+hearthflame mask ogerpon,pokemon,fire,basic,80,1,water,,Hearthflame Mask Ogerpon,B2,27,2026-01-29,3,False,hearthflame_mask_ogerpon,True
+alolan ninetales ex,pokemon,water,1,150,2,metal,alolan vulpix,Alolan Ninetales ex,B2,29,2026-01-29,5,True,alolan_ninetales_ex,True
+galarian mr. mime,pokemon,water,basic,70,1,metal,,Galarian Mr. Mime,B2,30,2026-01-29,1,False,galarian_mr_mime,True
+galarian mr. rime,pokemon,water,1,110,2,metal,galarian mr. mime,Galarian Mr. Rime,B2,31,2026-01-29,1,False,galarian_mr_rime,True
+delibird,pokemon,water,basic,80,1,metal,,Delibird,B2,32,2026-01-29,2,False,delibird_v2,False
+marshtomp,pokemon,water,1,90,2,lightning,mudkip,Marshtomp,B2,34,2026-01-29,4,False,marshtomp,True
+swampert,pokemon,water,2,150,3,lightning,marshtomp,Swampert,B2,35,2026-01-29,2,False,swampert,True
+mega swampert ex,pokemon,water,2,230,3,lightning,marshtomp,Mega Swampert ex,B2,36,2026-01-29,5,True,mega_swampert_ex,True
+vanillish,pokemon,water,1,80,1,metal,vanillite,Vanillish,B2,38,2026-01-29,1,False,vanillish_v2,False
+cryogonal,pokemon,water,basic,70,1,metal,,Cryogonal,B2,40,2026-01-29,1,False,cryogonal_v2,False
+amaura,pokemon,water,1,100,2,metal,sail fossil,Amaura,B2,41,2026-01-29,1,False,amaura,True
+aurorus,pokemon,water,2,150,3,metal,amaura,Aurorus,B2,42,2026-01-29,2,False,aurorus,True
+barraskewda,pokemon,water,1,100,1,lightning,arrokuda,Barraskewda,B2,47,2026-01-29,1,False,barraskewda_v2,False
+wellspring mask ogerpon,pokemon,water,basic,80,1,lightning,,Wellspring Mask Ogerpon,B2,48,2026-01-29,1,False,wellspring_mask_ogerpon,True
+alolan raichu,pokemon,lightning,1,110,2,fighting,pikachu,Alolan Raichu,B2,50,2026-01-29,1,False,alolan_raichu,True
+minun,pokemon,lightning,basic,70,1,fighting,,Minun,B2,53,2026-01-29,3,False,minun,True
+toxel,pokemon,lightning,basic,60,1,fighting,,Toxel,B2,54,2026-01-29,6,False,toxel,True
+toxtricity ex,pokemon,lightning,1,150,2,fighting,toxel,Toxtricity ex,B2,55,2026-01-29,5,True,toxtricity_ex,True
+tadbulb,pokemon,lightning,basic,50,1,fighting,,Tadbulb,B2,56,2026-01-29,4,False,tadbulb,True
+bellibolt,pokemon,lightning,1,130,3,fighting,tadbulb,Bellibolt,B2,57,2026-01-29,1,False,bellibolt,True
+galarian ponyta,pokemon,psychic,basic,60,1,darkness,,Galarian Ponyta,B2,58,2026-01-29,2,False,galarian_ponyta,True
+galarian rapidash,pokemon,psychic,1,100,2,darkness,galarian ponyta,Galarian Rapidash,B2,59,2026-01-29,1,False,galarian_rapidash,True
+wobbuffet,pokemon,psychic,basic,100,2,darkness,,Wobbuffet,B2,60,2026-01-29,1,False,wobbuffet_v2,False
+gardevoir,pokemon,psychic,2,130,1,darkness,kirlia,Gardevoir,B2,65,2026-01-29,1,False,gardevoir_v2,False
+mega gardevoir ex,pokemon,psychic,2,210,1,darkness,kirlia,Mega Gardevoir ex,B2,66,2026-01-29,6,True,mega_gardevoir_ex,True
+litwick,pokemon,psychic,basic,50,1,darkness,,Litwick,B2,67,2026-01-29,1,False,litwick_v2,False
+lampent,pokemon,psychic,1,80,1,darkness,litwick,Lampent,B2,68,2026-01-29,1,False,lampent_v2,False
+chandelure,pokemon,psychic,2,140,2,darkness,lampent,Chandelure,B2,69,2026-01-29,1,False,chandelure_v2,False
+pumpkaboo,pokemon,psychic,basic,60,1,darkness,,Pumpkaboo,B2,71,2026-01-29,1,False,pumpkaboo,True
+gourgeist,pokemon,psychic,1,110,2,darkness,pumpkaboo,Gourgeist,B2,72,2026-01-29,1,False,gourgeist,True
+mimikyu ex,pokemon,psychic,basic,120,2,darkness,,Mimikyu ex,B2,73,2026-01-29,5,True,mimikyu_ex,True
+sinistea,pokemon,psychic,basic,30,1,darkness,,Sinistea,B2,74,2026-01-29,2,False,sinistea,True
+polteageist,pokemon,psychic,1,70,1,darkness,sinistea,Polteageist,B2,75,2026-01-29,2,False,polteageist,True
+indeedee,pokemon,psychic,basic,80,1,darkness,,Indeedee,B2,76,2026-01-29,2,False,indeedee,True
+machop,pokemon,fighting,basic,70,1,psychic,,Machop,B2,79,2026-01-29,1,False,machop_v3,False
+machoke,pokemon,fighting,1,90,2,psychic,machop,Machoke,B2,80,2026-01-29,1,False,machoke_v2,False
+cubone,pokemon,fighting,basic,70,1,grass,,Cubone,B2,82,2026-01-29,1,False,cubone_v2,False
+roggenrola,pokemon,fighting,basic,70,2,grass,,Roggenrola,B2,85,2026-01-29,4,False,roggenrola,True
+boldore,pokemon,fighting,1,100,3,grass,roggenrola,Boldore,B2,86,2026-01-29,4,False,boldore,True
+gigalith ex,pokemon,fighting,2,190,4,grass,boldore,Gigalith ex,B2,87,2026-01-29,5,True,gigalith_ex,True
+tyrunt,pokemon,fighting,1,90,2,grass,jaw fossil,Tyrunt,B2,89,2026-01-29,1,False,tyrunt,True
+tyrantrum,pokemon,fighting,2,150,3,grass,tyrunt,Tyrantrum,B2,90,2026-01-29,2,False,tyrantrum,True
+passimian,pokemon,fighting,basic,90,2,psychic,,Passimian,B2,91,2026-01-29,1,False,passimian_v2,False
+cornerstone mask ogerpon,pokemon,fighting,basic,80,1,grass,,Cornerstone Mask Ogerpon,B2,93,2026-01-29,1,False,cornerstone_mask_ogerpon,True
+alolan grimer,pokemon,darkness,basic,80,2,fighting,,Alolan Grimer,B2,96,2026-01-29,3,False,alolan_grimer_v2,False
+alolan muk,pokemon,darkness,1,110,3,fighting,alolan grimer,Alolan Muk,B2,97,2026-01-29,4,False,alolan_muk,True
+galarian zigzagoon,pokemon,darkness,basic,60,1,grass,,Galarian Zigzagoon,B2,98,2026-01-29,1,False,galarian_zigzagoon,True
+galarian linoone,pokemon,darkness,1,80,1,grass,galarian zigzagoon,Galarian Linoone,B2,99,2026-01-29,1,False,galarian_linoone,True
+galarian obstagoon,pokemon,darkness,2,150,2,grass,galarian linoone,Galarian Obstagoon,B2,100,2026-01-29,2,False,galarian_obstagoon,True
+stunky,pokemon,darkness,basic,70,2,fighting,,Stunky,B2,101,2026-01-29,1,False,stunky_v2,False
+skuntank,pokemon,darkness,1,110,2,fighting,stunky,Skuntank,B2,102,2026-01-29,1,False,skuntank_v2,False
+spiritomb,pokemon,darkness,basic,70,1,grass,,Spiritomb,B2,103,2026-01-29,1,False,spiritomb_v2,False
+scraggy,pokemon,darkness,basic,60,1,grass,,Scraggy,B2,106,2026-01-29,1,False,scraggy,True
+scrafty,pokemon,darkness,1,110,2,grass,scraggy,Scrafty,B2,107,2026-01-29,2,False,scrafty,True
+yveltal,pokemon,darkness,basic,120,2,lightning,,Yveltal,B2,108,2026-01-29,2,False,yveltal,True
+guzzlord,pokemon,darkness,basic,150,4,grass,,Guzzlord,B2,109,2026-01-29,1,False,guzzlord,True
+galarian meowth,pokemon,metal,basic,60,1,fire,,Galarian Meowth,B2,110,2026-01-29,4,False,galarian_meowth,True
+galarian perrserker,pokemon,metal,1,100,2,fire,galarian meowth,Galarian Perrserker,B2,111,2026-01-29,5,False,galarian_perrserker,True
+mawile,pokemon,metal,basic,80,1,fire,,Mawile,B2,112,2026-01-29,3,False,mawile_v2,False
+mega mawile ex,pokemon,metal,basic,170,1,fire,,Mega Mawile ex,B2,113,2026-01-29,5,True,mega_mawile_ex,True
+excadrill,pokemon,metal,1,120,2,fire,drilbur,Excadrill,B2,114,2026-01-29,1,False,excadrill_v2,False
+ferroseed,pokemon,metal,basic,70,2,fire,,Ferroseed,B2,115,2026-01-29,1,False,ferroseed_v2,False
+ferrothorn,pokemon,metal,1,120,3,fire,ferroseed,Ferrothorn,B2,116,2026-01-29,2,False,ferrothorn_v2,False
+galarian stunfisk,pokemon,metal,basic,80,2,fire,,Galarian Stunfisk,B2,117,2026-01-29,1,False,galarian_stunfisk,True
+honedge,pokemon,metal,basic,70,2,fire,,Honedge,B2,118,2026-01-29,1,False,honedge_v2,False
+bagon,pokemon,dragon,basic,60,1,none,,Bagon,B2,121,2026-01-29,1,False,bagon,True
+shelgon,pokemon,dragon,1,100,3,none,bagon,Shelgon,B2,122,2026-01-29,1,False,shelgon,True
+salamence,pokemon,dragon,2,150,2,none,shelgon,Salamence,B2,123,2026-01-29,2,False,salamence,True
+meowth,pokemon,colorless,basic,50,1,fighting,,Meowth,B2,124,2026-01-29,4,False,meowth_v2,False
+persian,pokemon,colorless,1,100,1,fighting,meowth,Persian,B2,125,2026-01-29,1,False,persian_v2,False
+kangaskhan,pokemon,colorless,basic,110,3,fighting,,Kangaskhan,B2,126,2026-01-29,2,False,kangaskhan_v2,False
+mega kangaskhan ex,pokemon,colorless,basic,180,3,fighting,,Mega Kangaskhan ex,B2,127,2026-01-29,5,True,mega_kangaskhan_ex,True
+furret,pokemon,colorless,1,100,1,fighting,sentret,Furret,B2,129,2026-01-29,1,False,furret_v2,False
+smeargle,pokemon,colorless,basic,60,1,fighting,,Smeargle,B2,130,2026-01-29,2,False,smeargle_v2,False
+lugia,pokemon,colorless,basic,120,2,lightning,,Lugia,B2,131,2026-01-29,1,False,lugia,True
+taillow,pokemon,colorless,basic,60,1,lightning,,Taillow,B2,132,2026-01-29,2,False,taillow,True
+swellow,pokemon,colorless,1,80,1,lightning,taillow,Swellow,B2,133,2026-01-29,2,False,swellow,True
+slakoth,pokemon,colorless,basic,70,2,fighting,,Slakoth,B2,134,2026-01-29,2,False,slakoth,True
+vigoroth,pokemon,colorless,1,100,2,fighting,slakoth,Vigoroth,B2,135,2026-01-29,1,False,vigoroth,True
+slaking,pokemon,colorless,2,160,4,fighting,vigoroth,Slaking,B2,136,2026-01-29,1,False,slaking,True
+bunnelby,pokemon,colorless,basic,60,1,fighting,,Bunnelby,B2,139,2026-01-29,1,False,bunnelby,True
+diggersby,pokemon,colorless,1,100,2,fighting,bunnelby,Diggersby,B2,140,2026-01-29,1,False,diggersby,True
+tandemaus,pokemon,colorless,basic,40,1,fighting,,Tandemaus,B2,142,2026-01-29,1,False,tandemaus,True
+maushold,pokemon,colorless,1,70,1,fighting,tandemaus,Maushold,B2,143,2026-01-29,1,False,maushold,True
+jaw fossil,item,none,none,0,0,none,,Jaw Fossil,B2,144,2026-01-29,1,False,jaw_fossil,True
+lucky ice pop,item,none,none,0,0,none,,Lucky Ice Pop,B2,145,2026-01-29,3,False,lucky_ice_pop,True
+sail fossil,item,none,none,0,0,none,,Sail Fossil,B2,146,2026-01-29,1,False,sail_fossil,True
+protective poncho,tool,none,none,0,0,none,,Protective Poncho,B2,147,2026-01-29,4,False,protective_poncho,True
+metal core barrier,tool,none,none,0,0,none,,Metal Core Barrier,B2,148,2026-01-29,4,False,metal_core_barrier,True
+diantha,supporter,none,none,0,0,none,,Diantha,B2,149,2026-01-29,4,False,diantha,True
+sightseer,supporter,none,none,0,0,none,,Sightseer,B2,150,2026-01-29,2,False,sightseer,True
+juggler,supporter,none,none,0,0,none,,Juggler,B2,151,2026-01-29,2,False,juggler,True
+piers,supporter,none,none,0,0,none,,Piers,B2,152,2026-01-29,2,False,piers,True
+training area,stadium,none,none,0,0,none,,Training Area,B2,153,2026-01-29,3,False,training_area,True
+starting plains,stadium,none,none,0,0,none,,Starting Plains,B2,154,2026-01-29,3,False,starting_plains,True
+peculiar plaza,stadium,none,none,0,0,none,,Peculiar Plaza,B2,155,2026-01-29,3,False,peculiar_plaza,True
+tarountula,pokemon,grass,basic,50,1,fire,,Tarountula,B2a,4,2026-02-26,1,False,tarountula,True
+spidops,pokemon,grass,1,100,2,fire,tarountula,Spidops,B2a,5,2026-02-26,1,False,spidops,True
+nymble,pokemon,grass,basic,40,1,fire,,Nymble,B2a,6,2026-02-26,1,False,nymble,True
+dolliv,pokemon,grass,1,90,1,fire,smoliv,Dolliv,B2a,8,2026-02-26,3,False,dolliv,True
+arboliva,pokemon,grass,2,130,2,fire,dolliv,Arboliva,B2a,9,2026-02-26,4,False,arboliva,True
+bramblin,pokemon,grass,basic,50,1,fire,,Bramblin,B2a,10,2026-02-26,1,False,bramblin,True
+brambleghast,pokemon,grass,1,100,2,fire,bramblin,Brambleghast,B2a,11,2026-02-26,1,False,brambleghast,True
+capsakid,pokemon,grass,basic,60,1,fire,,Capsakid,B2a,12,2026-02-26,1,False,capsakid,True
+scovillain,pokemon,grass,1,100,2,fire,capsakid,Scovillain,B2a,13,2026-02-26,1,False,scovillain,True
+rellor,pokemon,grass,basic,50,1,fire,,Rellor,B2a,14,2026-02-26,2,False,rellor,True
+wo-chien,pokemon,grass,basic,120,3,fire,,Wo-Chien,B2a,15,2026-02-26,1,False,wo_chien,True
+fuecoco,pokemon,fire,basic,70,2,water,,Fuecoco,B2a,16,2026-02-26,5,False,fuecoco,True
+crocalor,pokemon,fire,1,100,3,water,fuecoco,Crocalor,B2a,17,2026-02-26,3,False,crocalor,True
+skeledirge,pokemon,fire,2,150,3,water,crocalor,Skeledirge,B2a,18,2026-02-26,3,False,skeledirge,True
+armarouge ex,pokemon,fire,1,140,2,water,charcadet,Armarouge ex,B2a,20,2026-02-26,5,True,armarouge_ex,True
+chi-yu,pokemon,fire,basic,80,1,water,,Chi-Yu,B2a,21,2026-02-26,1,False,chi_yu,True
+quaxwell,pokemon,water,1,80,1,lightning,quaxly,Quaxwell,B2a,23,2026-02-26,1,False,quaxwell,True
+quaquaval,pokemon,water,2,150,2,lightning,quaxwell,Quaquaval,B2a,24,2026-02-26,1,False,quaquaval,True
+wugtrio,pokemon,water,1,90,1,lightning,wiglett,Wugtrio,B2a,26,2026-02-26,1,False,wugtrio,True
+finizen,pokemon,water,basic,60,1,lightning,,Finizen,B2a,27,2026-02-26,1,False,finizen,True
+palafin,pokemon,water,1,130,2,lightning,finizen,Palafin,B2a,28,2026-02-26,1,False,palafin,True
+cetoddle,pokemon,water,basic,100,3,metal,,Cetoddle,B2a,29,2026-02-26,1,False,cetoddle,True
+cetitan,pokemon,water,1,150,4,metal,cetoddle,Cetitan,B2a,30,2026-02-26,1,False,cetitan,True
+veluza,pokemon,water,basic,100,2,lightning,,Veluza,B2a,31,2026-02-26,1,False,veluza,True
+dondozo,pokemon,water,basic,130,4,lightning,,Dondozo,B2a,32,2026-02-26,1,False,dondozo_v2,False
+arctibax,pokemon,water,1,90,2,metal,frigibax,Arctibax,B2a,35,2026-02-26,3,False,arctibax,True
+baxcalibur,pokemon,water,2,140,3,metal,arctibax,Baxcalibur,B2a,36,2026-02-26,5,False,baxcalibur,True
+pawmot,pokemon,lightning,2,140,1,fighting,pawmo,Pawmot,B2a,40,2026-02-26,2,False,pawmot_v2,False
+tadbulb,pokemon,lightning,basic,60,1,fighting,,Tadbulb,B2a,41,2026-02-26,1,False,tadbulb_v2,False
+bellibolt ex,pokemon,lightning,1,160,3,fighting,tadbulb,Bellibolt ex,B2a,42,2026-02-26,5,True,bellibolt_ex,True
+wattrel,pokemon,lightning,basic,60,1,lightning,,Wattrel,B2a,43,2026-02-26,3,False,wattrel,True
+kilowattrel,pokemon,lightning,1,90,0,lightning,wattrel,Kilowattrel,B2a,44,2026-02-26,1,False,kilowattrel,True
+miraidon,pokemon,lightning,basic,120,2,fighting,,Miraidon,B2a,45,2026-02-26,1,False,miraidon,True
+fidough,pokemon,psychic,basic,60,2,metal,,Fidough,B2a,46,2026-02-26,1,False,fidough,True
+dachsbun,pokemon,psychic,1,100,2,metal,fidough,Dachsbun,B2a,47,2026-02-26,1,False,dachsbun,True
+ceruledge,pokemon,psychic,1,110,2,darkness,charcadet,Ceruledge,B2a,48,2026-02-26,1,False,ceruledge,True
+rabsca,pokemon,psychic,1,70,1,darkness,rellor,Rabsca,B2a,49,2026-02-26,2,False,rabsca,True
+flittle,pokemon,psychic,basic,50,1,darkness,,Flittle,B2a,50,2026-02-26,1,False,flittle,True
+espathra,pokemon,psychic,1,90,1,darkness,flittle,Espathra,B2a,51,2026-02-26,1,False,espathra,True
+greavard,pokemon,psychic,basic,70,2,darkness,,Greavard,B2a,52,2026-02-26,3,False,greavard,True
+houndstone,pokemon,psychic,1,130,3,darkness,greavard,Houndstone,B2a,53,2026-02-26,2,False,houndstone,True
+annihilape,pokemon,fighting,2,140,1,psychic,primeape,Annihilape,B2a,57,2026-02-26,1,False,annihilape,True
+paldean tauros,pokemon,fighting,basic,100,2,psychic,,Paldean Tauros,B2a,58,2026-02-26,1,False,paldean_tauros_v2,False
+toedscool,pokemon,fighting,basic,60,1,grass,,Toedscool,B2a,59,2026-02-26,1,False,toedscool,True
+toedscruel,pokemon,fighting,1,120,2,grass,toedscool,Toedscruel,B2a,60,2026-02-26,1,False,toedscruel,True
+klawf,pokemon,fighting,basic,100,3,grass,,Klawf,B2a,61,2026-02-26,2,False,klawf,True
+ting-lu,pokemon,fighting,basic,120,3,grass,,Ting-Lu,B2a,62,2026-02-26,1,False,ting_lu,True
+koraidon,pokemon,fighting,basic,120,2,psychic,,Koraidon,B2a,63,2026-02-26,1,False,koraidon,True
+paldean wooper,pokemon,darkness,basic,60,1,fighting,,Paldean Wooper,B2a,64,2026-02-26,2,False,paldean_wooper_v2,False
+lokix,pokemon,darkness,1,100,1,grass,nymble,Lokix,B2a,66,2026-02-26,1,False,lokix,True
+maschiff,pokemon,darkness,basic,70,2,grass,,Maschiff,B2a,67,2026-02-26,1,False,maschiff,True
+mabosstiff,pokemon,darkness,1,120,3,grass,maschiff,Mabosstiff,B2a,68,2026-02-26,1,False,mabosstiff,True
+shroodle,pokemon,darkness,basic,50,1,fighting,,Shroodle,B2a,69,2026-02-26,1,False,shroodle_v2,False
+bombirdier,pokemon,darkness,basic,90,1,lightning,,Bombirdier,B2a,71,2026-02-26,1,False,bombirdier,True
+tinkatuff,pokemon,metal,1,80,1,fire,tinkatink,Tinkatuff,B2a,73,2026-02-26,2,False,tinkatuff_v2,False
+orthworm,pokemon,metal,basic,100,3,fire,,Orthworm,B2a,77,2026-02-26,3,False,orthworm,True
+gholdengo ex,pokemon,metal,1,150,2,fire,gimmighoul,Gholdengo ex,B2a,78,2026-02-26,4,True,gholdengo_ex,True
+lechonk,pokemon,colorless,basic,60,1,fighting,,Lechonk,B2a,79,2026-02-26,3,False,lechonk,True
+oinkologne,pokemon,colorless,1,110,2,fighting,lechonk,Oinkologne,B2a,80,2026-02-26,2,False,oinkologne,True
+tandemaus,pokemon,colorless,basic,30,0,fighting,,Tandemaus,B2a,81,2026-02-26,1,False,tandemaus_v2,False
+maushold,pokemon,colorless,1,60,1,fighting,tandemaus,Maushold,B2a,82,2026-02-26,2,False,maushold_v2,False
+squawkabilly,pokemon,colorless,basic,70,1,lightning,,Squawkabilly,B2a,83,2026-02-26,1,False,squawkabilly,True
+cyclizar,pokemon,colorless,basic,90,1,fighting,,Cyclizar,B2a,84,2026-02-26,1,False,cyclizar_v2,False
+flamigo,pokemon,colorless,basic,90,1,lightning,,Flamigo,B2a,85,2026-02-26,2,False,flamigo_v2,False
+electric generator,item,none,none,0,0,none,,Electric Generator,B2a,86,2026-02-26,4,False,electric_generator,True
+big air balloon,tool,none,none,0,0,none,,Big Air Balloon,B2a,87,2026-02-26,1,False,big_air_balloon,True
+team star grunt,supporter,none,none,0,0,none,,Team Star Grunt,B2a,88,2026-02-26,2,False,team_star_grunt,True
+nemona,supporter,none,none,0,0,none,,Nemona,B2a,90,2026-02-26,2,False,nemona,True
+arven,supporter,none,none,0,0,none,,Arven,B2a,91,2026-02-26,6,False,arven,True
+mesagoza,stadium,none,none,0,0,none,,Mesagoza,B2a,93,2026-02-26,3,False,mesagoza,True
+volbeat,pokemon,grass,basic,80,1,fire,,Volbeat,B2b,3,2026-03-26,2,False,volbeat,True
+illumise,pokemon,grass,basic,80,1,fire,,Illumise,B2b,4,2026-03-26,1,False,illumise,True
+phantump,pokemon,grass,basic,70,1,fire,,Phantump,B2b,5,2026-03-26,2,False,phantump_v3,False
+trevenant,pokemon,grass,1,120,3,fire,phantump,Trevenant,B2b,6,2026-03-26,2,False,trevenant_v4,False
+mega charizard x ex,pokemon,fire,2,220,2,water,charmeleon,Mega Charizard X ex,B2b,9,2026-03-26,6,True,mega_charizard_x_ex,True
+magmar,pokemon,fire,basic,80,1,water,,Magmar,B2b,12,2026-03-26,1,False,magmar_v3,False
+magmortar,pokemon,fire,1,130,2,water,magmar,Magmortar,B2b,13,2026-03-26,1,False,magmortar_v3,False
+paldean tauros,pokemon,fire,basic,100,1,water,,Paldean Tauros,B2b,14,2026-03-26,1,False,paldean_tauros_v3,False
+mega slowbro ex,pokemon,water,1,200,3,lightning,slowpoke,Mega Slowbro ex,B2b,16,2026-03-26,5,True,mega_slowbro_ex,True
+prinplup,pokemon,water,1,80,1,lightning,piplup,Prinplup,B2b,19,2026-03-26,1,False,prinplup_v2,False
+empoleon,pokemon,water,2,130,1,lightning,prinplup,Empoleon,B2b,20,2026-03-26,2,False,empoleon_v2,False
+phione,pokemon,water,basic,70,1,lightning,,Phione,B2b,21,2026-03-26,1,False,phione_v2,False
+pikachu,pokemon,lightning,basic,70,1,fighting,,Pikachu,B2b,22,2026-03-26,2,False,pikachu_v2,False
+electivire,pokemon,lightning,1,130,3,fighting,electabuzz,Electivire,B2b,25,2026-03-26,1,False,electivire_v2,False
+mega manectric ex,pokemon,lightning,1,180,0,fighting,electrike,Mega Manectric ex,B2b,27,2026-03-26,5,True,mega_manectric_ex,True
+drowzee,pokemon,psychic,basic,60,1,darkness,,Drowzee,B2b,28,2026-03-26,1,False,drowzee_v2,False
+mew,pokemon,psychic,basic,50,1,darkness,,Mew,B2b,30,2026-03-26,3,False,mew_v2,False
+grumpig,pokemon,psychic,1,110,3,darkness,spoink,Grumpig,B2b,32,2026-03-26,1,False,grumpig_v2,False
+dugtrio,pokemon,fighting,1,80,0,grass,diglett,Dugtrio,B2b,34,2026-03-26,2,False,dugtrio_v3,False
+groudon,pokemon,fighting,basic,130,3,grass,,Groudon,B2b,35,2026-03-26,2,False,groudon,True
+hawlucha,pokemon,fighting,basic,80,1,lightning,,Hawlucha,B2b,36,2026-03-26,2,False,hawlucha_v3,False
+haunter,pokemon,darkness,1,80,1,fighting,gastly,Haunter,B2b,38,2026-03-26,5,False,haunter_v3,False
+mega gengar ex,pokemon,darkness,2,210,1,fighting,haunter,Mega Gengar ex,B2b,39,2026-03-26,5,True,mega_gengar_ex,True
+trubbish,pokemon,darkness,basic,70,2,fighting,,Trubbish,B2b,41,2026-03-26,1,False,trubbish_v3,False
+zoroark,pokemon,darkness,1,100,1,grass,zorua,Zoroark,B2b,44,2026-03-26,3,False,zoroark_v2,False
+morpeko,pokemon,darkness,basic,70,1,grass,,Morpeko,B2b,45,2026-03-26,3,False,morpeko,True
+forretress,pokemon,metal,1,100,3,fire,pineco,Forretress,B2b,46,2026-03-26,2,False,forretress_v2,False
+mega scizor ex,pokemon,metal,1,200,2,fire,scyther,Mega Scizor ex,B2b,47,2026-03-26,4,True,mega_scizor_ex,True
+kartana,pokemon,metal,basic,60,1,fire,,Kartana,B2b,48,2026-03-26,1,False,kartana_v2,False
+varoom,pokemon,metal,basic,70,2,fire,,Varoom,B2b,49,2026-03-26,1,False,varoom_v3,False
+revavroom,pokemon,metal,1,110,3,fire,varoom,Revavroom,B2b,50,2026-03-26,2,False,revavroom_v2,False
+dragonair,pokemon,dragon,1,80,1,none,dratini,Dragonair,B2b,52,2026-03-26,2,False,dragonair_v4,False
+dragonite,pokemon,dragon,2,150,3,none,dragonair,Dragonite,B2b,53,2026-03-26,3,False,dragonite_v2,False
+axew,pokemon,dragon,basic,70,1,none,,Axew,B2b,54,2026-03-26,4,False,axew,True
+fraxure,pokemon,dragon,1,90,2,none,axew,Fraxure,B2b,55,2026-03-26,4,False,fraxure,True
+jigglypuff,pokemon,colorless,basic,70,2,fighting,,Jigglypuff,B2b,58,2026-03-26,1,False,jigglypuff_v3,False
+miltank,pokemon,colorless,basic,110,2,fighting,,Miltank,B2b,60,2026-03-26,2,False,miltank_v3,False
+nasty notice,item,none,none,0,0,none,,Nasty Notice,B2b,65,2026-03-26,1,False,nasty_notice,True
+maintenance,item,none,none,0,0,none,,Maintenance,B2b,66,2026-03-26,1,False,maintenance,True
+iris,supporter,none,none,0,0,none,,Iris,B2b,67,2026-03-26,5,False,iris,True
+calem,supporter,none,none,0,0,none,,Calem,B2b,68,2026-03-26,4,False,calem,True
+hiking trail,stadium,none,none,0,0,none,,Hiking Trail,B2b,69,2026-03-26,3,False,hiking_trail,True
+grovyle,pokemon,grass,1,80,1,fire,treecko,Grovyle,B3,6,2026-04-28,5,False,grovyle,True
+sceptile,pokemon,grass,2,140,1,fire,grovyle,Sceptile,B3,7,2026-04-28,1,False,sceptile,True
+masquerain,pokemon,grass,1,90,1,fire,surskit,Masquerain,B3,10,2026-04-28,2,False,masquerain_v2,False
+breloom,pokemon,grass,1,90,1,fire,shroomish,Breloom,B3,12,2026-04-28,1,False,breloom_v2,False
+budew,pokemon,grass,basic,30,0,none,,Budew,B3,13,2026-04-28,4,False,budew,True
+sewaddle,pokemon,grass,basic,60,1,fire,,Sewaddle,B3,15,2026-04-28,1,False,sewaddle,True
+swadloon,pokemon,grass,1,80,2,fire,sewaddle,Swadloon,B3,16,2026-04-28,1,False,swadloon,True
+leavanny,pokemon,grass,2,140,1,fire,swadloon,Leavanny,B3,17,2026-04-28,1,False,leavanny,True
+flapple,pokemon,grass,1,90,1,fire,applin,Flapple,B3,20,2026-04-28,2,False,flapple,True
+numel,pokemon,fire,basic,70,2,water,,Numel,B3,21,2026-04-28,3,False,numel,True
+camerupt,pokemon,fire,1,130,4,water,numel,Camerupt,B3,22,2026-04-28,1,False,camerupt,True
+mega camerupt ex,pokemon,fire,1,210,4,water,numel,Mega Camerupt ex,B3,23,2026-04-28,4,True,mega_camerupt_ex,True
+pignite,pokemon,fire,1,100,3,water,tepig,Pignite,B3,27,2026-04-28,1,False,pignite,True
+emboar,pokemon,fire,2,160,4,water,pignite,Emboar,B3,28,2026-04-28,1,False,emboar,True
+darumaka,pokemon,fire,basic,60,1,water,,Darumaka,B3,29,2026-04-28,1,False,darumaka_v3,False
+larvesta,pokemon,fire,basic,80,3,water,,Larvesta,B3,31,2026-04-28,1,False,larvesta_v2,False
+volcarona,pokemon,fire,1,110,2,water,larvesta,Volcarona,B3,32,2026-04-28,1,False,volcarona_v2,False
+politoed,pokemon,water,2,130,1,lightning,poliwhirl,Politoed,B3,35,2026-04-28,1,False,politoed_v2,False
+paldean tauros,pokemon,water,basic,100,2,lightning,,Paldean Tauros,B3,36,2026-04-28,1,False,paldean_tauros_v4,False
+vaporeon ex,pokemon,water,1,160,3,lightning,eevee,Vaporeon ex,B3,37,2026-04-28,5,True,vaporeon_ex,True
+wooper,pokemon,water,basic,60,1,lightning,,Wooper,B3,38,2026-04-28,1,False,wooper_v2,False
+castform rainy form,pokemon,water,basic,70,1,lightning,,Castform Rainy Form,B3,40,2026-04-28,1,False,castform_rainy_form,True
+castform snowy form,pokemon,water,basic,70,1,metal,,Castform Snowy Form,B3,41,2026-04-28,1,False,castform_snowy_form,True
+clamperl,pokemon,water,basic,60,1,lightning,,Clamperl,B3,42,2026-04-28,1,False,clamperl,True
+huntail,pokemon,water,1,100,1,lightning,clamperl,Huntail,B3,43,2026-04-28,1,False,huntail,True
+gorebyss,pokemon,water,1,100,1,lightning,clamperl,Gorebyss,B3,44,2026-04-28,1,False,gorebyss,True
+regice,pokemon,water,basic,110,3,metal,,Regice,B3,45,2026-04-28,1,False,regice_v2,False
+cubchoo,pokemon,water,basic,70,1,metal,,Cubchoo,B3,46,2026-04-28,1,False,cubchoo,True
+beartic,pokemon,water,1,130,3,metal,cubchoo,Beartic,B3,47,2026-04-28,1,False,beartic,True
+sobble,pokemon,water,basic,60,1,lightning,,Sobble,B3,48,2026-04-28,5,False,sobble,True
+drizzile,pokemon,water,1,80,1,lightning,sobble,Drizzile,B3,49,2026-04-28,3,False,drizzile,True
+inteleon,pokemon,water,2,150,2,lightning,drizzile,Inteleon,B3,50,2026-04-28,3,False,inteleon,True
+rapid strike urshifu,pokemon,water,1,120,3,lightning,kubfu,Rapid Strike Urshifu,B3,51,2026-04-28,1,False,rapid_strike_urshifu,True
+magneton,pokemon,lightning,1,90,2,fighting,magnemite,Magneton,B3,53,2026-04-28,1,False,magneton_v4,False
+magnezone ex,pokemon,lightning,2,180,2,fighting,magneton,Magnezone ex,B3,54,2026-04-28,4,True,magnezone_ex,True
+voltorb,pokemon,lightning,basic,50,1,fighting,,Voltorb,B3,55,2026-04-28,1,False,voltorb_v3,False
+lanturn,pokemon,lightning,1,110,2,fighting,chinchou,Lanturn,B3,58,2026-04-28,1,False,lanturn,True
+zekrom,pokemon,lightning,basic,120,2,fighting,,Zekrom,B3,59,2026-04-28,2,False,zekrom,True
+toxtricity,pokemon,lightning,1,100,2,fighting,toxel,Toxtricity,B3,61,2026-04-28,1,False,toxtricity,True
+morpeko,pokemon,lightning,basic,70,1,fighting,,Morpeko,B3,62,2026-04-28,2,False,morpeko_v2,False
+ralts,pokemon,psychic,basic,70,1,darkness,,Ralts,B3,63,2026-04-28,1,False,ralts_v2,False
+espurr,pokemon,psychic,basic,60,1,darkness,,Espurr,B3,65,2026-04-28,2,False,espurr,True
+diancie,pokemon,psychic,basic,90,2,metal,,Diancie,B3,67,2026-04-28,1,False,diancie,True
+oricorio,pokemon,psychic,basic,80,1,darkness,,Oricorio,B3,68,2026-04-28,4,False,oricorio_v4,False
+hatenna,pokemon,psychic,basic,60,1,darkness,,Hatenna,B3,69,2026-04-28,1,False,hatenna,True
+hattrem,pokemon,psychic,1,80,1,darkness,hatenna,Hattrem,B3,70,2026-04-28,1,False,hattrem,True
+hatterene,pokemon,psychic,2,150,2,darkness,hattrem,Hatterene,B3,71,2026-04-28,1,False,hatterene,True
+bramblin,pokemon,psychic,basic,60,1,darkness,,Bramblin,B3,72,2026-04-28,3,False,bramblin_v2,False
+brambleghast,pokemon,psychic,1,90,2,darkness,bramblin,Brambleghast,B3,73,2026-04-28,4,False,brambleghast_v2,False
+gliscor,pokemon,fighting,1,90,1,grass,gligar,Gliscor,B3,75,2026-04-28,1,False,gliscor_v3,False
+trapinch,pokemon,fighting,basic,60,1,grass,,Trapinch,B3,76,2026-04-28,3,False,trapinch,True
+regirock,pokemon,fighting,basic,110,3,grass,,Regirock,B3,77,2026-04-28,1,False,regirock_v2,False
+bonsly,pokemon,fighting,basic,30,0,none,,Bonsly,B3,78,2026-04-28,2,False,bonsly,True
+lucario,pokemon,fighting,1,100,1,psychic,riolu,Lucario,B3,80,2026-04-28,1,False,lucario_v2,False
+mega lucario ex,pokemon,fighting,1,190,1,psychic,riolu,Mega Lucario ex,B3,81,2026-04-28,5,True,mega_lucario_ex,True
+croagunk,pokemon,fighting,basic,60,1,psychic,,Croagunk,B3,82,2026-04-28,1,False,croagunk_v2,False
+toxicroak,pokemon,fighting,1,90,2,psychic,croagunk,Toxicroak,B3,83,2026-04-28,1,False,toxicroak_v3,False
+throh,pokemon,fighting,basic,100,3,psychic,,Throh,B3,85,2026-04-28,1,False,throh,True
+sawk,pokemon,fighting,basic,90,2,psychic,,Sawk,B3,86,2026-04-28,1,False,sawk,True
+crustle ex,pokemon,fighting,1,160,3,grass,dwebble,Crustle ex,B3,88,2026-04-28,4,True,crustle_ex,True
+meloetta,pokemon,fighting,basic,70,1,psychic,,Meloetta,B3,89,2026-04-28,2,False,meloetta_v2,False
+bewear,pokemon,fighting,1,110,2,psychic,stufful,Bewear,B3,91,2026-04-28,1,False,bewear_v4,False
+rolycoly,pokemon,fighting,basic,80,3,grass,,Rolycoly,B3,92,2026-04-28,1,False,rolycoly_v2,False
+carkol,pokemon,fighting,1,100,3,grass,rolycoly,Carkol,B3,93,2026-04-28,2,False,carkol_v2,False
+coalossal,pokemon,fighting,2,160,4,grass,carkol,Coalossal,B3,94,2026-04-28,1,False,coalossal_v2,False
+silicobra,pokemon,fighting,basic,70,2,grass,,Silicobra,B3,95,2026-04-28,1,False,silicobra,True
+sandaconda,pokemon,fighting,1,130,3,grass,silicobra,Sandaconda,B3,96,2026-04-28,1,False,sandaconda,True
+kubfu,pokemon,fighting,basic,60,1,psychic,,Kubfu,B3,97,2026-04-28,2,False,kubfu,True
+crobat,pokemon,darkness,2,130,1,fighting,golbat,Crobat,B3,100,2026-04-28,2,False,crobat_v2,False
+weezing,pokemon,darkness,1,110,2,fighting,koffing,Weezing,B3,102,2026-04-28,2,False,weezing_v2,False
+qwilfish,pokemon,darkness,basic,80,1,fighting,,Qwilfish,B3,103,2026-04-28,1,False,qwilfish_v2,False
+seviper,pokemon,darkness,basic,70,1,fighting,,Seviper,B3,104,2026-04-28,2,False,seviper_v2,False
+zoroark ex,pokemon,darkness,1,150,2,grass,zorua,Zoroark ex,B3,106,2026-04-28,5,True,zoroark_ex,True
+foongus,pokemon,darkness,basic,60,1,fighting,,Foongus,B3,107,2026-04-28,1,False,foongus,True
+amoonguss,pokemon,darkness,1,90,1,fighting,foongus,Amoonguss,B3,108,2026-04-28,1,False,amoonguss,True
+vullaby,pokemon,darkness,basic,60,1,lightning,,Vullaby,B3,109,2026-04-28,3,False,vullaby,True
+mandibuzz,pokemon,darkness,1,100,1,lightning,vullaby,Mandibuzz,B3,110,2026-04-28,1,False,mandibuzz,True
+malamar,pokemon,darkness,1,100,2,grass,inkay,Malamar,B3,112,2026-04-28,2,False,malamar_v2,False
+single strike urshifu,pokemon,darkness,1,120,3,grass,kubfu,Single Strike Urshifu,B3,113,2026-04-28,1,False,single_strike_urshifu,True
+bombirdier,pokemon,darkness,basic,70,1,lightning,,Bombirdier,B3,115,2026-04-28,4,False,bombirdier_v2,False
+registeel,pokemon,metal,basic,110,3,fire,,Registeel,B3,116,2026-04-28,1,False,registeel_v2,False
+pawniard,pokemon,metal,basic,60,1,fire,,Pawniard,B3,119,2026-04-28,1,False,pawniard_v3,False
+bisharp,pokemon,metal,1,90,2,fire,pawniard,Bisharp,B3,120,2026-04-28,2,False,bisharp_v2,False
+corviknight ex,pokemon,metal,2,180,2,fire,corvisquire,Corviknight ex,B3,124,2026-04-28,4,True,corviknight_ex,True
+vibrava,pokemon,dragon,1,90,1,none,trapinch,Vibrava,B3,125,2026-04-28,3,False,vibrava,True
+flygon ex,pokemon,dragon,2,180,2,none,vibrava,Flygon ex,B3,126,2026-04-28,4,True,flygon_ex,True
+blissey,pokemon,colorless,1,140,3,fighting,chansey,Blissey,B3,128,2026-04-28,2,False,blissey_v2,False
+dunsparce,pokemon,colorless,basic,60,1,fighting,,Dunsparce,B3,130,2026-04-28,2,False,dunsparce_v2,False
+ursaring,pokemon,colorless,1,110,3,fighting,teddiursa,Ursaring,B3,132,2026-04-28,2,False,ursaring_v3,False
+castform,pokemon,colorless,basic,70,1,fighting,,Castform,B3,133,2026-04-28,2,False,castform,True
+regigigas,pokemon,colorless,basic,150,4,fighting,,Regigigas,B3,134,2026-04-28,1,False,regigigas_v2,False
+watchog,pokemon,colorless,1,90,1,fighting,patrat,Watchog,B3,136,2026-04-28,1,False,watchog_v2,False
+herdier,pokemon,colorless,1,90,2,fighting,lillipup,Herdier,B3,138,2026-04-28,1,False,herdier_v3,False
+audino,pokemon,colorless,basic,80,2,fighting,,Audino,B3,140,2026-04-28,1,False,audino_v3,False
+mega audino ex,pokemon,colorless,basic,180,2,fighting,,Mega Audino ex,B3,141,2026-04-28,5,True,mega_audino_ex,True
+minccino,pokemon,colorless,basic,50,1,fighting,,Minccino,B3,142,2026-04-28,1,False,minccino_v3,False
+field blower,item,none,none,0,0,none,,Field Blower,B3,147,2026-04-28,3,False,field_blower,True
+lucky egg,tool,none,none,0,0,none,,Lucky Egg,B3,148,2026-04-28,3,False,lucky_egg,True
+korrina,supporter,none,none,0,0,none,,Korrina,B3,149,2026-04-28,4,False,korrina,True
+cabbie,supporter,none,none,0,0,none,,Cabbie,B3,150,2026-04-28,2,False,cabbie,True
+cheren,supporter,none,none,0,0,none,,Cheren,B3,151,2026-04-28,2,False,cheren,True
+parasol lady,supporter,none,none,0,0,none,,Parasol Lady,B3,152,2026-04-28,2,False,parasol_lady,True
+fragrant forest,stadium,none,none,0,0,none,,Fragrant Forest,B3,153,2026-04-28,3,False,fragrant_forest,True
+arena of antiquity,stadium,none,none,0,0,none,,Arena of Antiquity,B3,154,2026-04-28,3,False,arena_of_antiquity,True
+bounded field,stadium,none,none,0,0,none,,Bounded Field,B3,155,2026-04-28,3,False,bounded_field,True
+surskit,pokemon,grass,basic,60,1,fire,,Surskit,B3a,1,2026-05-28,1,False,surskit_v2,False
+brute bonnet,pokemon,grass,basic,100,2,fire,,Brute Bonnet,B3a,3,2026-05-28,1,False,brute_bonnet,True
+slither wing,pokemon,grass,basic,120,2,fire,,Slither Wing,B3a,4,2026-05-28,1,False,slither_wing,True
+iron moth,pokemon,fire,basic,90,1,water,,Iron Moth,B3a,5,2026-05-28,1,False,iron_moth,True
+frosmoth,pokemon,water,1,100,1,metal,snom,Frosmoth,B3a,12,2026-05-28,1,False,frosmoth_v2,False
+iron bundle ex,pokemon,water,basic,130,1,lightning,,Iron Bundle ex,B3a,13,2026-05-28,4,True,iron_bundle_ex,True
+pawmi,pokemon,lightning,basic,50,1,fighting,,Pawmi,B3a,14,2026-05-28,1,False,pawmi_v2,False
+pawmo,pokemon,lightning,1,80,1,fighting,pawmi,Pawmo,B3a,15,2026-05-28,2,False,pawmo_v2,False
+pawmot,pokemon,lightning,2,130,1,fighting,pawmo,Pawmot,B3a,16,2026-05-28,1,False,pawmot_v3,False
+iron hands,pokemon,lightning,basic,120,3,fighting,,Iron Hands,B3a,17,2026-05-28,1,False,iron_hands,True
+iron thorns,pokemon,lightning,basic,110,3,fighting,,Iron Thorns,B3a,18,2026-05-28,3,False,iron_thorns,True
+miraidon ex,pokemon,lightning,basic,140,2,fighting,,Miraidon ex,B3a,19,2026-05-28,5,True,miraidon_ex,True
+espeon,pokemon,psychic,1,90,1,darkness,eevee,Espeon,B3a,20,2026-05-28,2,False,espeon_v2,False
+flittle,pokemon,psychic,basic,40,1,darkness,,Flittle,B3a,21,2026-05-28,2,False,flittle_v2,False
+espathra,pokemon,psychic,1,100,1,darkness,flittle,Espathra,B3a,22,2026-05-28,1,False,espathra_v2,False
+scream tail,pokemon,psychic,basic,70,1,darkness,,Scream Tail,B3a,25,2026-05-28,1,False,scream_tail,True
+flutter mane ex,pokemon,psychic,basic,130,1,metal,,Flutter Mane ex,B3a,26,2026-05-28,4,True,flutter_mane_ex,True
+iron valiant,pokemon,psychic,basic,100,2,metal,,Iron Valiant,B3a,27,2026-05-28,2,False,iron_valiant,True
+iron leaves,pokemon,psychic,basic,90,1,darkness,,Iron Leaves,B3a,28,2026-05-28,1,False,iron_leaves,True
+iron boulder,pokemon,psychic,basic,120,3,darkness,,Iron Boulder,B3a,29,2026-05-28,2,False,iron_boulder,True
+iron crown,pokemon,psychic,basic,100,2,darkness,,Iron Crown,B3a,30,2026-05-28,1,False,iron_crown,True
+nacli,pokemon,fighting,basic,70,2,grass,,Nacli,B3a,31,2026-05-28,1,False,nacli,True
+naclstack,pokemon,fighting,1,110,3,grass,nacli,Naclstack,B3a,32,2026-05-28,1,False,naclstack,True
+garganacl,pokemon,fighting,2,150,3,grass,naclstack,Garganacl,B3a,33,2026-05-28,1,False,garganacl,True
+great tusk,pokemon,fighting,basic,120,3,psychic,,Great Tusk,B3a,34,2026-05-28,1,False,great_tusk,True
+sandy shocks,pokemon,fighting,basic,100,2,grass,,Sandy Shocks,B3a,35,2026-05-28,1,False,sandy_shocks,True
+koraidon ex,pokemon,fighting,basic,150,2,psychic,,Koraidon ex,B3a,36,2026-05-28,5,True,koraidon_ex,True
+weavile,pokemon,darkness,1,90,1,grass,sneasel,Weavile,B3a,39,2026-05-28,1,False,weavile_v2,False
+pawniard,pokemon,darkness,basic,50,1,grass,,Pawniard,B3a,41,2026-05-28,1,False,pawniard_v4,False
+bisharp,pokemon,darkness,1,80,1,grass,pawniard,Bisharp,B3a,42,2026-05-28,1,False,bisharp_v3,False
+kingambit,pokemon,darkness,2,140,3,grass,bisharp,Kingambit,B3a,43,2026-05-28,1,False,kingambit,True
+glimmet,pokemon,darkness,basic,60,1,fighting,,Glimmet,B3a,44,2026-05-28,1,False,glimmet,True
+glimmora,pokemon,darkness,1,90,2,fighting,glimmet,Glimmora,B3a,45,2026-05-28,2,False,glimmora,True
+iron jugulis,pokemon,darkness,basic,100,2,grass,,Iron Jugulis,B3a,46,2026-05-28,1,False,iron_jugulis,True
+roaring moon,pokemon,darkness,basic,100,1,grass,,Roaring Moon,B3a,47,2026-05-28,4,False,roaring_moon,True
+corviknight,pokemon,metal,2,140,2,fire,corvisquire,Corviknight,B3a,48,2026-05-28,1,False,corviknight_v2,False
+cufant,pokemon,metal,basic,100,3,fire,,Cufant,B3a,49,2026-05-28,1,False,cufant,True
+copperajah,pokemon,metal,1,170,4,fire,cufant,Copperajah,B3a,50,2026-05-28,1,False,copperajah,True
+iron treads,pokemon,metal,basic,100,2,fire,,Iron Treads,B3a,51,2026-05-28,1,False,iron_treads,True
+altaria,pokemon,dragon,1,100,1,none,swablu,Altaria,B3a,52,2026-05-28,1,False,altaria_v3,False
+walking wake,pokemon,dragon,basic,110,2,none,,Walking Wake,B3a,53,2026-05-28,1,False,walking_wake,True
+gouging fire,pokemon,dragon,basic,110,2,none,,Gouging Fire,B3a,54,2026-05-28,1,False,gouging_fire,True
+raging bolt,pokemon,dragon,basic,130,3,none,,Raging Bolt,B3a,55,2026-05-28,2,False,raging_bolt,True
+girafarig,pokemon,colorless,basic,70,1,fighting,,Girafarig,B3a,57,2026-05-28,1,False,girafarig_v2,False
+farigiraf,pokemon,colorless,1,120,1,fighting,girafarig,Farigiraf,B3a,58,2026-05-28,1,False,farigiraf,True
+rufflet,pokemon,colorless,basic,70,1,lightning,,Rufflet,B3a,62,2026-05-28,1,False,rufflet_v2,False
+braviary,pokemon,colorless,1,120,2,lightning,rufflet,Braviary,B3a,63,2026-05-28,1,False,braviary_v2,False
+corvisquire,pokemon,colorless,1,70,1,lightning,rookidee,Corvisquire,B3a,66,2026-05-28,1,False,corvisquire_v2,False
+terapagos ex,pokemon,colorless,basic,150,2,fighting,,Terapagos ex,B3a,68,2026-05-28,4,True,terapagos_ex,True
+ancient booster energy capsule,tool,none,none,0,0,none,,Ancient Booster Energy Capsule,B3a,69,2026-05-28,3,False,ancient_booster_energy_capsule,True
+future booster energy capsule,tool,none,none,0,0,none,,Future Booster Energy Capsule,B3a,70,2026-05-28,3,False,future_booster_energy_capsule,True
+juliana,supporter,none,none,0,0,none,,Juliana,B3a,71,2026-05-28,4,False,juliana,True
+professor sada,supporter,none,none,0,0,none,,Professor Sada,B3a,72,2026-05-28,2,False,professor_sada,True
+professor turo,supporter,none,none,0,0,none,,Professor Turo,B3a,73,2026-05-28,2,False,professor_turo,True
+area zero,stadium,none,none,0,0,none,,Area Zero,B3a,74,2026-05-28,1,False,area_zero,True
+caterpie,pokemon,grass,basic,40,1,fire,,Caterpie,B3b,1,2026-06-30,4,False,caterpie_v2,False
+butterfree,pokemon,grass,2,130,1,fire,metapod,Butterfree,B3b,3,2026-06-30,4,False,butterfree_v2,False
+hisuian lilligant,pokemon,grass,1,100,1,fire,petilil,Hisuian Lilligant,B3b,7,2026-06-30,1,False,hisuian_lilligant,True
+goldeen,pokemon,water,basic,50,1,lightning,,Goldeen,B3b,12,2026-06-30,2,False,goldeen_v2,False
+seaking,pokemon,water,1,90,1,lightning,goldeen,Seaking,B3b,13,2026-06-30,2,False,seaking_v2,False
+milotic ex,pokemon,water,1,140,2,lightning,feebas,Milotic ex,B3b,15,2026-06-30,4,True,milotic_ex,True
+iron bundle,pokemon,water,basic,80,1,lightning,,Iron Bundle,B3b,20,2026-06-30,1,False,iron_bundle,True
+dedenne ex,pokemon,lightning,basic,120,1,fighting,,Dedenne ex,B3b,24,2026-06-30,5,True,dedenne_ex,True
+munna,pokemon,psychic,basic,60,1,darkness,,Munna,B3b,28,2026-06-30,1,False,munna_v2,False
+musharna,pokemon,psychic,1,100,2,darkness,munna,Musharna,B3b,29,2026-06-30,1,False,musharna_v2,False
+sylveon,pokemon,psychic,1,100,1,metal,eevee,Sylveon,B3b,30,2026-06-30,4,False,sylveon_v2,False
+mega diancie ex,pokemon,psychic,basic,170,1,metal,,Mega Diancie ex,B3b,32,2026-06-30,5,True,mega_diancie_ex,True
+enamorus,pokemon,psychic,basic,100,1,metal,,Enamorus,B3b,33,2026-06-30,1,False,enamorus,True
+fidough,pokemon,psychic,basic,40,0,metal,,Fidough,B3b,34,2026-06-30,4,False,fidough_v2,False
+flutter mane,pokemon,psychic,basic,80,1,metal,,Flutter Mane,B3b,35,2026-06-30,1,False,flutter_mane,True
+wooper,pokemon,fighting,basic,60,1,grass,,Wooper,B3b,36,2026-06-30,1,False,wooper_v3,False
+sandygast,pokemon,fighting,basic,80,3,grass,,Sandygast,B3b,39,2026-06-30,1,False,sandygast_v3,False
+mega sableye ex,pokemon,darkness,basic,170,1,grass,,Mega Sableye ex,B3b,41,2026-06-30,4,True,mega_sableye_ex,True
+cacturne,pokemon,darkness,1,100,1,grass,cacnea,Cacturne,B3b,42,2026-06-30,1,False,cacturne_v2,False
+scraggy,pokemon,darkness,basic,70,1,grass,,Scraggy,B3b,44,2026-06-30,1,False,scraggy_v2,False
+goomy,pokemon,dragon,basic,50,1,none,,Goomy,B3b,48,2026-06-30,1,False,goomy_v2,False
+hisuian sliggoo,pokemon,dragon,1,100,3,none,goomy,Hisuian Sliggoo,B3b,49,2026-06-30,1,False,hisuian_sliggoo,True
+hisuian goodra,pokemon,dragon,2,150,3,none,hisuian sliggoo,Hisuian Goodra,B3b,50,2026-06-30,1,False,hisuian_goodra,True
+eevee,pokemon,colorless,basic,70,1,fighting,,Eevee,B3b,53,2026-06-30,1,False,eevee_v3,False
+munchlax,pokemon,colorless,basic,50,2,none,,Munchlax,B3b,54,2026-06-30,4,False,munchlax,True
+snorlax,pokemon,colorless,basic,130,3,fighting,,Snorlax,B3b,55,2026-06-30,4,False,snorlax_v3,False
+ursaluna,pokemon,colorless,2,160,3,fighting,ursaring,Ursaluna,B3b,58,2026-06-30,1,False,ursaluna,True
+hisuian zoroark ex,pokemon,colorless,1,150,2,fighting,hisuian zorua,Hisuian Zoroark ex,B3b,60,2026-06-30,5,True,hisuian_zoroark_ex,True
+skwovet,pokemon,colorless,basic,60,1,fighting,,Skwovet,B3b,62,2026-06-30,1,False,skwovet_v2,False
+greedent,pokemon,colorless,1,130,3,fighting,skwovet,Greedent,B3b,63,2026-06-30,2,False,greedent_v2,False
+small balloon,tool,none,none,0,0,none,,Small Balloon,B3b,64,2026-06-30,4,False,small_balloon,True
+elegant cape,tool,none,none,0,0,none,,Elegant Cape,B3b,65,2026-06-30,3,False,elegant_cape,True
+elesa,supporter,none,none,0,0,none,,Elesa,B3b,66,2026-06-30,3,False,elesa,True
+puppy-loving girl,supporter,none,none,0,0,none,,Puppy-Loving Girl,B3b,67,2026-06-30,4,False,puppy_loving_girl,True
+wallace,supporter,none,none,0,0,none,,Wallace,B3b,68,2026-06-30,4,False,wallace,True
+kid's room,stadium,none,none,0,0,none,,Kid’s Room,B3b,69,2026-06-30,1,False,kid_s_room,True
+wurmple,pokemon,grass,basic,60,1,fire,,Wurmple,B4,1,2026-07-30,2,False,wurmple_v2,False
+dustox,pokemon,grass,2,120,1,fire,cascoon,Dustox,B4,5,2026-07-30,1,False,dustox_v2,False
+lileep,pokemon,grass,1,90,2,fire,root fossil,Lileep,B4,6,2026-07-30,2,False,lileep,True
+cradily,pokemon,grass,2,150,3,fire,lileep,Cradily,B4,7,2026-07-30,1,False,cradily,True
+vespiquen ex,pokemon,grass,1,140,2,fire,combee,Vespiquen ex,B4,11,2026-07-30,4,True,vespiquen_ex,True
+shelmet,pokemon,grass,basic,70,3,fire,,Shelmet,B4,13,2026-07-30,1,False,shelmet,True
+accelgor,pokemon,grass,1,80,1,fire,shelmet,Accelgor,B4,14,2026-07-30,2,False,accelgor,True
+dhelmise,pokemon,grass,basic,110,2,fire,,Dhelmise,B4,15,2026-07-30,1,False,dhelmise_v2,False
+poltchageist,pokemon,grass,basic,40,1,fire,,Poltchageist,B4,17,2026-07-30,1,False,poltchageist,True
+sinistcha,pokemon,grass,1,80,1,fire,poltchageist,Sinistcha,B4,18,2026-07-30,1,False,sinistcha,True
+teal mask ogerpon,pokemon,grass,basic,90,1,fire,,Teal Mask Ogerpon,B4,19,2026-07-30,3,False,teal_mask_ogerpon,True
+rapidash,pokemon,fire,1,110,1,water,ponyta,Rapidash,B4,21,2026-07-30,1,False,rapidash_v2,False
+typhlosion ex,pokemon,fire,2,180,2,water,quilava,Typhlosion ex,B4,26,2026-07-30,5,True,typhlosion_ex,True
+houndoom,pokemon,fire,1,100,1,water,houndour,Houndoom,B4,28,2026-07-30,1,False,houndoom_v4,False
+heatmor,pokemon,fire,basic,90,1,water,,Heatmor,B4,29,2026-07-30,1,False,heatmor_v3,False
+golduck,pokemon,water,1,110,1,lightning,psyduck,Golduck,B4,31,2026-07-30,1,False,golduck_v2,False
+starmie,pokemon,water,1,90,1,lightning,staryu,Starmie,B4,33,2026-07-30,1,False,starmie_v2,False
+mega sharpedo ex,pokemon,water,1,190,0,lightning,carvanha,Mega Sharpedo ex,B4,35,2026-07-30,4,True,mega_sharpedo_ex,True
+wailord ex,pokemon,water,1,250,4,lightning,wailmer,Wailord ex,B4,37,2026-07-30,4,True,wailord_ex,True
+spheal,pokemon,water,basic,60,1,metal,,Spheal,B4,38,2026-07-30,1,False,spheal,True
+sealeo,pokemon,water,1,100,3,metal,spheal,Sealeo,B4,39,2026-07-30,1,False,sealeo,True
+walrein,pokemon,water,2,160,4,metal,sealeo,Walrein,B4,40,2026-07-30,1,False,walrein,True
+kyogre,pokemon,water,basic,120,2,lightning,,Kyogre,B4,41,2026-07-30,2,False,kyogre,True
+oshawott,pokemon,water,basic,60,1,lightning,,Oshawott,B4,42,2026-07-30,2,False,oshawott,True
+dewott,pokemon,water,1,80,1,lightning,oshawott,Dewott,B4,43,2026-07-30,1,False,dewott,True
+samurott,pokemon,water,2,150,2,lightning,dewott,Samurott,B4,44,2026-07-30,2,False,samurott,True
+alomomola,pokemon,water,basic,100,2,lightning,,Alomomola,B4,45,2026-07-30,1,False,alomomola_v2,False
+araquanid,pokemon,water,1,100,2,lightning,dewpider,Araquanid,B4,47,2026-07-30,1,False,araquanid_v2,False
+raichu,pokemon,lightning,1,100,2,fighting,pikachu,Raichu,B4,50,2026-07-30,5,False,raichu_v5,False
+luxio,pokemon,lightning,1,70,0,fighting,shinx,Luxio,B4,52,2026-07-30,1,False,luxio_v3,False
+luxray,pokemon,lightning,2,140,1,fighting,luxio,Luxray,B4,53,2026-07-30,1,False,luxray_v3,False
+rotom ex,pokemon,lightning,basic,120,1,fighting,,Rotom ex,B4,55,2026-07-30,4,True,rotom_ex,True
+tynamo,pokemon,lightning,basic,40,1,fighting,,Tynamo,B4,56,2026-07-30,1,False,tynamo_v3,False
+eelektrik,pokemon,lightning,1,80,1,fighting,tynamo,Eelektrik,B4,57,2026-07-30,1,False,eelektrik_v3,False
+thundurus,pokemon,lightning,basic,100,1,fighting,,Thundurus,B4,59,2026-07-30,1,False,thundurus,True
+heliolisk,pokemon,lightning,1,80,1,fighting,helioptile,Heliolisk,B4,61,2026-07-30,3,False,heliolisk_v3,False
+kilowattrel,pokemon,lightning,1,90,1,lightning,wattrel,Kilowattrel,B4,63,2026-07-30,1,False,kilowattrel_v2,False
+clefable,pokemon,psychic,1,110,1,metal,clefairy,Clefable,B4,65,2026-07-30,1,False,clefable_v3,False
+drowzee,pokemon,psychic,basic,70,1,darkness,,Drowzee,B4,66,2026-07-30,1,False,drowzee_v3,False
+hypno,pokemon,psychic,1,110,2,darkness,drowzee,Hypno,B4,67,2026-07-30,1,False,hypno_v2,False
+mime jr.,pokemon,psychic,basic,30,0,none,,Mime Jr.,B4,68,2026-07-30,3,False,mime_jr,True
+mr. mime,pokemon,psychic,basic,70,1,darkness,,Mr. Mime,B4,69,2026-07-30,2,False,mr_mime_v3,False
+chimecho,pokemon,psychic,basic,70,1,darkness,,Chimecho,B4,73,2026-07-30,1,False,chimecho,True
+wynaut,pokemon,psychic,basic,30,0,none,,Wynaut,B4,74,2026-07-30,4,False,wynaut,True
+hoopa,pokemon,psychic,basic,70,1,darkness,,Hoopa,B4,77,2026-07-30,1,False,hoopa,True
+anorith,pokemon,fighting,1,90,1,grass,claw fossil,Anorith,B4,81,2026-07-30,2,False,anorith,True
+armaldo,pokemon,fighting,2,150,3,grass,anorith,Armaldo,B4,82,2026-07-30,1,False,armaldo,True
+groudon,pokemon,fighting,basic,130,4,grass,,Groudon,B4,83,2026-07-30,1,False,groudon_v2,False
+mega gallade ex,pokemon,fighting,2,220,2,psychic,kirlia,Mega Gallade ex,B4,84,2026-07-30,5,True,mega_gallade_ex,True
+drilbur,pokemon,fighting,basic,70,2,grass,,Drilbur,B4,85,2026-07-30,1,False,drilbur_v2,False
+excadrill,pokemon,fighting,1,110,3,grass,drilbur,Excadrill,B4,86,2026-07-30,1,False,excadrill_v3,False
+timburr,pokemon,fighting,basic,70,1,psychic,,Timburr,B4,87,2026-07-30,1,False,timburr_v2,False
+minior,pokemon,fighting,basic,70,1,grass,,Minior,B4,90,2026-07-30,1,False,minior_v2,False
+grimer,pokemon,darkness,basic,70,2,fighting,,Grimer,B4,91,2026-07-30,1,False,grimer_v3,False
+galarian zigzagoon,pokemon,darkness,basic,70,1,grass,,Galarian Zigzagoon,B4,95,2026-07-30,1,False,galarian_zigzagoon_v2,False
+galarian linoone,pokemon,darkness,1,80,1,grass,galarianzigzagoon,Galarian Linoone,B4,96,2026-07-30,1,False,galarian_linoone_v2,False
+galarian obstagoon,pokemon,darkness,2,140,2,grass,galarianlinoone,Galarian Obstagoon,B4,97,2026-07-30,1,False,galarian_obstagoon_v2,False
+gulpin,pokemon,darkness,basic,70,2,fighting,,Gulpin,B4,98,2026-07-30,2,False,gulpin,True
+swalot,pokemon,darkness,1,120,3,fighting,gulpin,Swalot,B4,99,2026-07-30,1,False,swalot,True
+absol,pokemon,darkness,basic,70,1,grass,,Absol,B4,100,2026-07-30,1,False,absol_v2,False
+mandibuzz,pokemon,darkness,1,110,2,lightning,vullaby,Mandibuzz,B4,102,2026-07-30,1,False,mandibuzz_v2,False
+hoopa ex,pokemon,darkness,basic,150,2,grass,,Hoopa ex,B4,103,2026-07-30,4,True,hoopa_ex,True
+skarmory,pokemon,metal,basic,90,1,lightning,,Skarmory,B4,104,2026-07-30,1,False,skarmory_v2,False
+metang,pokemon,metal,1,100,3,fire,beldum,Metang,B4,107,2026-07-30,3,False,metang,True
+metagross,pokemon,metal,2,160,3,fire,metang,Metagross,B4,108,2026-07-30,1,False,metagross,True
+mega metagross ex,pokemon,metal,2,230,3,fire,metang,Mega Metagross ex,B4,109,2026-07-30,4,True,mega_metagross_ex,True
+escavalier,pokemon,metal,1,120,3,fire,karrablast,Escavalier,B4,110,2026-07-30,1,False,escavalier_v2,False
+genesect,pokemon,metal,basic,100,1,fire,,Genesect,B4,111,2026-07-30,2,False,genesect_v2,False
+duraludon,pokemon,metal,basic,110,3,fire,,Duraludon,B4,112,2026-07-30,1,False,duraludon,True
+archaludon,pokemon,metal,1,140,3,fire,duraludon,Archaludon,B4,113,2026-07-30,1,False,archaludon,True
+revavroom,pokemon,metal,1,120,2,fire,varoom,Revavroom,B4,115,2026-07-30,1,False,revavroom_v3,False
+dragonair,pokemon,dragon,1,80,2,none,dratini,Dragonair,B4,117,2026-07-30,5,False,dragonair_v5,False
+rayquaza,pokemon,dragon,basic,120,2,none,,Rayquaza,B4,119,2026-07-30,1,False,rayquaza_v2,False
+mega rayquaza ex,pokemon,dragon,basic,180,1,none,,Mega Rayquaza ex,B4,120,2026-07-30,5,True,mega_rayquaza_ex,True
+noibat,pokemon,dragon,basic,60,1,none,,Noibat,B4,121,2026-07-30,1,False,noibat,True
+turtonator,pokemon,dragon,basic,110,3,none,,Turtonator,B4,123,2026-07-30,1,False,turtonator_v3,False
+applin,pokemon,dragon,basic,40,1,none,,Applin,B4,125,2026-07-30,1,False,applin_v2,False
+dipplin,pokemon,dragon,1,80,1,none,applin,Dipplin,B4,126,2026-07-30,1,False,dipplin,True
+hydrapple,pokemon,dragon,2,150,2,none,dipplin,Hydrapple,B4,127,2026-07-30,1,False,hydrapple,True
+cyclizar,pokemon,dragon,basic,90,1,none,,Cyclizar,B4,128,2026-07-30,2,False,cyclizar_v3,False
+kecleon,pokemon,colorless,basic,80,1,fighting,,Kecleon,B4,136,2026-07-30,1,False,kecleon,True
+pidove,pokemon,colorless,basic,60,1,lightning,,Pidove,B4,137,2026-07-30,1,False,pidove,True
+tranquill,pokemon,colorless,1,80,1,lightning,pidove,Tranquill,B4,138,2026-07-30,1,False,tranquill,True
+unfezant,pokemon,colorless,2,130,1,lightning,tranquill,Unfezant,B4,139,2026-07-30,1,False,unfezant,True
+ducklett,pokemon,colorless,basic,60,1,lightning,,Ducklett,B4,140,2026-07-30,3,False,ducklett_v3,False
+swanna ex,pokemon,colorless,1,150,2,lightning,ducklett,Swanna ex,B4,141,2026-07-30,4,True,swanna_ex,True
+silvally,pokemon,colorless,1,110,2,fighting,type: null,Silvally,B4,144,2026-07-30,1,False,silvally_v2,False
+order pad,item,none,none,0,0,none,,Order Pad,B4,145,2026-07-30,3,False,order_pad,True
+claw fossil,item,none,none,0,0,none,,Claw Fossil,B4,146,2026-07-30,1,False,claw_fossil,True
+root fossil,item,none,none,0,0,none,,Root Fossil,B4,147,2026-07-30,1,False,root_fossil,True
+deceptive needle,tool,none,none,0,0,none,,Deceptive Needle,B4,148,2026-07-30,3,False,deceptive_needle,True
+clear veil,tool,none,none,0,0,none,,Clear Veil,B4,149,2026-07-30,1,False,clear_veil,True
+psychic,supporter,none,none,0,0,none,,Psychic,B4,150,2026-07-30,2,False,psychic,True
+drayden,supporter,none,none,0,0,none,,Drayden,B4,151,2026-07-30,2,False,drayden,True
+skyla,supporter,none,none,0,0,none,,Skyla,B4,152,2026-07-30,4,False,skyla,True
+wally,supporter,none,none,0,0,none,,Wally,B4,153,2026-07-30,4,False,wally,True
+soothing shore,stadium,none,none,0,0,none,,Soothing Shore,B4,154,2026-07-30,3,False,soothing_shore,True
+rainbow cave,stadium,none,none,0,0,none,,Rainbow Cave,B4,155,2026-07-30,3,False,rainbow_cave,True
+illumise,pokemon,grass,basic,70,1,fire,,Illumise,B4a,2,2026-08-27,1,False,illumise_v2,False
+serperior,pokemon,grass,2,100,2,fire,servine,Serperior,B4a,5,2026-08-27,1,False,serperior_v2,False
+team rocket's magmar,pokemon,fire,basic,70,2,water,,Team Rocket’s Magmar,B4a,6,2026-08-27,1,False,team_rocket_s_magmar,True
+team rocket's moltres ex,pokemon,fire,basic,130,2,water,,Team Rocket’s Moltres ex,B4a,7,2026-08-27,3,True,team_rocket_s_moltres_ex,True
+team rocket's houndour,pokemon,fire,basic,60,1,water,,Team Rocket’s Houndour,B4a,8,2026-08-27,1,False,team_rocket_s_houndour,True
+team rocket's houndoom,pokemon,fire,1,90,1,water,team rocket's houndour,Team Rocket’s Houndoom,B4a,9,2026-08-27,1,False,team_rocket_s_houndoom,True
+braixen,pokemon,fire,1,80,1,water,fennekin,Braixen,B4a,11,2026-08-27,1,False,braixen,True
+delphox,pokemon,fire,2,130,2,water,braixen,Delphox,B4a,12,2026-08-27,2,False,delphox,True
+team rocket's articuno ex,pokemon,water,basic,130,2,metal,,Team Rocket’s Articuno ex,B4a,14,2026-08-27,3,True,team_rocket_s_articuno_ex,True
+pelipper,pokemon,water,1,110,2,lightning,wingull,Pelipper,B4a,16,2026-08-27,1,False,pelipper,True
+hisuian basculin,pokemon,water,basic,70,1,lightning,,Hisuian Basculin,B4a,17,2026-08-27,1,False,hisuian_basculin,True
+hisuian basculegion,pokemon,water,1,100,2,lightning,hisuian basculin,Hisuian Basculegion,B4a,18,2026-08-27,1,False,hisuian_basculegion,True
+team rocket's voltorb,pokemon,lightning,basic,60,1,fighting,,Team Rocket’s Voltorb,B4a,19,2026-08-27,1,False,team_rocket_s_voltorb,True
+team rocket's electrode,pokemon,lightning,1,70,1,fighting,team rocket's voltorb,Team Rocket’s Electrode,B4a,20,2026-08-27,1,False,team_rocket_s_electrode,True
+team rocket's zapdos ex,pokemon,lightning,basic,120,1,fighting,,Team Rocket’s Zapdos ex,B4a,21,2026-08-27,3,True,team_rocket_s_zapdos_ex,True
+team rocket's pincurchin,pokemon,lightning,basic,70,1,fighting,,Team Rocket’s Pincurchin,B4a,24,2026-08-27,1,False,team_rocket_s_pincurchin,True
+team rocket's slowpoke,pokemon,psychic,basic,80,2,darkness,,Team Rocket’s Slowpoke,B4a,25,2026-08-27,1,False,team_rocket_s_slowpoke,True
+team rocket's slowking ex,pokemon,psychic,1,130,3,darkness,team rocket's slowpoke,Team Rocket’s Slowking ex,B4a,26,2026-08-27,3,True,team_rocket_s_slowking_ex,True
+team rocket's drowzee,pokemon,psychic,basic,60,1,darkness,,Team Rocket’s Drowzee,B4a,27,2026-08-27,1,False,team_rocket_s_drowzee,True
+team rocket's hypno,pokemon,psychic,1,90,2,darkness,team rocket's drowzee,Team Rocket’s Hypno,B4a,28,2026-08-27,2,False,team_rocket_s_hypno,True
+team rocket's mr. mime,pokemon,psychic,basic,60,1,darkness,,Team Rocket’s Mr. Mime,B4a,29,2026-08-27,1,False,team_rocket_s_mr_mime,True
+team rocket's mewtwo,pokemon,psychic,basic,100,2,darkness,,Team Rocket’s Mewtwo,B4a,30,2026-08-27,1,False,team_rocket_s_mewtwo,True
+oranguru,pokemon,psychic,basic,100,2,darkness,,Oranguru,B4a,33,2026-08-27,1,False,oranguru_v2,False
+gimmighoul,pokemon,psychic,basic,50,1,darkness,,Gimmighoul,B4a,34,2026-08-27,1,False,gimmighoul_v2,False
+landorus,pokemon,fighting,basic,100,1,grass,,Landorus,B4a,37,2026-08-27,1,False,landorus,True
+team rocket's ekans,pokemon,darkness,basic,60,1,fighting,,Team Rocket’s Ekans,B4a,38,2026-08-27,1,False,team_rocket_s_ekans,True
+team rocket's arbok,pokemon,darkness,1,100,2,fighting,team rocket's ekans,Team Rocket’s Arbok,B4a,39,2026-08-27,1,False,team_rocket_s_arbok,True
+team rocket's grimer,pokemon,darkness,basic,60,2,fighting,,Team Rocket’s Grimer,B4a,40,2026-08-27,1,False,team_rocket_s_grimer,True
+team rocket's muk,pokemon,darkness,1,120,3,fighting,team rocket's grimer,Team Rocket’s Muk,B4a,41,2026-08-27,1,False,team_rocket_s_muk,True
+team rocket's koffing,pokemon,darkness,basic,60,1,fighting,,Team Rocket’s Koffing,B4a,42,2026-08-27,1,False,team_rocket_s_koffing,True
+team rocket's weezing ex,pokemon,darkness,1,140,2,fighting,team rocket's koffing,Team Rocket’s Weezing ex,B4a,43,2026-08-27,3,True,team_rocket_s_weezing_ex,True
+team rocket's sneasel,pokemon,darkness,basic,60,1,grass,,Team Rocket’s Sneasel,B4a,44,2026-08-27,1,False,team_rocket_s_sneasel,True
+togedemaru,pokemon,metal,basic,70,1,fire,,Togedemaru,B4a,45,2026-08-27,1,False,togedemaru_v3,False
+cufant,pokemon,metal,basic,90,3,fire,,Cufant,B4a,46,2026-08-27,1,False,cufant_v2,False
+copperajah,pokemon,metal,1,160,4,fire,cufant,Copperajah,B4a,47,2026-08-27,1,False,copperajah_v2,False
+team rocket's tinkatink,pokemon,metal,basic,60,1,fire,,Team Rocket’s Tinkatink,B4a,48,2026-08-27,1,False,team_rocket_s_tinkatink,True
+team rocket's tinkatuff,pokemon,metal,1,80,2,fire,team rocket's tinkatink,Team Rocket’s Tinkatuff,B4a,49,2026-08-27,1,False,team_rocket_s_tinkatuff,True
+team rocket's tinkaton,pokemon,metal,2,140,2,fire,team rocket's tinkatuff,Team Rocket’s Tinkaton,B4a,50,2026-08-27,2,False,team_rocket_s_tinkaton,True
+gholdengo,pokemon,metal,1,100,1,fire,gimmighoul,Gholdengo,B4a,51,2026-08-27,2,False,gholdengo_v2,False
+garchomp,pokemon,dragon,2,150,1,none,gabite,Garchomp,B4a,54,2026-08-27,1,False,garchomp_v2,False
+duraludon,pokemon,dragon,basic,100,2,none,,Duraludon,B4a,55,2026-08-27,1,False,duraludon_v2,False
+archaludon,pokemon,dragon,1,140,3,none,duraludon,Archaludon,B4a,56,2026-08-27,1,False,archaludon_v2,False
+regidrago,pokemon,dragon,basic,110,2,none,,Regidrago,B4a,57,2026-08-27,1,False,regidrago,True
+team rocket's rattata,pokemon,colorless,basic,40,1,fighting,,Team Rocket’s Rattata,B4a,58,2026-08-27,1,False,team_rocket_s_rattata,True
+team rocket's raticate ex,pokemon,colorless,1,120,0,fighting,team rocket's rattata,Team Rocket’s Raticate ex,B4a,59,2026-08-27,3,True,team_rocket_s_raticate_ex,True
+team rocket's meowth,pokemon,colorless,basic,50,1,fighting,,Team Rocket’s Meowth,B4a,60,2026-08-27,1,False,team_rocket_s_meowth,True
+team rocket's persian,pokemon,colorless,1,100,1,fighting,team rocket's meowth,Team Rocket’s Persian,B4a,61,2026-08-27,1,False,team_rocket_s_persian,True
+team rocket's kecleon,pokemon,colorless,basic,70,1,fighting,,Team Rocket’s Kecleon,B4a,62,2026-08-27,2,False,team_rocket_s_kecleon,True
+happiny,pokemon,colorless,basic,30,0,none,,Happiny,B4a,63,2026-08-27,2,False,happiny,True
+team rocket's thieving machine,item,none,none,0,0,none,,Team Rocket’s Thieving Machine,B4a,67,2026-08-27,1,False,team_rocket_s_thieving_machine,True
+team rocket's goo-zooka,item,none,none,0,0,none,,Team Rocket’s Goo-zooka,B4a,68,2026-08-27,2,False,team_rocket_s_goo_zooka,True
+team rocket's researcher,supporter,none,none,0,0,none,,Team Rocket’s Researcher,B4a,69,2026-08-27,2,False,team_rocket_s_researcher,True
+team rocket's master plan,supporter,none,none,0,0,none,,Team Rocket’s Master Plan,B4a,70,2026-08-27,3,False,team_rocket_s_master_plan,True
+team rocket's boss,supporter,none,none,0,0,none,,Team Rocket’s Boss,B4a,71,2026-08-27,2,False,team_rocket_s_boss,True
+arcade,stadium,none,none,0,0,none,,Arcade,B4a,72,2026-08-27,1,False,arcade,True
+bulbasaur,pokemon,grass,basic,70,2,fire,,Bulbasaur,C1,1,2026-10-29,2,False,bulbasaur_v3,False
+venusaur,pokemon,grass,2,150,3,fire,ivysaur,Venusaur,C1,3,2026-10-29,2,False,venusaur_v2,False
+alolan exeggutor ex,pokemon,grass,1,180,4,fire,exeggcute,Alolan Exeggutor ex,C1,5,2026-10-29,3,True,alolan_exeggutor_ex,True
+combee,pokemon,grass,basic,50,1,lightning,,Combee,C1,7,2026-10-29,1,False,combee_v2,False
+vespiquen,pokemon,grass,1,80,1,lightning,combee,Vespiquen,C1,8,2026-10-29,1,False,vespiquen_v2,False
+deerling,pokemon,grass,basic,60,1,fire,,Deerling,C1,9,2026-10-29,2,False,deerling,True
+sawsbuck,pokemon,grass,1,120,2,fire,deerling,Sawsbuck,C1,10,2026-10-29,1,False,sawsbuck,True
+foongus,pokemon,grass,basic,60,1,fire,,Foongus,C1,11,2026-10-29,1,False,foongus_v2,False
+amoonguss,pokemon,grass,1,100,2,fire,foongus,Amoonguss,C1,12,2026-10-29,1,False,amoonguss_v2,False
+genesect,pokemon,grass,basic,110,2,fire,,Genesect,C1,13,2026-10-29,1,False,genesect_v3,False
+cutiefly,pokemon,grass,basic,30,0,fire,,Cutiefly,C1,14,2026-10-29,1,False,cutiefly_v2,False
+ribombee,pokemon,grass,1,70,1,fire,cutiefly,Ribombee,C1,15,2026-10-29,2,False,ribombee_v2,False
+charmeleon,pokemon,fire,1,80,1,water,charmander,Charmeleon,C1,17,2026-10-29,1,False,charmeleon_v3,False
+volcanion,pokemon,fire,basic,120,2,water,,Volcanion,C1,19,2026-10-29,1,False,volcanion,True
+scorbunny,pokemon,fire,basic,50,1,water,,Scorbunny,C1,22,2026-10-29,1,False,scorbunny_v2,False
+raboot,pokemon,fire,1,70,1,water,scorbunny,Raboot,C1,23,2026-10-29,2,False,raboot_v2,False
+cinderace,pokemon,fire,2,140,1,water,raboot,Cinderace,C1,24,2026-10-29,1,False,cinderace_v2,False
+fuecoco ex,pokemon,fire,basic,130,2,water,,Fuecoco ex,C1,25,2026-10-29,4,True,fuecoco_ex,True
+armarouge,pokemon,fire,1,120,2,water,charcadet,Armarouge,C1,27,2026-10-29,1,False,armarouge,True
+ceruledge,pokemon,fire,1,120,2,water,charcadet,Ceruledge,C1,28,2026-10-29,2,False,ceruledge_v2,False
+blastoise,pokemon,water,2,150,4,lightning,wartortle,Blastoise,C1,31,2026-10-29,2,False,blastoise_v2,False
+seel,pokemon,water,basic,70,1,lightning,,Seel,C1,32,2026-10-29,2,False,seel_v2,False
+dewgong,pokemon,water,1,120,3,metal,seel,Dewgong,C1,33,2026-10-29,2,False,dewgong_v2,False
+cloyster,pokemon,water,1,120,3,metal,shellder,Cloyster,C1,35,2026-10-29,1,False,cloyster_v3,False
+jynx,pokemon,water,basic,80,1,metal,,Jynx,C1,36,2026-10-29,1,False,jynx_v4,False
+lapras,pokemon,water,basic,100,3,metal,,Lapras,C1,37,2026-10-29,1,False,lapras_v3,False
+palkia,pokemon,water,basic,120,2,lightning,,Palkia,C1,38,2026-10-29,2,False,palkia,True
+basculin,pokemon,water,basic,70,1,lightning,,Basculin,C1,39,2026-10-29,1,False,basculin_v2,False
+frogadier,pokemon,water,1,70,1,lightning,froakie,Frogadier,C1,41,2026-10-29,2,False,frogadier_v2,False
+mega greninja ex,pokemon,water,2,200,0,lightning,frogadier,Mega Greninja ex,C1,42,2026-10-29,3,True,mega_greninja_ex,True
+stunfisk,pokemon,lightning,basic,100,2,fighting,,Stunfisk,C1,46,2026-10-29,1,False,stunfisk_v2,False
+pawmi,pokemon,lightning,basic,40,0,fighting,,Pawmi,C1,48,2026-10-29,1,False,pawmi_v3,False
+pawmot,pokemon,lightning,2,120,1,fighting,pawmo,Pawmot,C1,50,2026-10-29,3,False,pawmot_v4,False
+jigglypuff,pokemon,psychic,basic,50,1,metal,,Jigglypuff,C1,51,2026-10-29,2,False,jigglypuff_v4,False
+wigglytuff,pokemon,psychic,1,100,2,metal,jigglypuff,Wigglytuff,C1,52,2026-10-29,1,False,wigglytuff_v3,False
+abra,pokemon,psychic,basic,50,1,darkness,,Abra,C1,53,2026-10-29,2,False,abra_v2,False
+mega mewtwo x ex,pokemon,psychic,basic,180,2,darkness,,Mega Mewtwo X ex,C1,56,2026-10-29,4,True,mega_mewtwo_x_ex,True
+marill,pokemon,psychic,basic,60,1,metal,,Marill,C1,58,2026-10-29,1,False,marill_v2,False
+azumarill,pokemon,psychic,1,120,3,metal,marill,Azumarill,C1,59,2026-10-29,1,False,azumarill_v3,False
+deoxys,pokemon,psychic,basic,100,1,darkness,,Deoxys,C1,62,2026-10-29,2,False,deoxys,True
+lunala,pokemon,psychic,2,150,1,darkness,cosmoem,Lunala,C1,66,2026-10-29,3,False,lunala,True
+sudowoodo,pokemon,fighting,basic,100,2,grass,,Sudowoodo,C1,72,2026-10-29,1,False,sudowoodo_v3,False
+paldean wooper,pokemon,fighting,basic,60,1,grass,,Paldean Wooper,C1,73,2026-10-29,1,False,paldean_wooper_v3,False
+paldean clodsire,pokemon,fighting,1,130,3,grass,paldean wooper,Paldean Clodsire,C1,74,2026-10-29,2,False,paldean_clodsire_v2,False
+larvitar,pokemon,fighting,basic,50,1,grass,,Larvitar,C1,75,2026-10-29,2,False,larvitar_v2,False
+pupitar,pokemon,fighting,1,100,3,grass,larvitar,Pupitar,C1,76,2026-10-29,2,False,pupitar_v3,False
+barboach,pokemon,fighting,basic,60,1,grass,,Barboach,C1,77,2026-10-29,1,False,barboach_v3,False
+whiscash,pokemon,fighting,1,120,3,grass,barboach,Whiscash,C1,78,2026-10-29,1,False,whiscash_v3,False
+rockruff,pokemon,fighting,basic,70,1,grass,,Rockruff,C1,79,2026-10-29,1,False,rockruff_v2,False
+gengar,pokemon,darkness,2,130,1,fighting,haunter,Gengar,C1,83,2026-10-29,2,False,gengar_v3,False
+umbreon,pokemon,darkness,1,90,1,grass,eevee,Umbreon,C1,84,2026-10-29,2,False,umbreon_v2,False
+mega tyranitar ex,pokemon,darkness,2,240,4,grass,pupitar,Mega Tyranitar ex,C1,85,2026-10-29,3,True,mega_tyranitar_ex,True
+seviper,pokemon,darkness,basic,80,1,fighting,,Seviper,C1,86,2026-10-29,1,False,seviper_v3,False
+nickit,pokemon,darkness,basic,60,1,grass,,Nickit,C1,89,2026-10-29,1,False,nickit,True
+thievul,pokemon,darkness,1,100,1,grass,nickit,Thievul,C1,90,2026-10-29,1,False,thievul,True
+mega skarmory ex,pokemon,metal,basic,170,1,fire,,Mega Skarmory ex,C1,91,2026-10-29,3,True,mega_skarmory_ex,True
+dialga,pokemon,metal,basic,120,2,fire,,Dialga,C1,92,2026-10-29,2,False,dialga,True
+ferroseed,pokemon,metal,basic,70,3,fire,,Ferroseed,C1,93,2026-10-29,1,False,ferroseed_v3,False
+solgaleo,pokemon,metal,2,160,3,fire,cosmoem,Solgaleo,C1,95,2026-10-29,2,False,solgaleo,True
+melmetal,pokemon,metal,1,120,3,fire,meltan,Melmetal,C1,97,2026-10-29,2,False,melmetal_v3,False
+mega dragonite ex,pokemon,dragon,2,240,4,none,dragonair,Mega Dragonite ex,C1,100,2026-10-29,5,True,mega_dragonite_ex,True
+giratina ex,pokemon,dragon,basic,150,2,none,,Giratina ex,C1,101,2026-10-29,4,True,giratina_ex_v2,False
+pidgeotto,pokemon,colorless,1,70,1,lightning,pidgey,Pidgeotto,C1,103,2026-10-29,1,False,pidgeotto_v3,False
+bidoof,pokemon,colorless,basic,60,1,fighting,,Bidoof,C1,113,2026-10-29,2,False,bidoof_v3,False
+bibarel,pokemon,colorless,1,120,2,fighting,bidoof,Bibarel,C1,114,2026-10-29,1,False,bibarel_v2,False
+bewear ex,pokemon,colorless,1,160,3,fighting,stufful,Bewear ex,C1,118,2026-10-29,4,True,bewear_ex,True
+sweet honey,item,none,none,0,0,none,,Sweet Honey,C1,119,2026-10-29,2,False,sweet_honey,True
+super potion,item,none,none,0,0,none,,Super Potion,C1,120,2026-10-29,1,False,super_potion,True
+max repel,item,none,none,0,0,none,,Max Repel,C1,121,2026-10-29,1,False,max_repel,True
+full heal,item,none,none,0,0,none,,Full Heal,C1,122,2026-10-29,1,False,full_heal,True
+eviolite,tool,none,none,0,0,none,,Eviolite,C1,123,2026-10-29,1,False,eviolite,True
+light ball,tool,none,none,0,0,none,,Light Ball,C1,124,2026-10-29,1,False,light_ball,True
+lorelei,supporter,none,none,0,0,none,,Lorelei,C1,125,2026-10-29,2,False,lorelei,True
+blue's provocation,supporter,none,none,0,0,none,,Blue’s Provocation,C1,126,2026-10-29,2,False,blue_s_provocation,True
+serena's choice,supporter,none,none,0,0,none,,Serena’s Choice,C1,127,2026-10-29,2,False,serena_s_choice,True
+rika,supporter,none,none,0,0,none,,Rika,C1,128,2026-10-29,2,False,rika,True
+poke mart guy,supporter,none,none,0,0,none,,Poké Mart Guy,C1,129,2026-10-29,2,False,poke_mart_guy,True
+rising star,supporter,none,none,0,0,none,,Rising Star,C1,130,2026-10-29,2,False,rising_star,True
+abandoned station,stadium,none,none,0,0,none,,Abandoned Station,C1,131,2026-10-29,1,False,abandoned_station,True
+mega mewtwo y ex,pokemon,psychic,basic,170,1,darkness,,Mega Mewtwo Y ex,PROMO-C,2,2026-10-29,1,True,mega_mewtwo_y_ex,True
+inkay,pokemon,psychic,basic,60,1,darkness,,Inkay,PROMO-C,4,2026-10-29,1,False,inkay_v2,False
+malamar,pokemon,psychic,1,90,1,darkness,inkay,Malamar,PROMO-C,5,2026-10-29,1,False,malamar_v3,False
+genome converter y,item,none,none,0,0,none,,Genome Converter Y,PROMO-C,9,2026-10-29,1,False,genome_converter_y,True
+mew,pokemon,psychic,basic,70,1,darkness,,Mew,SP1,-3,2026-10-29,3,False,mew_v3,False
+totodile,pokemon,water,basic,70,2,lightning,,Totodile,SP1,6,2026-10-29,1,False,totodile_v2,False
+turtwig,pokemon,grass,basic,70,2,fire,,Turtwig,SP1,10,2026-10-29,1,False,turtwig_v2,False
+tepig,pokemon,fire,basic,70,2,water,,Tepig,SP1,14,2026-10-29,1,False,tepig_v2,False
