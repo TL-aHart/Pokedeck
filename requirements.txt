@@ -5,3 +5,5 @@ matplotlib>=3.8
 requests
 joblib
 pytest
+flask>=3.0
+openpyxl>=3.1
