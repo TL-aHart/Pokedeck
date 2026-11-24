@@ -156,7 +156,7 @@
     $('#res-title').textContent = r.title;
     $('#res-reason').textContent = r.reason;
     $('#res-basis').innerHTML = r.basis.map(b => `<span class="tag tag-neutral">${esc(b)}</span>`).join('');
-    $('#res-win').textContent = r.winPct + '%';
+    $('#res-win').textContent = r.winPct == null ? '—' : r.winPct + '%';
     $('#res-conf').textContent = r.confidence;
     $('#res-groups').innerHTML = r.groups.map(g => `
       <div class="deck-col"><h4>${esc(g.name)}</h4>
@@ -166,7 +166,7 @@
     const section = $('#results');
     section.hidden = false;
     $('#res-bar').style.width = '0';
-    requestAnimationFrame(() => requestAnimationFrame(() => ($('#res-bar').style.width = r.winPct + '%')));
+    requestAnimationFrame(() => requestAnimationFrame(() => ($('#res-bar').style.width = (r.winPct ?? 0) + '%')));
     window.scrollTo({ top: section.getBoundingClientRect().top + window.scrollY - 24, behavior: 'smooth' });
   }
 

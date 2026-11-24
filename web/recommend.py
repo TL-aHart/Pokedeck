@@ -11,21 +11,28 @@ from core.utils import normalize_name, load_cards
 from core.type_chart import type_advantage
 import pandas as pd
 
+# PLACEHOLDER UNTIL THE MODEL IS UP AND RUNNING, GET RID OF TRY CLAUSE LATER
+try:
+    from core.recommender import recommend_counter
+    MODEL_READY = True
+except ModuleNotFoundError as e:
+    if e.name != "core.recommender":   # Reilly's file exists but THAT FILE is missing a package
+        raise
+    recommend_counter, MODEL_READY = None, False
+
 CARDS = load_cards()
 PRIMARY = CARDS[CARDS["is_primary"]]
-
+NAMES = CARDS.set_index("card_id")["name"]
+KINDS = CARDS.set_index("card_id")["type"]
 TYPES = [t.capitalize() for t in config.ENERGY_TYPES]   # UI labels
-def to_elements(ui_type): return ui_type.lower()        # UI to data
-def to_ui(element): return element.capitalize()         # data to UI
-
 ICON_PATH = {"Fire": "a/ad", "Water": "1/11", "Grass": "2/2e", "Lightning": "0/04", "Psychic": "e/ef",
              "Fighting": "4/48", "Darkness": "a/ab", "Metal": "6/64", "Dragon": "8/8a", "Colorless": "1/1d"}
-
 CHART = pd.read_csv(config.TYPE_CHART_CSV, index_col="attacker")
-def best_counter(defender):
-    col = CHART[defender]
-    return col.idxmax() if col.max() > 0 else "metal"   # nothing is super effective against dragon, so... metal?
+DECK_TRAINERS = [(2, "Professor's Research"), (2, "Poké Ball"), (2, "Sabrina"), (1, "Giovanni"), (1, "X Speed")]
+DECK_SIZE = config.DECK_SIZE
+LOOKUP = PRIMARY.set_index("name_key")["card_id"]
 
+# THIS IS FAKE DATA, NEED TO IMPLEMENT DECK SCRAPING
 DECKS = {
     "Fire": [(2, "Charmander"), (2, "Charmeleon"), (2, "Charizard ex"), (2, "Moltres ex"), (2, "Ninetales"), (1, "Vulpix"), (1, "Ponyta")],
     "Water": [(2, "Froakie"), (2, "Frogadier"), (2, "Greninja"), (2, "Articuno ex"), (2, "Squirtle"), (2, "Staryu")],
@@ -37,10 +44,16 @@ DECKS = {
     "Metal": [(2, "Skarmory"), (2, "Bronzor"), (2, "Bronzong"), (2, "Dialga ex"), (2, "Melmetal"), (2, "Meltan")],
 }
 
-DECK_TRAINERS = [(2, "Professor's Research"), (2, "Poké Ball"), (2, "Sabrina"), (1, "Giovanni"), (1, "X Speed")]
-DECK_SIZE = config.DECK_SIZE
 
-LOOKUP = PRIMARY.set_index("name_key")["card_id"]
+def to_elements(ui_type):
+    return ui_type.lower()        # UI to data
+
+def to_ui(element):
+    return element.capitalize()         # data to UI
+
+def best_counter(defender):
+    col = CHART[defender]
+    return col.idxmax() if col.max() > 0 else "metal"   # nothing is super effective against dragon, so... metal?
 
 def to_card_ids(names):
     return [LOOKUP.get(normalize_name(n)) for n in names]
@@ -48,34 +61,22 @@ def to_card_ids(names):
 def type_icon(t):
     return f"https://archives.bulbagarden.net/media/upload/{ICON_PATH[t]}/{t}-attack.png"
 
-def recommend(enemy_type, known_count, basis):
+def recommend(enemy_type, card_ids, basis, features=None):
     element = to_elements(enemy_type)
-    counter_el  = best_counter(element)
-    counter = to_ui(counter_el)
-    share = type_advantage(CHART, counter_el, element)
-    pokemon = list(DECKS[counter])
-    trainers = list(DECK_TRAINERS)
-    fill = DECK_SIZE - sum(n for n, _ in pokemon) - sum(n for n, _ in trainers)
-    if fill > 0:
-        trainers.append((fill, "Potion"))
+    pick = recommend_counter if MODEL_READY else mock_counter
+    return build_response(pick(element, card_ids, features), element, basis)
 
-    win = min(0.84, 0.58 + known_count * 0.035 + (len(enemy_type) % 3) * 0.01)
-    reason = (f"Nothing hits {enemy_type} for weakness damage, so high-HP {counter} attackers are the steadiest pick."
-     if share == 0 else
-     f"{share:.0%} of {enemy_type} Pokémon are weak to {counter}, so these attackers deal bonus damage.")
-
-    to_cards = lambda lst: [{"n": n, "name": name} for n, name in lst]
+def mock_counter(enemy_element, enemy_card_ids, enemy_features=None):
+    """Stand-in for Reilly's recommend_counter. Same inputs, same output."""
+    counter_el = best_counter(enemy_element)
+    cards = DECKS[to_ui(counter_el)] + DECK_TRAINERS          # [(count, name), ...]
+    ids = to_card_ids([name for _, name in cards])
     return {
-        "title": f"{counter} deck",
-        "icon": type_icon(counter),
-        "reason": reason,
-        "basis": basis,
-        "winPct": round(win * 100),
-        "confidence": "High" if known_count >= 6 else "Medium" if known_count >= 2 else "Low",
-        "groups": [
-            {"name": "Pokémon", "cards": to_cards(pokemon)},
-            {"name": "Trainers", "cards": to_cards(trainers)},
-        ],
+        "counter_element": counter_el,
+        "archetype": None,
+        "deck": [(cid, n) for (n, _), cid in zip(cards, ids)],  # [(card_id, count), ...]
+        "win_prob": None,      # STILL TO BE IMPLEMENTED
+        "confidence": None,
     }
 
 # Helper function
@@ -100,4 +101,34 @@ def deck_from_upload(df):
     enemy_el = pokemon.groupby("element")["count"].sum().idxmax()
     decks = pd.DataFrame({"deck_id": ["upload"], "archetype": ["unknown"]})
     feats = features.deck_features(deck_cards, decks, CARDS).drop(columns=["id", "label"])
-    return enemy_el, feats, int(deck_cards["count"].sum()), unknown
+    return enemy_el, feats, int(deck_cards["count"].sum()), unknown, deck_cards["card_id"].tolist()
+
+def check_deck(deck):
+    """Trust but verify, DON'T send the browser a deck that breaks the game rules"""
+    unknown = [cid for cid, _ in deck if cid not in NAMES.index]
+    total = sum(n for _, n in deck)
+    if unknown or total != config.DECK_SIZE or any(n > config.MAX_COPIES for _, n in deck):
+        raise ValueError(f"Recommender returned an invalid deck: total={total}, unknown={unknown[:3]}")
+
+def build_response(result, enemy_element, basis):
+    counter_el = result["counter_element"]
+    counter = to_ui(counter_el)
+    check_deck(result["deck"])
+    to_cards = lambda keep: [{"n": n, "name": NAMES[cid]} for cid, n in result["deck"] if keep(KINDS[cid])]
+    share = type_advantage(CHART, counter_el, enemy_element)
+    enemy = to_ui(enemy_element)
+    reason = result.get("reason") or (
+        f"Nothing hits {enemy} for weakness damage, so high-HP {counter} attackers are the steadiest pick."
+        if share == 0 else
+        f"{share:.0%} of {enemy} Pokémon are weak to {counter}, so these attackers deal bonus damage.")
+    win, conf = result.get("win_prob"), result.get("confidence")
+    return {
+        "title": result.get("archetype") or f"{counter} deck",
+        "icon": type_icon(counter),
+        "reason": reason,
+        "basis": basis,
+        "winPct": None if win is None else round(win * 100),
+        "confidence": "—" if conf is None else "High" if conf >= 0.75 else "Medium" if conf >= 0.5 else "Low",
+        "groups": [{"name": "Pokémon", "cards": to_cards(lambda t: t == "pokemon")},
+                   {"name": "Trainers", "cards": to_cards(lambda t: t != "pokemon")}],
+    }

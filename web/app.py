@@ -42,7 +42,7 @@ def recommend_scout():
     basis = [f"Enemy: {enemy}"] + [name if cid else f"Unrecognized: {name}"
                                    for name, cid in zip(known, ids)]
     card_ids = [cid for cid in ids if cid]
-    return jsonify(recommend(enemy, len(card_ids), basis))
+    return jsonify(recommend(enemy, card_ids, basis))
 
 
 @app.post("/api/recommend/upload")
@@ -66,13 +66,13 @@ def recommend_upload():
         return jsonify(error=f'"{f.filename}" has no card rows.'), 400
 
     try:
-        enemy_el, feats, n_cards, unknown = deck_from_upload(df)
+        enemy_el, feats, n_cards, unknown, card_ids = deck_from_upload(df)
     except ValueError as e:
         return jsonify(error=str(e)), 400
     enemy = to_ui(enemy_el)
     basis = [f"{n_cards} cards from {f.filename}", f"Detected type: {enemy}"]
     basis += [f"Unrecognized: {n}" for n in unknown[:3]]
-    return jsonify(recommend(enemy, n_cards, basis))
+    return jsonify(recommend(enemy, card_ids, basis, feats))
 
 
 if __name__ == "__main__":
