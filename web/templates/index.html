@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PokeDeck</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/organic.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/app.css') }}">
+  <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js" defer></script>
+</head>
+<body>
+  <nav class="nav wrap topnav">
+    <div class="nav-brand brand"><span class="brand-dot"></span>PokeDeck</div>
+    <span class="tag tag-accent-2">Prototype · mock model</span>
+  </nav>
+
+  <main class="wrap">
+    <header class="hero">
+      <h1>Tell us who you're facing. We'll help you beat 'em!</h1>
+      <p>Give a few details about your opponent's deck, or upload their full list, and the model recommends a deck to beat it.</p>
+    </header>
+
+    <section class="panel">
+      <div class="tabs" role="tablist">
+        <button class="tab" role="tab" data-mode="scout" aria-selected="true">Quick scout</button>
+        <button class="tab" role="tab" data-mode="upload" aria-selected="false">Upload decklist</button>
+      </div>
+
+      <div class="card form-card">
+        <!-- Mode 1: Quick scout -->
+        <div id="mode-scout" class="stack">
+          <div class="group">
+            <div class="group-head"><h3>Enemy type</h3><span class="tag tag-accent">Required</span></div>
+            <div class="type-grid" id="type-grid">
+              {% for t in types %}
+              <button type="button" class="type-btn" data-type="{{ t.name }}" aria-pressed="false">
+                <img src="{{ t.icon }}" alt="">{{ t.name }}
+              </button>
+              {% endfor %}
+            </div>
+          </div>
+
+          <div class="group">
+            <div class="group-head"><h3>Known Pokémon</h3><span class="muted">Optional · up to 4</span></div>
+            <div class="slot-grid">
+              {% for i in range(1, 5) %}
+              <div class="slot" data-db="pokemon"><input class="input" name="pokemon" placeholder="Pokémon {{ i }}" autocomplete="off"></div>
+              {% endfor %}
+            </div>
+          </div>
+
+          <div class="slot-grid">
+            <div class="group">
+              <div class="group-head"><h3>Trainer card</h3><span class="muted">Optional</span></div>
+              <div class="slot" data-db="trainer"><input class="input" name="trainer" placeholder="Search Trainers" autocomplete="off"></div>
+            </div>
+            <div class="group">
+              <div class="group-head"><h3>Item card</h3><span class="muted">Optional</span></div>
+              <div class="slot" data-db="item"><input class="input" name="item" placeholder="Search Items" autocomplete="off"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Mode 2: Upload -->
+        <div id="mode-upload" class="stack" hidden>
+          <div class="group">
+            <h3 style="font-size:21px;margin:0">Opponent decklist</h3>
+            <p class="muted" style="margin:0;font-size:14px">A .csv or .xlsx file listing the cards your opponent plays. The first row should be column headers: card_name, count</p>
+          </div>
+          <div id="dropzone" class="dropzone">
+            <span class="drop-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" x2="12" y1="3" y2="15"/></svg></span>
+            <div class="drop-title">Drop a file here, or click to browse</div>
+            <div class="muted">CSV or XLSX</div>
+          </div>
+          <div id="file-info" hidden>
+            <div class="stack" style="gap:14px">
+              <div class="file-row">
+                <span class="tag tag-accent-2" id="file-name" style="font-size:13px;padding:6px 14px"></span>
+                <span class="muted" id="file-summary"></span>
+                <button type="button" class="btn btn-ghost" id="remove-file">Remove</button>
+              </div>
+              <div class="preview"><table class="table"><thead id="preview-head"></thead><tbody id="preview-body"></tbody></table></div>
+              <div class="muted" id="preview-more"></div>
+            </div>
+          </div>
+          <input type="file" id="file-input" accept=".csv,.xlsx" hidden>
+        </div>
+
+        <div id="form-error" class="error" hidden></div>
+
+        <div class="actions">
+          <button type="button" class="btn btn-primary" id="generate" disabled>Build my counter deck</button>
+          <span class="muted" id="hint">Pick the enemy type to continue.</span>
+        </div>
+      </div>
+    </section>
+
+    <section id="results" class="results" hidden>
+      <div class="results-top">
+        <div class="card counter-card">
+          <div class="card-kicker">Recommended counter</div>
+          <h2><img id="res-icon" alt=""><span id="res-title"></span></h2>
+          <p id="res-reason"></p>
+          <div class="chips" id="res-basis"></div>
+        </div>
+        <div class="card win-card">
+          <div class="card-kicker">Win probability</div>
+          <div class="win-num" id="res-win"></div>
+          <div class="bar"><div id="res-bar" style="width:0"></div></div>
+          <div class="conf">Model confidence <span class="tag tag-accent" id="res-conf"></span></div>
+        </div>
+      </div>
+      <div class="card deck-card">
+        <div class="deck-head">
+          <h3>Decklist</h3>
+          <button type="button" class="btn btn-secondary" id="copy-list">Copy list</button>
+        </div>
+        <div class="deck-grid" id="res-groups"></div>
+      </div>
+    </section>
+  </main>
+
+  <script>window.CARD_DB = {{ card_db|tojson }};</script>
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
