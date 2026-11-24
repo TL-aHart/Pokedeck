@@ -43,7 +43,7 @@
       list = list.slice(0, 6);
       menu.innerHTML = list.length
         ? list.map(([n, sub]) => `<button type="button" data-name="${esc(n)}"><span>${esc(n)}</span><span class="sub">${typeIcons[sub] ? `<img src="${typeIcons[sub]}" alt="">` : ''}${esc(sub)}</span></button>`).join('')
-        : '<div class="empty">No match in the card list. Free text is accepted.</div>';
+        : '<div class="empty">No match in the card list.</div>';
     };
     input.addEventListener('focus', () => { render(); menu.hidden = false; });
     input.addEventListener('input', () => { render(); menu.hidden = false; });

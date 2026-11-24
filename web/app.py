@@ -8,7 +8,7 @@ Description:
 
 from flask import Flask, jsonify, render_template, request
 import pandas as pd
-from web.recommend import TYPES, recommend, type_icon, PRIMARY, CARDS, deck_from_upload, to_ui
+from web.recommend import TYPES, recommend, type_icon, PRIMARY, CARDS, deck_from_upload, to_ui, to_card_ids
 
 app = Flask(__name__)
 app.config["MAX_CONTENT_LENGTH"] = 5 * 1024 * 1024  # 5 MB upload cap
@@ -38,7 +38,11 @@ def recommend_scout():
         return jsonify(error="Pick the enemy type to continue."), 400
     known = [c.strip() for c in data.get("pokemon", []) if c and c.strip()][:4]
     known += [c.strip() for c in (data.get("trainer"), data.get("item")) if c and c.strip()]
-    return jsonify(recommend(enemy, len(known), [f"Enemy: {enemy}", *known]))
+    ids = to_card_ids(known)
+    basis = [f"Enemy: {enemy}"] + [name if cid else f"Unrecognized: {name}"
+                                   for name, cid in zip(known, ids)]
+    card_ids = [cid for cid in ids if cid]
+    return jsonify(recommend(enemy, len(card_ids), basis))
 
 
 @app.post("/api/recommend/upload")
